@@ -1,0 +1,369 @@
+{
+	"ads":
+	{
+		"splash_ad": "admob",
+		"banner_ad": "auto",
+		"mrec_ad": "auto",
+		"inter_ad": "auto",
+
+		"splash_ad_identifier": "identifier_1",
+		"inter_ad_identifier": "identifier_1",
+		"banner_ad_identifier": "identifier_2",
+		"mrec_ad_identifier": "identifier_2",
+
+		"interval_awal": 2,
+		"interval_iron": 5,
+		"interval_fan": 5,
+		"interval_unity": 5,
+		"interval_admob": 5,
+		"interval_max": 5,
+		"interval_startapp": 3,
+
+		"minimum_time_iron": 60,
+		"minimum_time_fan": 60,
+		"minimum_time_unity": 60,
+		"minimum_time_admob": 61,
+		"minimum_time_max": 60,
+		"minimum_time_startapp": 30,
+
+		"kemungkinan_iron": 0,
+		"kemungkinan_fan": 30,
+		"kemungkinan_unity": 0,
+		"kemungkinan_admob": 100,
+		"kemungkinan_max": 30,
+		"kemungkinan_startapp": 10,
+
+		"iron_appkey": "ironAppKey",
+
+		"fan_banner": "1063993554244665_1064002727577081",
+		"fan_inter": "1063993554244665_1064003420910345",
+
+		"unity_game_id": "unityGamneId",
+		"unity_banner": "unityBanner",
+		"unity_inter": "unityInter",
+
+		"admob_open": "ca-app-pub-1598318147841886/6057979956",
+		"admob_banner": "ca-app-pub-1598318147841886/3987374484",
+		"admob_inter": "ca-app-pub-1598318147841886/6843270987",
+
+		"max_banner": "331a85a51aef9dee",
+		"max_inter": "0f0673f3dccbb12f",
+
+		"startapp_id": "205285408",
+
+		"app_live_store": "auto",
+		"shopee_aff": "https://shope.ee/AUG8gxNBGz"
+	},
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "Dj Tak Sawang",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang/tray.png"
+		},
+		{
+			"id": 2,
+			"name_category": "Dj Tak Sawang 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_2/tray.png"
+		},
+		{
+			"id": 3,
+			"name_category": "Dj Tak Sawang 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_3/tray.png"
+		},
+		{
+			"id": 4,
+			"name_category": "Dj Tak Sawang 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_4/tray.png"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "Dj Tak Sawang",
+			"title": "Angin Datang Kasih Kabar",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang/Angin_Datang_Kasih_Kabar.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 2,
+			"name_category": "Dj Tak Sawang",
+			"title": "Dj Asik Bangkek",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang/Dj_Asik_Bangkek.mp3",
+			"duration": "324",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 3,
+			"name_category": "Dj Tak Sawang",
+			"title": "DJ Bara Bere",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang/DJ_Bara_Bere.mp3",
+			"duration": "265",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 4,
+			"name_category": "Dj Tak Sawang",
+			"title": "DJ Nana nana",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang/DJ_Nana_nana.mp3",
+			"duration": "200",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 5,
+			"name_category": "Dj Tak Sawang",
+			"title": "Engkau Sayangku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang/Engkau_Sayangku.mp3",
+			"duration": "325",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 6,
+			"name_category": "Dj Tak Sawang 2",
+			"title": "DJ Asik",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_2/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_2/DJ_Asik.mp3",
+			"duration": "351",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 7,
+			"name_category": "Dj Tak Sawang 2",
+			"title": "DJ Bara Bere",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_2/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_2/DJ_Bara_Bere.mp3",
+			"duration": "271",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 8,
+			"name_category": "Dj Tak Sawang 2",
+			"title": "DJ Bila Kamu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_2/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_2/DJ_Bila_Kamu.mp3",
+			"duration": "391",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 9,
+			"name_category": "Dj Tak Sawang 2",
+			"title": "DJ Bukan Sekejap",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_2/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_2/DJ_Bukan_Sekejap.mp3",
+			"duration": "403",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 10,
+			"name_category": "Dj Tak Sawang 2",
+			"title": "DJ Cuman Kamu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_2/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_2/DJ_Cuman_Kamu.mp3",
+			"duration": "415",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 11,
+			"name_category": "Dj Tak Sawang 2",
+			"title": "DJ Ganteng Tenan",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_2/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_2/DJ_Ganteng_Tenan.mp3",
+			"duration": "387",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 12,
+			"name_category": "Dj Tak Sawang 2",
+			"title": "DJ Ku Kira",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_2/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_2/DJ_Ku_Kira.mp3",
+			"duration": "217",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 13,
+			"name_category": "Dj Tak Sawang 2",
+			"title": "DJ Nyampe Bawah",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_2/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_2/DJ_Nyampe_Bawah.mp3",
+			"duration": "241",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 14,
+			"name_category": "Dj Tak Sawang 2",
+			"title": "DJ Pok Ame Ame",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_2/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_2/DJ_Pok_Ame_Ame.mp3",
+			"duration": "336",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 15,
+			"name_category": "Dj Tak Sawang 3",
+			"title": "Akimilaku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_3/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_3/Akimilaku.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 16,
+			"name_category": "Dj Tak Sawang 3",
+			"title": "Berawal dari..",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_3/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_3/Berawal_dari...mp3",
+			"duration": "225",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 17,
+			"name_category": "Dj Tak Sawang 3",
+			"title": "Bila Memang Engkau",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_3/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_3/Bila_Memang_Engkau.mp3",
+			"duration": "357",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 18,
+			"name_category": "Dj Tak Sawang 3",
+			"title": "DJ Bond Bond",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_3/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_3/DJ_Bond_Bond.mp3",
+			"duration": "285",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 19,
+			"name_category": "Dj Tak Sawang 3",
+			"title": "DJ Mungkin Saat Ini Ku Akan",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_3/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_3/DJ_Mungkin_Saat_Ini_Ku_Akan.mp3",
+			"duration": "267",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 20,
+			"name_category": "Dj Tak Sawang 3",
+			"title": "DJ Nang Ning Nong",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_3/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_3/DJ_Nang_Ning_Nong.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 21,
+			"name_category": "Dj Tak Sawang 3",
+			"title": "DJ Nehi Nehi",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_3/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_3/DJ_Nehi_Nehi.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 22,
+			"name_category": "Dj Tak Sawang 3",
+			"title": "I Love Yuu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_3/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_3/I_Love_Yuu.mp3",
+			"duration": "317",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 23,
+			"name_category": "Dj Tak Sawang 3",
+			"title": "Tak Pernah Kurasakan",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_3/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_3/Tak_Pernah_Kurasakan.mp3",
+			"duration": "211",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 24,
+			"name_category": "Dj Tak Sawang 4",
+			"title": "Dalamodalamo",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_4/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_4/Dalamodalamo.mp3",
+			"duration": "335",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 25,
+			"name_category": "Dj Tak Sawang 4",
+			"title": "Dalam Sepiku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_4/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_4/Dalam_Sepiku.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 26,
+			"name_category": "Dj Tak Sawang 4",
+			"title": "Dengarkanlah Disepanjang Malam",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_4/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_4/Dengarkanlah_Disepanjang_Malam.mp3",
+			"duration": "387",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 27,
+			"name_category": "Dj Tak Sawang 4",
+			"title": "DJ Auk Ah",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_4/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_4/DJ_Auk_Ah.mp3",
+			"duration": "384",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 28,
+			"name_category": "Dj Tak Sawang 4",
+			"title": "Dj Enak Banget",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_4/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_4/Dj_Enak_Banget.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 29,
+			"name_category": "Dj Tak Sawang 4",
+			"title": "DJ Mbuh",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_4/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_4/DJ_Mbuh.mp3",
+			"duration": "236",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 30,
+			"name_category": "Dj Tak Sawang 4",
+			"title": "Enak Juga Ini",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_4/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_4/Enak_Juga_Ini.mp3",
+			"duration": "306",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 31,
+			"name_category": "Dj Tak Sawang 4",
+			"title": "Kamu Gateell",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_4/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_4/Kamu_Gateell.mp3",
+			"duration": "401",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 32,
+			"name_category": "Dj Tak Sawang 4",
+			"title": "Keteng keteng",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_4/tray.png",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtaksawangngamen5terbaru/Dj_Tak_Sawang_4/Keteng_keteng.mp3",
+			"duration": "296",
+			"lyrics": "Tidak Ada Lirik"
+		}
+	]
+}
