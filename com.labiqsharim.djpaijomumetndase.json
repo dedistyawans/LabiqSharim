@@ -1,0 +1,550 @@
+{
+	"ads":
+	{
+		"splash_ad": "auto",
+		"banner_ad": "auto",
+		"mrec_ad": "auto",
+		"inter_ad": "auto",
+
+		"splash_ad_identifier": "identifier_1",
+		"inter_ad_identifier": "identifier_1",
+		"banner_ad_identifier": "identifier_2",
+		"mrec_ad_identifier": "identifier_2",
+
+		"interval_awal": 2,
+		"interval_iron": 5,
+		"interval_fan": 5,
+		"interval_unity": 5,
+		"interval_admob": 5,
+		"interval_max": 5,
+		"interval_startapp": 3,
+
+		"minimum_time_iron": 60,
+		"minimum_time_fan": 60,
+		"minimum_time_unity": 60,
+		"minimum_time_admob": 61,
+		"minimum_time_max": 60,
+		"minimum_time_startapp": 30,
+
+		"kemungkinan_iron": 0,
+		"kemungkinan_fan": 0,
+		"kemungkinan_unity": 0,
+		"kemungkinan_admob": 0,
+		"kemungkinan_max": 0,
+		"kemungkinan_startapp": 30,
+
+		"iron_appkey": "-",
+
+		"fan_banner": "-",
+		"fan_mrec": "-",
+		"fan_inter": "-",
+
+		"unity_game_id": "-",
+		"unity_banner": "-",
+		"unity_inter": "-",
+
+		"admob_open": "-",
+		"admob_banner": "-",
+		"admob_inter": "-",
+
+		"max_banner": "-",
+		"max_mrec": "-",
+		"max_inter": "-",
+
+		"startapp_id": "205285408",
+
+		"app_live_store": "auto",
+		"shopee_aff": "https://shope.ee/AUG8gxNBGz"
+	},
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "DJ Paijo Mumet Ndase",
+			"image": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/tray.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "DJ Viral Full Bass",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "DJ Paijo Mumet Ndase",
+			"title": "DJ JUNOT OZAN +(lumpuhkan lah ingatan ku )ini yang kalian cari",
+			"image": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/paijo_1.mp3",
+			"duration": "199",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 2,
+			"name_category": "DJ Paijo Mumet Ndase",
+			"title": "DJ TELAHAPE YUDHA REMIX SOUND RIOTSTC✔️ VIRAL FYP TIKTOK || DJ KALAH LAGI",
+			"image": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/paijo_10.mp3",
+			"duration": "357",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 3,
+			"name_category": "DJ Paijo Mumet Ndase",
+			"title": "Thailand Style x Slow Bass ❗️ Joko Tingkir Ngombe Dawet ( DJ Topeng Remix )",
+			"image": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/paijo_11.mp3",
+			"duration": "346",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 4,
+			"name_category": "DJ Paijo Mumet Ndase",
+			"title": "BPD MIX - ??? JOMBLO LAGI REMIX ?️?️ LAGU ACARA TERBARU ASIK ASIK // DJ TETHY 2022",
+			"image": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/paijo_12.mp3",
+			"duration": "292",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 5,
+			"name_category": "DJ Paijo Mumet Ndase",
+			"title": "DJ BILA KAMU TAK LAGI DENGANKU//// HARGA DIRIKU (WALI BAND) VIRAL TIKTOK REMIX FULL BASS 2022",
+			"image": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/paijo_13.mp3",
+			"duration": "396",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 6,
+			"name_category": "DJ Paijo Mumet Ndase",
+			"title": "Dj chica loca slow bass by zein fvnky Slowed",
+			"image": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/paijo_14.mp3",
+			"duration": "235",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 7,
+			"name_category": "DJ Paijo Mumet Ndase",
+			"title": "Dj harga diriku - Wali Band (Bootleg)",
+			"image": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/paijo_15.mp3",
+			"duration": "283",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 8,
+			"name_category": "DJ Paijo Mumet Ndase",
+			"title": "DJ PAIJO MUMET NDASE VIANAJA21 SOUND REXY ?☠️ VIRAL TIK TOK TERBARU 2022",
+			"image": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/paijo_2.mp3",
+			"duration": "594",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 9,
+			"name_category": "DJ Paijo Mumet Ndase",
+			"title": "LAGI VIRALL!!! SI TOWO SI PUTAR BALE ( OwenDSaint Ft Steve Wuaten )",
+			"image": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/paijo_3.mp3",
+			"duration": "372",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 10,
+			"name_category": "DJ Paijo Mumet Ndase",
+			"title": "Sound Viral Di Tiktok RIZKI.SZ!!! Dj Kekasih Halal (Dia Gadis Berkerudung Merah) [Bootleg]",
+			"image": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/paijo_4.mp3",
+			"duration": "274",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 11,
+			"name_category": "DJ Paijo Mumet Ndase",
+			"title": "Tiara (Remix)",
+			"image": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/paijo_5.mp3",
+			"duration": "421",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 12,
+			"name_category": "DJ Paijo Mumet Ndase",
+			"title": "DJ RAHMAD FAUZI SAYANG SEKALI || Dj Cuma Jago Basindir Viral Fyp TikTok",
+			"image": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/paijo_6.mp3",
+			"duration": "315",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 13,
+			"name_category": "DJ Paijo Mumet Ndase",
+			"title": "DJ PAK WONG VONG STYLE THAILAND VIRAL TIK TOK TERBARU 2022 YANG KALIAN CARI ! DJ HENGKY",
+			"image": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/paijo_7.mp3",
+			"duration": "359",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 14,
+			"name_category": "DJ Paijo Mumet Ndase",
+			"title": "DJ POK AME AME BELALANG KUPU KUPU REMIX FULL BASS ♫ LAGU DJ TERBARU REMIX ORIGINAL 2022",
+			"image": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/paijo_8.mp3",
+			"duration": "315",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 15,
+			"name_category": "DJ Paijo Mumet Ndase",
+			"title": "DJ SENYUMAN MU MEMBUAT KU TERSENYUM MALU SLOW REMIX FULL BASS VIRAL TIKTOK",
+			"image": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Paijo_Mumet_Ndase/paijo_9.mp3",
+			"duration": "287",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 16,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_1.mp3",
+			"duration": "198",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 17,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_10.mp3",
+			"duration": "212",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 18,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_11.mp3",
+			"duration": "290",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 19,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_12.mp3",
+			"duration": "256",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 20,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_13.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 21,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_14.mp3",
+			"duration": "261",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 22,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_15.mp3",
+			"duration": "302",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 23,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_16.mp3",
+			"duration": "255",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 24,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_17.mp3",
+			"duration": "283",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 25,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_18.mp3",
+			"duration": "355",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 26,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_19.mp3",
+			"duration": "351",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 27,
+			"name_category": "DJ Viral Full Bass",
+			"title": "dj cidro 2 cindi chintya dewi selow remix terbaru viral tik tok 2021 jpc dj tatang axl 9017849950599434611",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_2.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 28,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_20.mp3",
+			"duration": "407",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 29,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 21",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_21.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 30,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 22",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_22.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 31,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 23",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_23.mp3",
+			"duration": "381",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 32,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 24",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_24.mp3",
+			"duration": "303",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 33,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 25",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_25.mp3",
+			"duration": "403",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 34,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 26",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_26.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 35,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 27",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_27.mp3",
+			"duration": "257",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 36,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 28",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_28.mp3",
+			"duration": "282",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 37,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 29",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_29.mp3",
+			"duration": "242",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 38,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_3.mp3",
+			"duration": "224",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 39,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 30",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_30.mp3",
+			"duration": "313",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 40,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 31",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_31.mp3",
+			"duration": "300",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 41,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 32",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_32.mp3",
+			"duration": "245",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 42,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 33",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_33.mp3",
+			"duration": "253",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 43,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 34",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_34.mp3",
+			"duration": "441",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 44,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 35",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_35.mp3",
+			"duration": "324",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 45,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 36",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_36.mp3",
+			"duration": "281",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 46,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 37",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_37.mp3",
+			"duration": "281",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 47,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 38",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_38.mp3",
+			"duration": "248",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 48,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_4.mp3",
+			"duration": "272",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 49,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_5.mp3",
+			"duration": "259",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 50,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_6.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 51,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_7.mp3",
+			"duration": "173",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 52,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_8.mp3",
+			"duration": "270",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 53,
+			"name_category": "DJ Viral Full Bass",
+			"title": "DJ Viral 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpaijomumetndase/DJ_Viral_Full_Bass/DJ_Viral_9.mp3",
+			"duration": "284",
+			"lyrics": "Tidak Ada Lirik"
+		}
+	]
+}
