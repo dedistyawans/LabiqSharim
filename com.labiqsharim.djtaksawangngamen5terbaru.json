@@ -1,7 +1,7 @@
 {
 	"ads":
 	{
-		"splash_ad": "admob",
+		"splash_ad": "auto",
 		"banner_ad": "auto",
 		"mrec_ad": "auto",
 		"inter_ad": "auto",
@@ -36,6 +36,7 @@
 		"iron_appkey": "ironAppKey",
 
 		"fan_banner": "1063993554244665_1064002727577081",
+		"fan_mrec": "1063993554244665_1069375930373094",
 		"fan_inter": "1063993554244665_1064003420910345",
 
 		"unity_game_id": "unityGamneId",
@@ -47,6 +48,7 @@
 		"admob_inter": "ca-app-pub-1598318147841886/6843270987",
 
 		"max_banner": "331a85a51aef9dee",
+		"max_mrec": "50b1a56c552019b9",
 		"max_inter": "0f0673f3dccbb12f",
 
 		"startapp_id": "205285408",
