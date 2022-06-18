@@ -9,7 +9,7 @@
 		"splash_ad_identifier": "identifier_1",
 		"inter_ad_identifier": "identifier_1",
 		"banner_ad_identifier": "identifier_2",
-		"mrec_ad_identifier": "identifier_2",
+		"mrec_ad_identifier": "identifier_3",
 
 		"interval_awal": 2,
 		"interval_iron": 5,
