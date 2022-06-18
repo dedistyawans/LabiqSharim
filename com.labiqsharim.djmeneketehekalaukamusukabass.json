@@ -1,0 +1,984 @@
+{
+	"ads":
+	{
+		"splash_ad": "auto",
+		"banner_ad": "auto",
+		"mrec_ad": "auto",
+		"inter_ad": "auto",
+
+		"splash_ad_identifier": "identifier_1",
+		"inter_ad_identifier": "identifier_1",
+		"banner_ad_identifier": "identifier_3",
+		"mrec_ad_identifier": "identifier_4",
+
+		"interval_awal": 2,
+		"interval_iron": 5,
+		"interval_fan": 5,
+		"interval_unity": 5,
+		"interval_admob": 5,
+		"interval_max": 5,
+		"interval_startapp": 3,
+
+		"minimum_time_iron": 60,
+		"minimum_time_fan": 60,
+		"minimum_time_unity": 60,
+		"minimum_time_admob": 61,
+		"minimum_time_max": 60,
+		"minimum_time_startapp": 30,
+
+		"kemungkinan_iron": 0,
+		"kemungkinan_fan": 0,
+		"kemungkinan_unity": 0,
+		"kemungkinan_admob": 0,
+		"kemungkinan_max": 0,
+		"kemungkinan_startapp": 30,
+
+		"iron_appkey": "-",
+
+		"fan_banner": "-",
+		"fan_mrec": "-",
+		"fan_inter": "-",
+
+		"unity_game_id": "-",
+		"unity_banner": "-",
+		"unity_inter": "-",
+
+		"admob_open": "-",
+		"admob_banner": "-",
+		"admob_inter": "-",
+
+		"max_banner": "-",
+		"max_mrec": "-",
+		"max_inter": "-",
+
+		"startapp_id": "205960563",
+
+		"app_live_store": "auto",
+		"shopee_aff": "https://shope.ee/AUG8gxNBGz"
+	},
+
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "DJ Meneketehe Offline",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "DJ Meneketehe Bass",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/tray.jpg"
+		},
+		{
+			"id": 3,
+			"name_category": "DJ Meneketehe Dangdut",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg"
+		},
+		{
+			"id": 4,
+			"name_category": "DJ Meneketehe Remix Tiktok",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/tray.jpg"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "DJ Meneketehe Bass",
+			"title": "Meneketehe Bass 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/Meneketehe_Bass_1.mp3",
+			"duration": "258",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 2,
+			"name_category": "DJ Meneketehe Bass",
+			"title": "Meneketehe Bass 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/Meneketehe_Bass_10.mp3",
+			"duration": "257",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 3,
+			"name_category": "DJ Meneketehe Bass",
+			"title": "Meneketehe Bass 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/Meneketehe_Bass_11.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 4,
+			"name_category": "DJ Meneketehe Bass",
+			"title": "DJ BILA KAMU TAK LAGI DENGANKU - HARGA DIRIKU WALI BAND TIKTOK VIRAL REMIX FULL BASS 2022",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/Meneketehe_Bass_12.mp3",
+			"duration": "396",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 5,
+			"name_category": "DJ Meneketehe Bass",
+			"title": "Dj Nenekku Pahlawanku Full Bass Viral TikTok",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/Meneketehe_Bass_13.mp3",
+			"duration": "192",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 6,
+			"name_category": "DJ Meneketehe Bass",
+			"title": "Meneketehe Bass 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/Meneketehe_Bass_14.mp3",
+			"duration": "236",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 7,
+			"name_category": "DJ Meneketehe Bass",
+			"title": "Meneketehe Bass 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/Meneketehe_Bass_15.mp3",
+			"duration": "273",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 8,
+			"name_category": "DJ Meneketehe Bass",
+			"title": "DJ GORENG GORENG MENGKANE",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/Meneketehe_Bass_2.mp3",
+			"duration": "265",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 9,
+			"name_category": "DJ Meneketehe Bass",
+			"title": "DJ MENEKETEHE || DJ TIKTOK TERBARU 2022 MENEKETEHE",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/Meneketehe_Bass_3.mp3",
+			"duration": "253",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 10,
+			"name_category": "DJ Meneketehe Bass",
+			"title": "Meneketehe Bass 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/Meneketehe_Bass_4.mp3",
+			"duration": "283",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 11,
+			"name_category": "DJ Meneketehe Bass",
+			"title": "Meneketehe Bass 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/Meneketehe_Bass_5.mp3",
+			"duration": "289",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 12,
+			"name_category": "DJ Meneketehe Bass",
+			"title": "Meneketehe Bass 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/Meneketehe_Bass_6.mp3",
+			"duration": "287",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 13,
+			"name_category": "DJ Meneketehe Bass",
+			"title": "Dj harga diriku - Wali Band (Bootleg)",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/Meneketehe_Bass_7.mp3",
+			"duration": "283",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 14,
+			"name_category": "DJ Meneketehe Bass",
+			"title": "DJ MENEKETEHE KALAU KAMU SUKA TIKTOK VIRAL REMIX FULL BASS 2022",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/Meneketehe_Bass_8.mp3",
+			"duration": "329",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 15,
+			"name_category": "DJ Meneketehe Bass",
+			"title": "DJ PAPA MUDA MAMA MUDA REMIX VIRAL TIKTOK TERBARU I DJ JEDAG JEDUG FULL BASS 2022",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Bass/Meneketehe_Bass_9.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 16,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ TERLENA_SUNGGUH AKU BAHAGIA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_1.mp3",
+			"duration": "278",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 17,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ SOPAN GORENG GORENG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_10.mp3",
+			"duration": "325",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 18,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ SUDAH TAK CINTA VIRAL",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_11.mp3",
+			"duration": "347",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 19,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ ANGEL BEBY JEDAG JEDUG FULBEAT VIRAL",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_12.mp3",
+			"duration": "262",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 20,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ ANU REMON SAKIT LAGI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_13.mp3",
+			"duration": "216",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 21,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ APA KABAR SAYANG REMIX",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_14.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 22,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ BEGITU LAMA INGIN AKU CURAHKAN GELORA CINTA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_15.mp3",
+			"duration": "302",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 23,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ BILA KAMU TAK LAGI DENGANKU_HARGA DIRI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_16.mp3",
+			"duration": "347",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 24,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ BREAKBEAT BANG JONO KKN VIRAL",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_17.mp3",
+			"duration": "348",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 25,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ BAGAIKAN BUNGA YANG LAYU SAAT KEMARAU MELANDA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_18.mp3",
+			"duration": "356",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 26,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ BALE PULANG 2 ROCKDUT",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_19.mp3",
+			"duration": "270",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 27,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ CINTA SAMPAI MATI - DJ DENGARKANLAH SEPANJANG JALAN AKU BERDOA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_2.mp3",
+			"duration": "294",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 28,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ BULAN BINTANG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_20.mp3",
+			"duration": "346",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 29,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ BUNGA DAN KUMBANG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_21.mp3",
+			"duration": "258",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 30,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ CINTAI DIA SAYANGI DIA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_22.mp3",
+			"duration": "395",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 31,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ DALAM HATIKU HANYA NAMAMU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_23.mp3",
+			"duration": "294",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 32,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ GOYANG SENGGOL",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_24.mp3",
+			"duration": "236",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 33,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ HARAPAN DAN DUKA_SUNGGUH KU TAK MENGERTI MENGAPA KAU SAMPAI HATI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_25.mp3",
+			"duration": "311",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 34,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ IMING IMING SAJA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_26.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 35,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ JANGAN TINGGALKAN AKU KU MOHON KEPADAMU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_27.mp3",
+			"duration": "344",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 36,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ JERAWAT RINDU ROCKDUT REMIX",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_28.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 37,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ KU BAWA SELALU KU BAWA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_29.mp3",
+			"duration": "286",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 38,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ CINTAKU - DALAM SEPIKU KAULAH CANDAKU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_3.mp3",
+			"duration": "320",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 39,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ MENGEJAR BADAI_SIA SIA KUPERTARUHKAN HARTA JIWA DAN RAGA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_30.mp3",
+			"duration": "289",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 40,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ PAYUNG HITAM ROCKDUT",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_31.mp3",
+			"duration": "402",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 41,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ PUASKAH KAU MENYIKSA BATINKU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_32.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 42,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ SUMPAH BENANG EMAS_KADANG KU BERFIKIR KAN MENCARI GANTIMU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_33.mp3",
+			"duration": "333",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 43,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ DEAR DIARY KU INGIN BERCERITA - REMIX SLOW VIRAL",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_4.mp3",
+			"duration": "351",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 44,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ KUBERLAYAR DI LAUTAN TIDAK BERTEPIAN",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_5.mp3",
+			"duration": "356",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 45,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ MAAFKAN SOIBAH KU X AKON RIGH NOW REMIX",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_6.mp3",
+			"duration": "198",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 46,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ MAN DOWN MAN DOWN - RIP LOVE FAOUZIA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_7.mp3",
+			"duration": "344",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 47,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ MENEKETEHE KALAU KAMU SUKA VIRAL",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_8.mp3",
+			"duration": "321",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 48,
+			"name_category": "DJ Meneketehe Dangdut",
+			"title": "DJ POK AMAI AMAI BELALANG KUPU KUPU VIRAL",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Dangdut/Meneketehe_Dangdut_9.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 49,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "DJ Meneketehe",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_1.mp3",
+			"duration": "227",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 50,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "DJ Takkan Terganti",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_10.mp3",
+			"duration": "349",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 51,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "DJ Ya cuma kamu viral",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_11.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 52,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "DJ Ku Berlayar di lautan tidak bertepian",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_12.mp3",
+			"duration": "313",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 53,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "DJ bila kamu tak lagi denganku",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_13.mp3",
+			"duration": "298",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 54,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "DJ Bukan sekejab denganmu",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_14.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 55,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "DJ Dalam sepiku kaulah candaku",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_15.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 56,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "Dear diary ku ingin bercerita",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_16.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 57,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "DJ Manis di bibir memutar kata",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_17.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 58,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "Aku yang bertaruh dalam cinta",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_18.mp3",
+			"duration": "339",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 59,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "DJ Aku bukan orang kaya",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_19.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 60,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "DJ Dia gadis berkerudung merah",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_2.mp3",
+			"duration": "279",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 61,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "DJ Aku jaga kesucian cinta",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_20.mp3",
+			"duration": "279",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 62,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "DJ Aku tak menangisimu huhu",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_21.mp3",
+			"duration": "294",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 63,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "DJ Berapa lama aku memikirkanmu wahai dinda",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_22.mp3",
+			"duration": "279",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 64,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "DJ Bila bermimpi mimpi kamu",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_23.mp3",
+			"duration": "302",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 65,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "DJ Demi nama cinta",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_24.mp3",
+			"duration": "294",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 66,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "DJ Sanam re viral",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_25.mp3",
+			"duration": "214",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 67,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "DJ Setia berbalas dusta",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_26.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 68,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "DJ Tak bisa ku lupa saat indah bersamamu",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_27.mp3",
+			"duration": "321",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 69,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "DJ Tongrongan kami tongkrongan bukan pecundang",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_28.mp3",
+			"duration": "262",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 70,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "Kita jangan bertengkar lagi",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_29.mp3",
+			"duration": "269",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 71,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "Dj Hanya dia",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_3.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 72,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "DJ papa muda goyang goyang",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_30.mp3",
+			"duration": "282",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 73,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "Dj pergilah engkau bersamanya",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_31.mp3",
+			"duration": "339",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 74,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "DJ Permaisuri dalam mimpiku",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_32.mp3",
+			"duration": "333",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 75,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "DJ Ko kira sa ni kuat tahan ni luka",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_4.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 76,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "DJ Man down man down rip love",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_5.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 77,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "DJ Oh my angel angel baby angel",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_6.mp3",
+			"duration": "240",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 78,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "DJ Pok amai amai belalang kupu kupu",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_7.mp3",
+			"duration": "242",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 79,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "DJ Sudah Tak Cinta",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_8.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 80,
+			"name_category": "DJ Meneketehe Offline",
+			"title": "DJ Tak sawang sawang kowe ganteng tenan",
+			"image": "file:///android_asset/content/DJ_Meneketehe_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Meneketehe_Offline/Meneketehe_Offline_9.mp3",
+			"duration": "234",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 81,
+			"name_category": "DJ Meneketehe Remix Tiktok",
+			"title": "Meneketehe Remix Tiktok 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/Meneketehe_Remix_Tiktok_1.mp3",
+			"duration": "299",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 82,
+			"name_category": "DJ Meneketehe Remix Tiktok",
+			"title": "Meneketehe Remix Tiktok 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/Meneketehe_Remix_Tiktok_10.mp3",
+			"duration": "357",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 83,
+			"name_category": "DJ Meneketehe Remix Tiktok",
+			"title": "Meneketehe Remix Tiktok 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/Meneketehe_Remix_Tiktok_11.mp3",
+			"duration": "329",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 84,
+			"name_category": "DJ Meneketehe Remix Tiktok",
+			"title": "Meneketehe Remix Tiktok 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/Meneketehe_Remix_Tiktok_12.mp3",
+			"duration": "296",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 85,
+			"name_category": "DJ Meneketehe Remix Tiktok",
+			"title": "Meneketehe Remix Tiktok 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/Meneketehe_Remix_Tiktok_13.mp3",
+			"duration": "331",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 86,
+			"name_category": "DJ Meneketehe Remix Tiktok",
+			"title": "Meneketehe Remix Tiktok 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/Meneketehe_Remix_Tiktok_14.mp3",
+			"duration": "251",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 87,
+			"name_category": "DJ Meneketehe Remix Tiktok",
+			"title": "Meneketehe Remix Tiktok 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/Meneketehe_Remix_Tiktok_15.mp3",
+			"duration": "306",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 88,
+			"name_category": "DJ Meneketehe Remix Tiktok",
+			"title": "Meneketehe Remix Tiktok 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/Meneketehe_Remix_Tiktok_16.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 89,
+			"name_category": "DJ Meneketehe Remix Tiktok",
+			"title": "Meneketehe Remix Tiktok 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/Meneketehe_Remix_Tiktok_17.mp3",
+			"duration": "313",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 90,
+			"name_category": "DJ Meneketehe Remix Tiktok",
+			"title": "Meneketehe Remix Tiktok 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/Meneketehe_Remix_Tiktok_18.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 91,
+			"name_category": "DJ Meneketehe Remix Tiktok",
+			"title": "Meneketehe Remix Tiktok 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/Meneketehe_Remix_Tiktok_19.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 92,
+			"name_category": "DJ Meneketehe Remix Tiktok",
+			"title": "Meneketehe Remix Tiktok 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/Meneketehe_Remix_Tiktok_2.mp3",
+			"duration": "396",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 93,
+			"name_category": "DJ Meneketehe Remix Tiktok",
+			"title": "Meneketehe Remix Tiktok 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/Meneketehe_Remix_Tiktok_20.mp3",
+			"duration": "353",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 94,
+			"name_category": "DJ Meneketehe Remix Tiktok",
+			"title": "Meneketehe Remix Tiktok 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/Meneketehe_Remix_Tiktok_3.mp3",
+			"duration": "387",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 95,
+			"name_category": "DJ Meneketehe Remix Tiktok",
+			"title": "Meneketehe Remix Tiktok 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/Meneketehe_Remix_Tiktok_4.mp3",
+			"duration": "386",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 96,
+			"name_category": "DJ Meneketehe Remix Tiktok",
+			"title": "Meneketehe Remix Tiktok 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/Meneketehe_Remix_Tiktok_5.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 97,
+			"name_category": "DJ Meneketehe Remix Tiktok",
+			"title": "Meneketehe Remix Tiktok 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/Meneketehe_Remix_Tiktok_6.mp3",
+			"duration": "414",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 98,
+			"name_category": "DJ Meneketehe Remix Tiktok",
+			"title": "Meneketehe Remix Tiktok 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/Meneketehe_Remix_Tiktok_7.mp3",
+			"duration": "337",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 99,
+			"name_category": "DJ Meneketehe Remix Tiktok",
+			"title": "Meneketehe Remix Tiktok 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/Meneketehe_Remix_Tiktok_8.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 100,
+			"name_category": "DJ Meneketehe Remix Tiktok",
+			"title": "Meneketehe Remix Tiktok 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djmeneketehekalaukamusukabass/DJ_Meneketehe_Remix_Tiktok/Meneketehe_Remix_Tiktok_9.mp3",
+			"duration": "334",
+			"lyrics": "Tidak Ada Lirik"
+		}
+	]
+}
