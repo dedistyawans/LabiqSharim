@@ -1,17 +1,20 @@
 {
 	"ads":
 	{
+		"live_version_code": -1,
+
 		"splash_ad": "auto",
 		"banner_ad": "auto",
 		"mrec_ad": "auto",
 		"inter_ad": "auto",
 
 		"splash_ad_identifier": "identifier_1",
-		"inter_ad_identifier": "identifier_1",
+		"inter_ad_identifier": "identifier_2",
 		"banner_ad_identifier": "identifier_3",
 		"mrec_ad_identifier": "identifier_4",
 
 		"interval_awal": 2,
+		"interval_vungle": 5,
 		"interval_iron": 5,
 		"interval_fan": 5,
 		"interval_unity": 5,
@@ -19,19 +22,30 @@
 		"interval_max": 5,
 		"interval_startapp": 3,
 
+		"minimum_time_vungle": 60,
 		"minimum_time_iron": 60,
 		"minimum_time_fan": 60,
 		"minimum_time_unity": 60,
 		"minimum_time_admob": 61,
 		"minimum_time_max": 60,
-		"minimum_time_startapp": 30,
+		"minimum_time_startapp": 0,
 
+		"kemungkinan_vungle": 0,
 		"kemungkinan_iron": 0,
 		"kemungkinan_fan": 0,
 		"kemungkinan_unity": 0,
 		"kemungkinan_admob": 0,
 		"kemungkinan_max": 0,
-		"kemungkinan_startapp": 30,
+		"kemungkinan_startapp": 1,
+
+		"adcolony_app_id": "-",
+		"adcolony_banner": "-",
+		"adcolony_inter": "-",
+
+		"vungle_app_id": "-",
+		"vungle_banner": "-",
+		"vungle_mrec": "-",
+		"vungle_inter": "-",
 
 		"iron_appkey": "-",
 
