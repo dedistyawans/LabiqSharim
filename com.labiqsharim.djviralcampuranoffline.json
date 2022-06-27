@@ -1,0 +1,1704 @@
+{
+	"ads":
+	{
+		"live_version_code": -1,
+
+		"splash_ad": "auto",
+		"banner_ad": "auto",
+		"mrec_ad": "auto",
+		"inter_ad": "auto",
+
+		"splash_ad_identifier": "identifier_1",
+		"inter_ad_identifier": "identifier_2",
+		"banner_ad_identifier": "identifier_3",
+		"mrec_ad_identifier": "identifier_4",
+
+		"interval_awal": 2,
+		"interval_vungle": 5,
+		"interval_iron": 5,
+		"interval_fan": 5,
+		"interval_unity": 5,
+		"interval_admob": 5,
+		"interval_max": 5,
+		"interval_startapp": 3,
+
+		"minimum_time_vungle": 60,
+		"minimum_time_iron": 60,
+		"minimum_time_fan": 60,
+		"minimum_time_unity": 60,
+		"minimum_time_admob": 61,
+		"minimum_time_max": 60,
+		"minimum_time_startapp": 0,
+
+		"kemungkinan_vungle": 0,
+		"kemungkinan_iron": 0,
+		"kemungkinan_fan": 0,
+		"kemungkinan_unity": 0,
+		"kemungkinan_admob": 0,
+		"kemungkinan_max": 0,
+		"kemungkinan_startapp": 1,
+
+		"adcolony_app_id": "-",
+		"adcolony_banner": "-",
+		"adcolony_inter": "-",
+
+		"vungle_app_id": "-",
+		"vungle_banner": "-",
+		"vungle_mrec": "-",
+		"vungle_inter": "-",
+
+		"iron_appkey": "-",
+
+		"fan_banner": "-",
+		"fan_mrec": "-",
+		"fan_inter": "-",
+
+		"unity_game_id": "-",
+		"unity_banner": "-",
+		"unity_inter": "-",
+
+		"admob_open": "-",
+		"admob_banner": "-",
+		"admob_inter": "-",
+
+		"max_banner": "-",
+		"max_mrec": "-",
+		"max_inter": "-",
+
+		"startapp_id": "205960563",
+
+		"app_live_store": "auto",
+		"shopee_aff": "https://shope.ee/AUG8gxNBGz"
+	},
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "DJ Campuran Online",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "DJ Campuran Viral Offline",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg"
+		},
+		{
+			"id": 3,
+			"name_category": "Dj Campur Aduk",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg"
+		},
+		{
+			"id": 4,
+			"name_category": "DJ Pengen Pansos",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg"
+		},
+		{
+			"id": 5,
+			"name_category": "Remx Tik Tok Bass",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "DJ Campuran Online",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_1.mp3",
+			"duration": "331",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 2,
+			"name_category": "DJ Campuran Online",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_10.mp3",
+			"duration": "185",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 3,
+			"name_category": "DJ Campuran Online",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_11.mp3",
+			"duration": "270",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 4,
+			"name_category": "DJ Campuran Online",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_12.mp3",
+			"duration": "171",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 5,
+			"name_category": "DJ Campuran Online",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_13.mp3",
+			"duration": "340",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 6,
+			"name_category": "DJ Campuran Online",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_14.mp3",
+			"duration": "246",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 7,
+			"name_category": "DJ Campuran Online",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_15.mp3",
+			"duration": "254",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 8,
+			"name_category": "DJ Campuran Online",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_16.mp3",
+			"duration": "263",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 9,
+			"name_category": "DJ Campuran Online",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_17.mp3",
+			"duration": "271",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 10,
+			"name_category": "DJ Campuran Online",
+			"title": "Campuran TikTok Online 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_18.mp3",
+			"duration": "148",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 11,
+			"name_category": "DJ Campuran Online",
+			"title": "Campuran TikTok Online 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_19.mp3",
+			"duration": "317",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 12,
+			"name_category": "DJ Campuran Online",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_2.mp3",
+			"duration": "365",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 13,
+			"name_category": "DJ Campuran Online",
+			"title": "Campuran TikTok Online 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_20.mp3",
+			"duration": "221",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 14,
+			"name_category": "DJ Campuran Online",
+			"title": "Campuran TikTok Online 21",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_21.mp3",
+			"duration": "343",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 15,
+			"name_category": "DJ Campuran Online",
+			"title": "Campuran TikTok Online 22",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_22.mp3",
+			"duration": "284",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 16,
+			"name_category": "DJ Campuran Online",
+			"title": "Campuran TikTok Online 23",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_23.mp3",
+			"duration": "211",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 17,
+			"name_category": "DJ Campuran Online",
+			"title": "Campuran TikTok Online 24",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_24.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 18,
+			"name_category": "DJ Campuran Online",
+			"title": "Campuran TikTok Online 25",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_25.mp3",
+			"duration": "313",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 19,
+			"name_category": "DJ Campuran Online",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_26.mp3",
+			"duration": "225",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 20,
+			"name_category": "DJ Campuran Online",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_27.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 21,
+			"name_category": "DJ Campuran Online",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_28.mp3",
+			"duration": "238",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 22,
+			"name_category": "DJ Campuran Online",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_29.mp3",
+			"duration": "435",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 23,
+			"name_category": "DJ Campuran Online",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_3.mp3",
+			"duration": "293",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 24,
+			"name_category": "DJ Campuran Online",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_30.mp3",
+			"duration": "286",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 25,
+			"name_category": "DJ Campuran Online",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_31.mp3",
+			"duration": "271",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 26,
+			"name_category": "DJ Campuran Online",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_32.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 27,
+			"name_category": "DJ Campuran Online",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_33.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 28,
+			"name_category": "DJ Campuran Online",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_34.mp3",
+			"duration": "215",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 29,
+			"name_category": "DJ Campuran Online",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_4.mp3",
+			"duration": "182",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 30,
+			"name_category": "DJ Campuran Online",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_5.mp3",
+			"duration": "185",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 31,
+			"name_category": "DJ Campuran Online",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_6.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 32,
+			"name_category": "DJ Campuran Online",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_7.mp3",
+			"duration": "328",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 33,
+			"name_category": "DJ Campuran Online",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_8.mp3",
+			"duration": "235",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 34,
+			"name_category": "DJ Campuran Online",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Campuran_Online/Campuran_TikTok_Online_9.mp3",
+			"duration": "369",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 35,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "dj aku sekuat hati bertahan",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_AKU_SEKUAT_HATI_BERTAHAN.mp3",
+			"duration": "379",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 36,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ AKU SUKA BODY GOYANG MAMA MUDA X PAK CEPAK CEPAK JEDER",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_AKU_SUKA_BODI_GOYANG_MAMA_MUDA_X_CEPAK_CEPAK_JEDER.mp3",
+			"duration": "165",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 37,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ AMELIA X PAK CEPAK CEPAK JEDER",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_AMELIA_X_PAK_CEPAK_CEPAK_JEDER.mp3",
+			"duration": "342",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 38,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ ANGIN DATANG KASIH KABAR",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_ANGIN_DATANG_KASIH_KABAR.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 39,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ ARE YOU OKE YOU CAN PLAB PLAB DANCE",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_ARE_YOU_OKE_YOU_CAN_PLAB_PLAB_DANCE.mp3",
+			"duration": "270",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 40,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ ASTRONOUT IN THE OCEAN X CI CI CIMOY CIMOY",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_ASTRONOUT_IN_THE_OCEAN_X_CI_CI_CIMOY_CIMOY.mp3",
+			"duration": "185",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 41,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "dj bahagia (setiap yang kulakukan untuk dirimu)",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_BAHAGIA_SETIAP_YANG_KULAKUKAN_UNTUK_DIRIMU.mp3",
+			"duration": "269",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 42,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "dj beggin maneskin gratatata",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_BEGGIN_MANESKIN_GRATATATA.mp3",
+			"duration": "338",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 43,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ BILA DIA MENYUKAIKU X BABY FAMILY FRENDLY",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_BILA_DIA_MENYUKAIKU_X_BABY_FAMILY_FRENDLY.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 44,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ BOKA DANCE x LOKA LOKA",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_BOKA_DANCE_X_LOKA_LOKA.mp3",
+			"duration": "291",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 45,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ BONBON REMIX",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_BONBON_REMIX.mp3",
+			"duration": "271",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 46,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ BOOMA BOOMA YEE",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_BOOMA_BOOMA_YEE.mp3",
+			"duration": "286",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 47,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ BUIH JADI PERMADANI",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_BUIH_JADI_PERMADANI.mp3",
+			"duration": "444",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 48,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "dj chica loca remix",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_CHICA_LOCA_REMIX.mp3",
+			"duration": "259",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 49,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ CLOUD BREAD TIKTOK",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_CLOUD_BREAD_TIKTOK.mp3",
+			"duration": "225",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 50,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "Dahsyatnya cinta remix",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_DAHSYATNYA_CINTA_REMIX.mp3",
+			"duration": "344",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 51,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ DAMOND IN THE SKY",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_DAMOND_IN_THE_SKY.mp3",
+			"duration": "340",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 52,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "dj dapa malaria",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_DAPA_MALARIA.mp3",
+			"duration": "358",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 53,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ DIAM TANPA KATA",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_DIAM_TANPA_KATA.mp3",
+			"duration": "276",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 54,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ DINDA JANGAN MARAH MARAH",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_DINDA_JANGAN_MARAH_MARAH.mp3",
+			"duration": "369",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 55,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ GOYANG PARGOY X PAK CEPAK ",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_GOYANG_PARGOY_X_PAK_CEPAK_.mp3",
+			"duration": "235",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 56,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ GRATATA TATA",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_GRATATA_TATA.mp3",
+			"duration": "328",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 57,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ HUJAN BADAI ANGIN RIBUT",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_HUJAN_BADAI_ANGIN_RIBUT.mp3",
+			"duration": "238",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 58,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ I LOVE MAMA MANTU",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_I_LOVE_MAMA_MANTU.mp3",
+			"duration": "215",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 59,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ LUCID DREAM X HUJAN BADAI ANGIN RIBUT",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_LUCID_DREAM_X_HUJAN_BADAI_ANGIN_RIBUT.mp3",
+			"duration": "326",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 60,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ MACARENA",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_MACARENA.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 61,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ MBON MBON REMIX TIKTOK",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_MBON_MBON_REMIX_TIKTOK.mp3",
+			"duration": "271",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 62,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ MONEY LISA X PARGOY",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_MONEY_LISA_X_PARGOY.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 63,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ MONEY X SALTING REMIX",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_MONEY_X_SALTING_REMIX.mp3",
+			"duration": "185",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 64,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ NAINOWALE NE INDIA",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_NAINOWALE_NE_INDIA.mp3",
+			"duration": "263",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 65,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ PAK CEPAK CEPAK JEDER X BOKA BOKA GAMELAN",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_PAK_CEPAK_CEPAK_JEDER_X_BOKA_BOKA_GAMELAN.mp3",
+			"duration": "254",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 66,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ PAK PONG PONG VONG TRUNG BAU",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_PAK_PONG_PONG_VONG_TRUNG_BAU.mp3",
+			"duration": "182",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 67,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ POTA POTA",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_POTA_POTA.mp3",
+			"duration": "293",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 68,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ SATRU X TULUNG PERCOYO AKU",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_SATRU_X_TULUNG_PERCOYO_AKU.mp3",
+			"duration": "365",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 69,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ STEREO LOVE X SAKIT SEKALI EVERYBODY X SULING DAMON",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_STEREO_LOVE_X_SAKIT_SEKALI_EVERYBODY_X_SULING_DAMON.mp3",
+			"duration": "331",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 70,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ TUTU SLOW TIKTOK",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_TUTU_SLOW_TIKTOK.mp3",
+			"duration": "246",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 71,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ WOLFGANG REBORN REMIX",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_WOLFGANG_REBORN_REMIX.mp3",
+			"duration": "171",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 72,
+			"name_category": "DJ Campuran Viral Offline",
+			"title": "DJ YANG MANIS TAPI BUKAN GULA",
+			"image": "file:///android_asset/content/DJ_Campuran_Viral_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Campuran_Viral_Offline/DJ_YANG_MANIS_TAPI_BUKAN_GULA.mp3",
+			"duration": "352",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 73,
+			"name_category": "Dj Campur Aduk",
+			"title": "DJ BILA KAMU TAK LAGI DENGANKU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/DJ_BILA_KAMU_TAK_LAGI_DENGANKU.mp3",
+			"duration": "395",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 74,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_1.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 75,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_10.mp3",
+			"duration": "252",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 76,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_11.mp3",
+			"duration": "298",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 77,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_12.mp3",
+			"duration": "432",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 78,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_13.mp3",
+			"duration": "355",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 79,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_14.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 80,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_15.mp3",
+			"duration": "342",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 81,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_16.mp3",
+			"duration": "343",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 82,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_17.mp3",
+			"duration": "309",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 83,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_18.mp3",
+			"duration": "234",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 84,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_19.mp3",
+			"duration": "269",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 85,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_2.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 86,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_20.mp3",
+			"duration": "287",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 87,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 21",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_21.mp3",
+			"duration": "364",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 88,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 22",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_22.mp3",
+			"duration": "299",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 89,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 23",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_23.mp3",
+			"duration": "288",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 90,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 24",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_24.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 91,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 25",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_25.mp3",
+			"duration": "408",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 92,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 26",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_26.mp3",
+			"duration": "381",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 93,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 27",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_27.mp3",
+			"duration": "389",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 94,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 28",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_28.mp3",
+			"duration": "444",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 95,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 29",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_29.mp3",
+			"duration": "390",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 96,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_3.mp3",
+			"duration": "353",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 97,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 30",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_30.mp3",
+			"duration": "244",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 98,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 31",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_31.mp3",
+			"duration": "325",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 99,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 32",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_32.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 100,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 33",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_33.mp3",
+			"duration": "180",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 101,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 34",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_34.mp3",
+			"duration": "346",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 102,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 35",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_35.mp3",
+			"duration": "276",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 103,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 36",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_36.mp3",
+			"duration": "192",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 104,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_4.mp3",
+			"duration": "207",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 105,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_5.mp3",
+			"duration": "271",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 106,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_6.mp3",
+			"duration": "120",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 107,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_7.mp3",
+			"duration": "286",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 108,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_8.mp3",
+			"duration": "309",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 109,
+			"name_category": "Dj Campur Aduk",
+			"title": "Dj Campur Aduk 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/Dj_Campur_Aduk_9.mp3",
+			"duration": "168",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 110,
+			"name_category": "Dj Campur Aduk",
+			"title": "X2Download.com - DJ LO MATI GUE PARTY COY SAMPE BAWAH SOUND KANE FYP TIKTOK JEDAG JEDUG FULLBASS 2022",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/DJ_LO_MATI_GUE_PARTY_COY_SAMPE_BAWAH.mp3",
+			"duration": "25",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 111,
+			"name_category": "Dj Campur Aduk",
+			"title": "DJ POK AMAI AMAI BELALANG KUPU KUPU FULL BASS",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/DJ_POK_AMAI_AMAI_BELALANG_KUPU_KUPU_FULL_BASS.mp3",
+			"duration": "543",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 112,
+			"name_category": "Dj Campur Aduk",
+			"title": "DJ RIP LOVE FAOUZIA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Dj_Campur_Aduk/DJ_RIP_LOVE_FAOUZIA.mp3",
+			"duration": "357",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 113,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ NENEKKU PAHLAWANKU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_1.mp3",
+			"duration": "309",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 114,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ RIP LOVE FAOUZIA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_10.mp3",
+			"duration": "349",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 115,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ CINTA SAMPAI MATI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_11.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 116,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ Dalam Sepiku Kaulah Candaku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_12.mp3",
+			"duration": "253",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 117,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ DALAMO DALAMO",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_13.mp3",
+			"duration": "333",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 118,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ Gani Gani Hujan Badai Angin Ribut",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_14.mp3",
+			"duration": "247",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 119,
+			"name_category": "DJ Pengen Pansos",
+			"title": "Dj beautiful girl",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_15.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 120,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ DO YOU LIKE A TRUCK",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_16.mp3",
+			"duration": "242",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 121,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ TRUMPET NARCO",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_17.mp3",
+			"duration": "235",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 122,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ BABY DONT GO X TIPAT TIPAT",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_18.mp3",
+			"duration": "231",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 123,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ I Love Mama Mantu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_19.mp3",
+			"duration": "207",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 124,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ POK AME AME BELALANG KUPU KUPU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_2.mp3",
+			"duration": "311",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 125,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ TOXIC FRIENDS SLOW",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_20.mp3",
+			"duration": "180",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 126,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ PECAH SERIBU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_21.mp3",
+			"duration": "329",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 127,
+			"name_category": "DJ Pengen Pansos",
+			"title": "Dj lagi lagi ku tak bisa tidur",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_22.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 128,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ MELEPAS MASA LAJANG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_23.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 129,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ Bila Nanti Remix",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_24.mp3",
+			"duration": "286",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 130,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ SELALU TERSIMPAN ZIDAN",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_25.mp3",
+			"duration": "314",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 131,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ SIA SIA KU BERJUANG SLOW",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_26.mp3",
+			"duration": "248",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 132,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ SUDAH TAK CINTA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_27.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 133,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ TAHAN NI LUKA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_28.mp3",
+			"duration": "215",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 134,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ AKANKAH KAU MERASAKAN",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_29.mp3",
+			"duration": "237",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 135,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ Ya Cuman Kamu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_3.mp3",
+			"duration": "215",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 136,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ CINTA SAMPAI MATI 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_30.mp3",
+			"duration": "351",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 137,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ CONTELO JERAWAT RINDU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_31.mp3",
+			"duration": "339",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 138,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ BANG JONO X KKN DESA PENARI REMIX",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_32.mp3",
+			"duration": "362",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 139,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ Dia Gadis Berkerudung Merah",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_33.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 140,
+			"name_category": "DJ Pengen Pansos",
+			"title": "Dj harga diriku - Wali Band",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_34.mp3",
+			"duration": "281",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 141,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ Jawa Ngamen 5 Slow",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_35.mp3",
+			"duration": "196",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 142,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ KU BERLAYAR DI LAUTAN TIDAK BERTEPIAN",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_36.mp3",
+			"duration": "350",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 143,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ ANGEL BABY JEDAG JEDUG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_4.mp3",
+			"duration": "263",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 144,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ DARI YANG MUDA X TUKERAN SEMVAQ X BEAUTIFUL GIRLS",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_5.mp3",
+			"duration": "399",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 145,
+			"name_category": "DJ Pengen Pansos",
+			"title": "Dj Ghost Jedag Jedug",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_6.mp3",
+			"duration": "226",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 146,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ INILAH AKU RAJA MEXICO",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_7.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 147,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ Malam Ini Tangkis Dang",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_8.mp3",
+			"duration": "250",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 148,
+			"name_category": "DJ Pengen Pansos",
+			"title": "DJ MENIMISU X AKON RIGHT NOW",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/DJ_Pengen_Pansos/Pengen_Pansos_9.mp3",
+			"duration": "329",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 149,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_1.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 150,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_10.mp3",
+			"duration": "353",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 151,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_11.mp3",
+			"duration": "217",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 152,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_12.mp3",
+			"duration": "387",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 153,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_13.mp3",
+			"duration": "271",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 154,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_14.mp3",
+			"duration": "350",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 155,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_15.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 156,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_16.mp3",
+			"duration": "415",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 157,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_17.mp3",
+			"duration": "351",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 158,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_18.mp3",
+			"duration": "333",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 159,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_19.mp3",
+			"duration": "384",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 160,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_2.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 161,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_20.mp3",
+			"duration": "336",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 162,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 21",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_21.mp3",
+			"duration": "306",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 163,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 22",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_22.mp3",
+			"duration": "300",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 164,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 23",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_23.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 165,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 24",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_24.mp3",
+			"duration": "267",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 166,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 25",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_25.mp3",
+			"duration": "335",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 167,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 26",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_26.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 168,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 27",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_27.mp3",
+			"duration": "211",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 169,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 28",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_28.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 170,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 29",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_29.mp3",
+			"duration": "317",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 171,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_3.mp3",
+			"duration": "313",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 172,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 30",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_30.mp3",
+			"duration": "444",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 173,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_4.mp3",
+			"duration": "287",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 174,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_5.mp3",
+			"duration": "264",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 175,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_6.mp3",
+			"duration": "402",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 176,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_7.mp3",
+			"duration": "391",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 177,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_8.mp3",
+			"duration": "367",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 178,
+			"name_category": "Remx Tik Tok Bass",
+			"title": "Remix Tik Tok 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djviralcampuranoffline/Remx_Tik_Tok_Bass/Remix_Tik_Tok_9.mp3",
+			"duration": "270",
+			"lyrics": "Tidak Ada Lirik"
+		}
+	]
+}
