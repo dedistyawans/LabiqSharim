@@ -1,0 +1,1542 @@
+{
+	"ads":
+	{
+		"live_version_code": -1,
+
+		"splash_ad": "auto",
+		"banner_ad": "auto",
+		"mrec_ad": "auto",
+		"inter_ad": "auto",
+
+		"splash_ad_identifier": "identifier_1",
+		"inter_ad_identifier": "identifier_2",
+		"banner_ad_identifier": "identifier_3",
+		"mrec_ad_identifier": "identifier_4",
+
+		"interval_awal": 2,
+		"interval_vungle": 5,
+		"interval_iron": 5,
+		"interval_fan": 5,
+		"interval_unity": 5,
+		"interval_admob": 5,
+		"interval_max": 5,
+		"interval_startapp": 3,
+
+		"minimum_time_vungle": 60,
+		"minimum_time_iron": 60,
+		"minimum_time_fan": 60,
+		"minimum_time_unity": 60,
+		"minimum_time_admob": 61,
+		"minimum_time_max": 60,
+		"minimum_time_startapp": 0,
+
+		"kemungkinan_vungle": 0,
+		"kemungkinan_iron": 0,
+		"kemungkinan_fan": 0,
+		"kemungkinan_unity": 0,
+		"kemungkinan_admob": 0,
+		"kemungkinan_max": 0,
+		"kemungkinan_startapp": 1,
+
+		"adcolony_app_id": "-",
+		"adcolony_banner": "-",
+		"adcolony_inter": "-",
+
+		"vungle_app_id": "-",
+		"vungle_banner": "-",
+		"vungle_mrec": "-",
+		"vungle_inter": "-",
+
+		"iron_appkey": "-",
+
+		"fan_banner": "-",
+		"fan_mrec": "-",
+		"fan_inter": "-",
+
+		"unity_game_id": "-",
+		"unity_banner": "-",
+		"unity_inter": "-",
+
+		"admob_open": "-",
+		"admob_banner": "-",
+		"admob_inter": "-",
+
+		"max_banner": "-",
+		"max_mrec": "-",
+		"max_inter": "-",
+
+		"startapp_id": "205960563",
+
+		"app_live_store": "auto",
+		"shopee_aff": "https://shope.ee/AUG8gxNBGz"
+	},
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "DJ Benang Biru Offline",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "DJ Benang Biru Online",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg"
+		},
+		{
+			"id": 3,
+			"name_category": "DJ Dengarkanlah",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg"
+		},
+		{
+			"id": 4,
+			"name_category": "DJ Sakit Gigi",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/tray.jpg"
+		},
+		{
+			"id": 5,
+			"name_category": "Remix Full Bass",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ bila kamu tak lagi denganku",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_1.mp3",
+			"duration": "298",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 2,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ Maka izinkanlah aku mencintaimu",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_10.mp3",
+			"duration": "277",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 3,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ Tak ingin usai viral",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_11.mp3",
+			"duration": "261",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 4,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ Tak sawang sawang kowe ganteng tenan",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_12.mp3",
+			"duration": "234",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 5,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ Ya cuma kamu viral",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_13.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 6,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ Paijo mumet ndase",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_14.mp3",
+			"duration": "269",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 7,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ Pok amai amai belalang kupu kupu",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_15.mp3",
+			"duration": "242",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 8,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ Sudah Tak Cinta",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_16.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 9,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "Dj Sungguh terlalu indah",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_17.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 10,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ Bende Yoluma Giderim Viral",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_18.mp3",
+			"duration": "288",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 11,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ Oh my angel angel baby angel",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_19.mp3",
+			"duration": "240",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 12,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ Dalam sepiku kaulah candaku",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_2.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 13,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "Dear diary ku ingin bercerita",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_20.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 14,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ Man down man down rip love",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_21.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 15,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ Meneketehe",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_22.mp3",
+			"duration": "227",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 16,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ Berapa lama aku memikirkanmu wahai dinda",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_23.mp3",
+			"duration": "279",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 17,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ Manis di bibir memutar kata",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_24.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 18,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ Tak bisa ku lupa saat indah bersamamu",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_25.mp3",
+			"duration": "321",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 19,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ Sudah Tak Cinta",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_26.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 20,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ Benang biru viral",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_27.mp3",
+			"duration": "288",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 21,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ Jawa Ngamen 5 Slow",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_28.mp3",
+			"duration": "196",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 22,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ Cintamu senyaman mentari",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_29.mp3",
+			"duration": "314",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 23,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ Dia gadis berkerudung merah",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_3.mp3",
+			"duration": "279",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 24,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ Oh indahnya hidupku",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_30.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 25,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ Bangun tidur selfi",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_31.mp3",
+			"duration": "227",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 26,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ Ku Berlayar di lautan tidak bertepian",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_32.mp3",
+			"duration": "313",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 27,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ Dia masa lalumu",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_4.mp3",
+			"duration": "225",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 28,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "Dj Hanya dia",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_5.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 29,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ Hidup bagai pesawat kertas",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_6.mp3",
+			"duration": "320",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 30,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ Jika kau bertemu aku begini",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_7.mp3",
+			"duration": "386",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 31,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ Joko tingkir ngombe dawet",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_8.mp3",
+			"duration": "340",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 32,
+			"name_category": "DJ Benang Biru Offline",
+			"title": "DJ Ko kira sa ni kuat tahan ni luka",
+			"image": "file:///android_asset/content/DJ_Benang_Biru_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Benang_Biru_Offline/Benang_Biru_Offline_9.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 33,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_1.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 34,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_10.mp3",
+			"duration": "384",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 35,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_11.mp3",
+			"duration": "333",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 36,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_12.mp3",
+			"duration": "351",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 37,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_13.mp3",
+			"duration": "216",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 38,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_14.mp3",
+			"duration": "271",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 39,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_15.mp3",
+			"duration": "335",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 40,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_16.mp3",
+			"duration": "267",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 41,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_17.mp3",
+			"duration": "391",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 42,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_18.mp3",
+			"duration": "401",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 43,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_19.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 44,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_2.mp3",
+			"duration": "270",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 45,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_20.mp3",
+			"duration": "300",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 46,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 21",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_21.mp3",
+			"duration": "373",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 47,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 22",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_22.mp3",
+			"duration": "306",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 48,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 23",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_23.mp3",
+			"duration": "241",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 49,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 24",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_24.mp3",
+			"duration": "357",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 50,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 25",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_25.mp3",
+			"duration": "359",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 51,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 26",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_26.mp3",
+			"duration": "248",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 52,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 27",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_27.mp3",
+			"duration": "444",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 53,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 28",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_28.mp3",
+			"duration": "365",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 54,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 29",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_29.mp3",
+			"duration": "367",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 55,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_3.mp3",
+			"duration": "217",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 56,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 30",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_30.mp3",
+			"duration": "350",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 57,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 31",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_31.mp3",
+			"duration": "387",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 58,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 32",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_32.mp3",
+			"duration": "391",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 59,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_4.mp3",
+			"duration": "402",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 60,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_5.mp3",
+			"duration": "264",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 61,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_6.mp3",
+			"duration": "353",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 62,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_7.mp3",
+			"duration": "415",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 63,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_8.mp3",
+			"duration": "236",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 64,
+			"name_category": "DJ Benang Biru Online",
+			"title": "Online Benang Biru 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Benang_Biru_Online/Online_Benang_Biru_9.mp3",
+			"duration": "336",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 65,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ POK AME AME BELALANG KUPU KUPU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_1.mp3",
+			"duration": "311",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 66,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ ANGEL BABY JEDAG JEDUG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_10.mp3",
+			"duration": "263",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 67,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ Gani Gani Hujan Badai Angin Ribut",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_11.mp3",
+			"duration": "247",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 68,
+			"name_category": "DJ Dengarkanlah",
+			"title": "Dj beautiful girl",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_12.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 69,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ DO YOU LIKE A TRUCK",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_13.mp3",
+			"duration": "242",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 70,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ TRUMPET NARCO",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_14.mp3",
+			"duration": "235",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 71,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ BABY DONT GO X TIPAT TIPAT",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_15.mp3",
+			"duration": "231",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 72,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ I Love Mama Mantu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_16.mp3",
+			"duration": "207",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 73,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ TOXIC FRIENDS SLOW",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_17.mp3",
+			"duration": "180",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 74,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ PECAH SERIBU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_18.mp3",
+			"duration": "329",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 75,
+			"name_category": "DJ Dengarkanlah",
+			"title": "Dj lagi lagi ku tak bisa tidur",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_19.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 76,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ MENIMISU X AKON RIGHT NOW",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_2.mp3",
+			"duration": "329",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 77,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ AKANKAH KAU MERASAKAN",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_20.mp3",
+			"duration": "237",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 78,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ CINTA SAMPAI MATI 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_21.mp3",
+			"duration": "351",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 79,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ CONTELO JERAWAT RINDU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_22.mp3",
+			"duration": "339",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 80,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ MELEPAS MASA LAJANG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_23.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 81,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ Bila Nanti Remix",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_24.mp3",
+			"duration": "286",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 82,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ SELALU TERSIMPAN ZIDAN",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_25.mp3",
+			"duration": "314",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 83,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ SIA SIA KU BERJUANG SLOW",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_26.mp3",
+			"duration": "248",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 84,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ SUDAH TAK CINTA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_27.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 85,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ TAHAN NI LUKA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_28.mp3",
+			"duration": "215",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 86,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ RIP LOVE FAOUZIA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_29.mp3",
+			"duration": "349",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 87,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ CINTA SAMPAI MATI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_3.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 88,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ Ya Cuman Kamu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_30.mp3",
+			"duration": "215",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 89,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ BANG JONO X KKN DESA PENARI REMIX",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_31.mp3",
+			"duration": "362",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 90,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ Dia Gadis Berkerudung Merah",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_32.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 91,
+			"name_category": "DJ Dengarkanlah",
+			"title": "Dj harga diriku - Wali Band",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_33.mp3",
+			"duration": "281",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 92,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ Jawa Ngamen 5 Slow",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_34.mp3",
+			"duration": "196",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 93,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ KU BERLAYAR DI LAUTAN TIDAK BERTEPIAN",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_35.mp3",
+			"duration": "350",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 94,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ NENEKKU PAHLAWANKU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_36.mp3",
+			"duration": "309",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 95,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ Dalam Sepiku Kaulah Candaku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_4.mp3",
+			"duration": "253",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 96,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ DALAMO DALAMO",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_5.mp3",
+			"duration": "333",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 97,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ DARI YANG MUDA X TUKERAN SEMVAQ X BEAUTIFUL GIRLS",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_6.mp3",
+			"duration": "399",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 98,
+			"name_category": "DJ Dengarkanlah",
+			"title": "Dj Ghost Jedag Jedug",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_7.mp3",
+			"duration": "226",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 99,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ INILAH AKU RAJA MEXICO",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_8.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 100,
+			"name_category": "DJ Dengarkanlah",
+			"title": "DJ Malam Ini Tangkis Dang",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Dengarkanlah/DJ_Dengarkanlah_9.mp3",
+			"duration": "250",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 101,
+			"name_category": "DJ Sakit Gigi",
+			"title": "DJ Sakit Gigi 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/DJ_Sakit_Gigi_1.mp3",
+			"duration": "510",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 102,
+			"name_category": "DJ Sakit Gigi",
+			"title": "DJ Sakit Gigi 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/DJ_Sakit_Gigi_10.mp3",
+			"duration": "359",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 103,
+			"name_category": "DJ Sakit Gigi",
+			"title": "DJ Sakit Gigi 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/DJ_Sakit_Gigi_11.mp3",
+			"duration": "369",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 104,
+			"name_category": "DJ Sakit Gigi",
+			"title": "DJ Sakit Gigi 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/DJ_Sakit_Gigi_12.mp3",
+			"duration": "326",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 105,
+			"name_category": "DJ Sakit Gigi",
+			"title": "DJ Sakit Gigi 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/DJ_Sakit_Gigi_13.mp3",
+			"duration": "497",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 106,
+			"name_category": "DJ Sakit Gigi",
+			"title": "DJ Sakit Gigi 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/DJ_Sakit_Gigi_14.mp3",
+			"duration": "398",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 107,
+			"name_category": "DJ Sakit Gigi",
+			"title": "DJ Sakit Gigi 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/DJ_Sakit_Gigi_15.mp3",
+			"duration": "234",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 108,
+			"name_category": "DJ Sakit Gigi",
+			"title": "DJ Sakit Gigi 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/DJ_Sakit_Gigi_16.mp3",
+			"duration": "400",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 109,
+			"name_category": "DJ Sakit Gigi",
+			"title": "DJ Sakit Gigi 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/DJ_Sakit_Gigi_17.mp3",
+			"duration": "349",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 110,
+			"name_category": "DJ Sakit Gigi",
+			"title": "DJ Sakit Gigi 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/DJ_Sakit_Gigi_18.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 111,
+			"name_category": "DJ Sakit Gigi",
+			"title": "DJ Sakit Gigi 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/DJ_Sakit_Gigi_19.mp3",
+			"duration": "361",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 112,
+			"name_category": "DJ Sakit Gigi",
+			"title": "DJ Sakit Gigi 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/DJ_Sakit_Gigi_2.mp3",
+			"duration": "284",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 113,
+			"name_category": "DJ Sakit Gigi",
+			"title": "DJ Sakit Gigi 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/DJ_Sakit_Gigi_20.mp3",
+			"duration": "379",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 114,
+			"name_category": "DJ Sakit Gigi",
+			"title": "DJ Sakit Gigi 21",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/DJ_Sakit_Gigi_21.mp3",
+			"duration": "276",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 115,
+			"name_category": "DJ Sakit Gigi",
+			"title": "DJ Sakit Gigi 22",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/DJ_Sakit_Gigi_22.mp3",
+			"duration": "311",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 116,
+			"name_category": "DJ Sakit Gigi",
+			"title": "DJ Sakit Gigi 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/DJ_Sakit_Gigi_3.mp3",
+			"duration": "277",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 117,
+			"name_category": "DJ Sakit Gigi",
+			"title": "DJ Sakit Gigi 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/DJ_Sakit_Gigi_4.mp3",
+			"duration": "329",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 118,
+			"name_category": "DJ Sakit Gigi",
+			"title": "DJ Sakit Gigi 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/DJ_Sakit_Gigi_5.mp3",
+			"duration": "312",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 119,
+			"name_category": "DJ Sakit Gigi",
+			"title": "DJ Sakit Gigi 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/DJ_Sakit_Gigi_6.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 120,
+			"name_category": "DJ Sakit Gigi",
+			"title": "DJ Sakit Gigi 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/DJ_Sakit_Gigi_7.mp3",
+			"duration": "236",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 121,
+			"name_category": "DJ Sakit Gigi",
+			"title": "DJ Sakit Gigi 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/DJ_Sakit_Gigi_8.mp3",
+			"duration": "254",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 122,
+			"name_category": "DJ Sakit Gigi",
+			"title": "DJ Sakit Gigi 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/DJ_Sakit_Gigi/DJ_Sakit_Gigi_9.mp3",
+			"duration": "516",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 123,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_1.mp3",
+			"duration": "261",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 124,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_10.mp3",
+			"duration": "381",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 125,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_11.mp3",
+			"duration": "303",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 126,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_12.mp3",
+			"duration": "403",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 127,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_13.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 128,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_14.mp3",
+			"duration": "257",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 129,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_15.mp3",
+			"duration": "282",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 130,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_16.mp3",
+			"duration": "242",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 131,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_17.mp3",
+			"duration": "313",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 132,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_18.mp3",
+			"duration": "300",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 133,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_19.mp3",
+			"duration": "245",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 134,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_2.mp3",
+			"duration": "302",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 135,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_20.mp3",
+			"duration": "253",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 136,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 21",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_21.mp3",
+			"duration": "441",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 137,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 22",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_22.mp3",
+			"duration": "324",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 138,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 23",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_23.mp3",
+			"duration": "281",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 139,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 24",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_24.mp3",
+			"duration": "281",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 140,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 25",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_25.mp3",
+			"duration": "248",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 141,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 26",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_26.mp3",
+			"duration": "198",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 142,
+			"name_category": "Remix Full Bass",
+			"title": "dj cidro 2 cindi chintya dewi selow remix terbaru viral tik tok 2021 jpc dj tatang axl 9017849950599434611",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_27.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 143,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 28",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_28.mp3",
+			"duration": "224",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 144,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 29",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_29.mp3",
+			"duration": "272",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 145,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_3.mp3",
+			"duration": "255",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 146,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 30",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_30.mp3",
+			"duration": "259",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 147,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 31",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_31.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 148,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 32",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_32.mp3",
+			"duration": "173",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 149,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 33",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_33.mp3",
+			"duration": "270",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 150,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 34",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_34.mp3",
+			"duration": "284",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 151,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 35",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_35.mp3",
+			"duration": "212",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 152,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 36",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_36.mp3",
+			"duration": "290",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 153,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 37",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_37.mp3",
+			"duration": "256",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 154,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 38",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_38.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 155,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_4.mp3",
+			"duration": "283",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 156,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_5.mp3",
+			"duration": "355",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 157,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_6.mp3",
+			"duration": "351",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 158,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_7.mp3",
+			"duration": "407",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 159,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_8.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 160,
+			"name_category": "Remix Full Bass",
+			"title": "Remix Bass 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbenangbiruviraloffline/Remix_Full_Bass/Remix_Bass_9.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		}
+	]
+}
