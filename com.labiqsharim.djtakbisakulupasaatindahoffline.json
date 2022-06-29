@@ -1,0 +1,1425 @@
+{
+	"ads":
+	{
+		"live_version_code": -1,
+
+		"splash_ad": "auto",
+		"banner_ad": "auto",
+		"mrec_ad": "auto",
+		"inter_ad": "auto",
+
+		"splash_ad_identifier": "identifier_1",
+		"inter_ad_identifier": "identifier_2",
+		"banner_ad_identifier": "identifier_3",
+		"mrec_ad_identifier": "identifier_4",
+
+		"interval_awal": 2,
+		"interval_vungle": 5,
+		"interval_iron": 5,
+		"interval_fan": 5,
+		"interval_unity": 5,
+		"interval_admob": 5,
+		"interval_max": 5,
+		"interval_startapp": 3,
+
+		"minimum_time_vungle": 60,
+		"minimum_time_iron": 60,
+		"minimum_time_fan": 60,
+		"minimum_time_unity": 60,
+		"minimum_time_admob": 61,
+		"minimum_time_max": 60,
+		"minimum_time_startapp": 0,
+
+		"kemungkinan_vungle": 0,
+		"kemungkinan_iron": 0,
+		"kemungkinan_fan": 0,
+		"kemungkinan_unity": 0,
+		"kemungkinan_admob": 0,
+		"kemungkinan_max": 0,
+		"kemungkinan_startapp": 1,
+
+		"adcolony_app_id": "-",
+		"adcolony_banner": "-",
+		"adcolony_inter": "-",
+
+		"vungle_app_id": "-",
+		"vungle_banner": "-",
+		"vungle_mrec": "-",
+		"vungle_inter": "-",
+
+		"iron_appkey": "-",
+
+		"fan_banner": "-",
+		"fan_mrec": "-",
+		"fan_inter": "-",
+
+		"unity_game_id": "-",
+		"unity_banner": "-",
+		"unity_inter": "-",
+
+		"admob_open": "-",
+		"admob_banner": "-",
+		"admob_inter": "-",
+
+		"max_banner": "-",
+		"max_mrec": "-",
+		"max_inter": "-",
+
+		"startapp_id": "205960563",
+
+		"app_live_store": "auto",
+		"shopee_aff": "https://shope.ee/AUG8gxNBGz"
+	},
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "DJ maafkan aku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg"
+		},
+		{
+			"id": 3,
+			"name_category": "DJ maafkan aku pergi",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg"
+		},
+		{
+			"id": 4,
+			"name_category": "DJ maafkan soibahku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg"
+		},
+		{
+			"id": 5,
+			"name_category": "DJ menimisu maafkan aku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/tray.jpg"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "Dj pergilah engkau bersamanya",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_1.mp3",
+			"duration": "339",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 2,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "Kukira kita akan bersama",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_10.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 3,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "Dj lagi lagi ku tak bisa tidur",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_11.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 4,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "Maafkan aku pergi Aku memang jodohnya",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_12.mp3",
+			"duration": "375",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 5,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "DJ Man down man down rip love",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_13.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 6,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "DJ Melepas Lajang",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_14.mp3",
+			"duration": "260",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 7,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "DJ Piker keri remix",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_15.mp3",
+			"duration": "334",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 8,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "DJ Sanam re viral",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_16.mp3",
+			"duration": "214",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 9,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "DJ Tongrongan kami tongkrongan bukan pecundang",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_17.mp3",
+			"duration": "262",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 10,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "Tutur batinku tak akan salah",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_18.mp3",
+			"duration": "315",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 11,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "Kita jangan bertengkar lagi",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_19.mp3",
+			"duration": "269",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 12,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "DJ Dalam sepiku kaulah candaku",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_2.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 13,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "DJ Permaisuri dalam mimpiku",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_20.mp3",
+			"duration": "333",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 14,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "DJ Bila tak mau disakiti",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_21.mp3",
+			"duration": "251",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 15,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "DJ Bukan sekejab denganmu",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_22.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 16,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "DJ bila kamu tak lagi denganku",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_23.mp3",
+			"duration": "298",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 17,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "Aku yang bertaruh dalam cinta",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_24.mp3",
+			"duration": "339",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 18,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "DJ Aku bukan orang kaya",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_25.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 19,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "DJ Awalku mengenalmu tersita seluruh hatiku",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_26.mp3",
+			"duration": "274",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 20,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "DJ Berapa lama aku memikirkanmu wahai dinda",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_27.mp3",
+			"duration": "279",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 21,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "DJ Bila bermimpi mimpi kamu",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_28.mp3",
+			"duration": "302",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 22,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "DJ Tak bisa ku lupa saat indah bersamamu",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_29.mp3",
+			"duration": "321",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 23,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "DJ Dan jika hati sudah tak mau",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_3.mp3",
+			"duration": "312",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 24,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "Dj merubah buih jadi permadani",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_30.mp3",
+			"duration": "387",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 25,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "DJ papa muda goyang goyang",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_31.mp3",
+			"duration": "282",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 26,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "Dear diary ku ingin bercerita",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_4.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 27,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "Dj Hanya dia",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_5.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 28,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "Dj akui sulit cari penggantimu",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_6.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 29,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "DJ Jangan menangis untukku",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_7.mp3",
+			"duration": "317",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 30,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "DJ Juara di hatiku",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_8.mp3",
+			"duration": "323",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 31,
+			"name_category": "Tak Lupa Saat Indah Offline",
+			"title": "DJ Ko kira sa ni kuat tahan ni luka",
+			"image": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tak_Lupa_Saat_Indah_Offline/Tak_bisa_kulupa_9.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 32,
+			"name_category": "DJ maafkan aku",
+			"title": "Maafkan aku 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/Maafkan_aku_1.mp3",
+			"duration": "373",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 33,
+			"name_category": "DJ maafkan aku",
+			"title": "Maafkan aku 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/Maafkan_aku_10.mp3",
+			"duration": "461",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 34,
+			"name_category": "DJ maafkan aku",
+			"title": "Maafkan aku 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/Maafkan_aku_11.mp3",
+			"duration": "197",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 35,
+			"name_category": "DJ maafkan aku",
+			"title": "Maafkan aku 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/Maafkan_aku_12.mp3",
+			"duration": "356",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 36,
+			"name_category": "DJ maafkan aku",
+			"title": "Maafkan aku 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/Maafkan_aku_13.mp3",
+			"duration": "365",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 37,
+			"name_category": "DJ maafkan aku",
+			"title": "Maafkan aku 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/Maafkan_aku_14.mp3",
+			"duration": "339",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 38,
+			"name_category": "DJ maafkan aku",
+			"title": "Maafkan aku 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/Maafkan_aku_15.mp3",
+			"duration": "346",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 39,
+			"name_category": "DJ maafkan aku",
+			"title": "Maafkan aku 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/Maafkan_aku_16.mp3",
+			"duration": "221",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 40,
+			"name_category": "DJ maafkan aku",
+			"title": "Maafkan aku 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/Maafkan_aku_17.mp3",
+			"duration": "314",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 41,
+			"name_category": "DJ maafkan aku",
+			"title": "Maafkan aku 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/Maafkan_aku_18.mp3",
+			"duration": "524",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 42,
+			"name_category": "DJ maafkan aku",
+			"title": "Maafkan aku 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/Maafkan_aku_19.mp3",
+			"duration": "285",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 43,
+			"name_category": "DJ maafkan aku",
+			"title": "Maafkan aku 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/Maafkan_aku_2.mp3",
+			"duration": "337",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 44,
+			"name_category": "DJ maafkan aku",
+			"title": "Maafkan aku 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/Maafkan_aku_20.mp3",
+			"duration": "276",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 45,
+			"name_category": "DJ maafkan aku",
+			"title": "Maafkan aku 21",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/Maafkan_aku_21.mp3",
+			"duration": "354",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 46,
+			"name_category": "DJ maafkan aku",
+			"title": "Maafkan aku 22",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/Maafkan_aku_22.mp3",
+			"duration": "258",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 47,
+			"name_category": "DJ maafkan aku",
+			"title": "Maafkan aku 23",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/Maafkan_aku_23.mp3",
+			"duration": "297",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 48,
+			"name_category": "DJ maafkan aku",
+			"title": "Maafkan aku 24",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/Maafkan_aku_24.mp3",
+			"duration": "329",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 49,
+			"name_category": "DJ maafkan aku",
+			"title": "Maafkan aku 25",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/Maafkan_aku_25.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 50,
+			"name_category": "DJ maafkan aku",
+			"title": "Maafkan aku 26",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/Maafkan_aku_26.mp3",
+			"duration": "324",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 51,
+			"name_category": "DJ maafkan aku",
+			"title": "Maafkan aku 27",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/Maafkan_aku_27.mp3",
+			"duration": "231",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 52,
+			"name_category": "DJ maafkan aku",
+			"title": "Maafkan aku 28",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/Maafkan_aku_28.mp3",
+			"duration": "390",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 53,
+			"name_category": "DJ maafkan aku",
+			"title": "Maafkan aku 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/Maafkan_aku_3.mp3",
+			"duration": "416",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 54,
+			"name_category": "DJ maafkan aku",
+			"title": "Maafkan aku 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/Maafkan_aku_4.mp3",
+			"duration": "439",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 55,
+			"name_category": "DJ maafkan aku",
+			"title": "Maafkan aku 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/Maafkan_aku_5.mp3",
+			"duration": "385",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 56,
+			"name_category": "DJ maafkan aku",
+			"title": "Maafkan aku 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/Maafkan_aku_6.mp3",
+			"duration": "439",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 57,
+			"name_category": "DJ maafkan aku",
+			"title": "Maafkan aku 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/Maafkan_aku_7.mp3",
+			"duration": "409",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 58,
+			"name_category": "DJ maafkan aku",
+			"title": "Maafkan aku 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/Maafkan_aku_8.mp3",
+			"duration": "614",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 59,
+			"name_category": "DJ maafkan aku",
+			"title": "Maafkan aku 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku/Maafkan_aku_9.mp3",
+			"duration": "324",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 60,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "DJ Dalam sepiku kaulah candaku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_1.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 61,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "DJ Hal Hebat",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_10.mp3",
+			"duration": "356",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 62,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "Dj Berjuta Kumbang Merayu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_11.mp3",
+			"duration": "361",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 63,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "Dj aca aca nehi nehi remix",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_12.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 64,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "Dj aku kecapean cari uang",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_13.mp3",
+			"duration": "244",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 65,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "Dj andai kita dulu tak berpisah",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_14.mp3",
+			"duration": "287",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 66,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "DJ Pura Pura Cinta Koplo",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_15.mp3",
+			"duration": "188",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 67,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "Dj Pedihku saat merasa indah",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_16.mp3",
+			"duration": "292",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 68,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "Dj Bukan Sekali Kamu Buat Begini",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_17.mp3",
+			"duration": "284",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 69,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "DJ Cukup Kau disampingku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_18.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 70,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "Dj dalamo dalamo viral",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_19.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 71,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "Dj Hanya dia",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_2.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 72,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "DJ diGeboy Geboy muzair",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_20.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 73,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "DJ Penantian",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_21.mp3",
+			"duration": "299",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 74,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "DJ ANGIN DATANG KASIH KABAR",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_22.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 75,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "Maafkan aku pergi Aku memang jodohnya",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_23.mp3",
+			"duration": "375",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 76,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "DJ MATI MATIAN AKU MENCINTAIMU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_24.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 77,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "DJ Melepas Lajang",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_25.mp3",
+			"duration": "260",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 78,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "Dj merubah buih jadi permadani",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_26.mp3",
+			"duration": "387",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 79,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "Dj pergilah engkau bersamanya",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_27.mp3",
+			"duration": "339",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 80,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "DJ SELALU TERSIMPAN ZIDAN",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_28.mp3",
+			"duration": "314",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 81,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "DJ Akankah Kau Merasakan Rasa Cintaku Ini",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_29.mp3",
+			"duration": "363",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 82,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "Dj akui sulit cari penggantimu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_3.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 83,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "Dj Channa Mereya Remix",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_30.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 84,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "Dj Cinta sampai mati",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_31.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 85,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "Kutahan Rindu Bukan Ku Sengaja",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_4.mp3",
+			"duration": "336",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 86,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "Dj lagi lagi ku tak bisa tidur",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_5.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 87,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "Dj PAPEPAP Soria Vadele Remix",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_6.mp3",
+			"duration": "309",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 88,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "DJ Ghost Jedagjedug Fullbeat",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_7.mp3",
+			"duration": "222",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 89,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "Aku Bukan Jodohnya",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_8.mp3",
+			"duration": "432",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 90,
+			"name_category": "DJ maafkan aku pergi",
+			"title": "Terluka Tapi Tak Berdarah",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_aku_pergi/Maafkan_aku_pergi_9.mp3",
+			"duration": "314",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 91,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_1.mp3",
+			"duration": "263",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 92,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_10.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 93,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_11.mp3",
+			"duration": "211",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 94,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_12.mp3",
+			"duration": "357",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 95,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_13.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 96,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_14.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 97,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_15.mp3",
+			"duration": "324",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 98,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_16.mp3",
+			"duration": "317",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 99,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_17.mp3",
+			"duration": "225",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 100,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_18.mp3",
+			"duration": "285",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 101,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_19.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 102,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_2.mp3",
+			"duration": "324",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 103,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_20.mp3",
+			"duration": "325",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 104,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 21",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_21.mp3",
+			"duration": "313",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 105,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 22",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_22.mp3",
+			"duration": "296",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 106,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 23",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_23.mp3",
+			"duration": "391",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 107,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 24",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_24.mp3",
+			"duration": "378",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 108,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 25",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_25.mp3",
+			"duration": "335",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 109,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 26",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_26.mp3",
+			"duration": "267",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 110,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 27",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_27.mp3",
+			"duration": "405",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 111,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 28",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_28.mp3",
+			"duration": "300",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 112,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 29",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_29.mp3",
+			"duration": "200",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 113,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_3.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 114,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 30",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_30.mp3",
+			"duration": "384",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 115,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 31",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_31.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 116,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 32",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_32.mp3",
+			"duration": "265",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 117,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_4.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 118,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_5.mp3",
+			"duration": "340",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 119,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_6.mp3",
+			"duration": "312",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 120,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_7.mp3",
+			"duration": "237",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 121,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_8.mp3",
+			"duration": "254",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 122,
+			"name_category": "DJ maafkan soibahku",
+			"title": "Maafkan Soibahku 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_maafkan_soibahku/Maafkan_Soibahku_9.mp3",
+			"duration": "259",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 123,
+			"name_category": "DJ menimisu maafkan aku",
+			"title": "Dj Boma Bomaye",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/Menimisu_maafkan_aku_1.mp3",
+			"duration": "303",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 124,
+			"name_category": "DJ menimisu maafkan aku",
+			"title": "Dj Pulang Hari Raya",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/Menimisu_maafkan_aku_10.mp3",
+			"duration": "392",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 125,
+			"name_category": "DJ menimisu maafkan aku",
+			"title": "Dj Rip Love Faouzia",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/Menimisu_maafkan_aku_11.mp3",
+			"duration": "357",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 126,
+			"name_category": "DJ menimisu maafkan aku",
+			"title": "Dj Senandung Hari Raya",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/Menimisu_maafkan_aku_12.mp3",
+			"duration": "492",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 127,
+			"name_category": "DJ menimisu maafkan aku",
+			"title": "Dj Sudah Tak Cinta",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/Menimisu_maafkan_aku_13.mp3",
+			"duration": "336",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 128,
+			"name_category": "DJ menimisu maafkan aku",
+			"title": "Dj The River",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/Menimisu_maafkan_aku_14.mp3",
+			"duration": "216",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 129,
+			"name_category": "DJ menimisu maafkan aku",
+			"title": "Dj Dalam Sepiku Kaulah Candaku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/Menimisu_maafkan_aku_15.mp3",
+			"duration": "252",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 130,
+			"name_category": "DJ menimisu maafkan aku",
+			"title": "Dj Harga Diriku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/Menimisu_maafkan_aku_16.mp3",
+			"duration": "390",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 131,
+			"name_category": "DJ menimisu maafkan aku",
+			"title": "Dj Menimisu X Akon Right Now",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/Menimisu_maafkan_aku_17.mp3",
+			"duration": "190",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 132,
+			"name_category": "DJ menimisu maafkan aku",
+			"title": "Dj Merubah Buih Jadi Permadani",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/Menimisu_maafkan_aku_18.mp3",
+			"duration": "387",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 133,
+			"name_category": "DJ menimisu maafkan aku",
+			"title": "Dj Mi Mi Mi X Pong Pong",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/Menimisu_maafkan_aku_19.mp3",
+			"duration": "292",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 134,
+			"name_category": "DJ menimisu maafkan aku",
+			"title": "Dj Cinta Sampai Mati",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/Menimisu_maafkan_aku_2.mp3",
+			"duration": "267",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 135,
+			"name_category": "DJ menimisu maafkan aku",
+			"title": "Dj My Ni Miss You",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/Menimisu_maafkan_aku_20.mp3",
+			"duration": "395",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 136,
+			"name_category": "DJ menimisu maafkan aku",
+			"title": "Dj Orange 7 Koplo",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/Menimisu_maafkan_aku_21.mp3",
+			"duration": "460",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 137,
+			"name_category": "DJ menimisu maafkan aku",
+			"title": "Dj Noneno Neno X Diamond In The Sky",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/Menimisu_maafkan_aku_22.mp3",
+			"duration": "272",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 138,
+			"name_category": "DJ menimisu maafkan aku",
+			"title": "Dj Tak Bisa Ku Lupa Saat Saat Indah Bersamamu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/Menimisu_maafkan_aku_23.mp3",
+			"duration": "375",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 139,
+			"name_category": "DJ menimisu maafkan aku",
+			"title": "Dj Angel Baby Suling Sakit",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/Menimisu_maafkan_aku_24.mp3",
+			"duration": "340",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 140,
+			"name_category": "DJ menimisu maafkan aku",
+			"title": "Dj Bbhm Rihana",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/Menimisu_maafkan_aku_25.mp3",
+			"duration": "325",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 141,
+			"name_category": "DJ menimisu maafkan aku",
+			"title": "Dj Dear Diary Kuingin Bercerita Tentang Dia",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/Menimisu_maafkan_aku_3.mp3",
+			"duration": "293",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 142,
+			"name_category": "DJ menimisu maafkan aku",
+			"title": "Dj Dikasih Info Maszeh",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/Menimisu_maafkan_aku_4.mp3",
+			"duration": "276",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 143,
+			"name_category": "DJ menimisu maafkan aku",
+			"title": "Dj Do You Like A Truck",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/Menimisu_maafkan_aku_5.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 144,
+			"name_category": "DJ menimisu maafkan aku",
+			"title": "Dj Godzila Remix",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/Menimisu_maafkan_aku_6.mp3",
+			"duration": "364",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 145,
+			"name_category": "DJ menimisu maafkan aku",
+			"title": "Dj Jerawat Rindu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/Menimisu_maafkan_aku_7.mp3",
+			"duration": "495",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 146,
+			"name_category": "DJ menimisu maafkan aku",
+			"title": "Dj Love Tonight Engkol",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/Menimisu_maafkan_aku_8.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 147,
+			"name_category": "DJ menimisu maafkan aku",
+			"title": "Dj Pecah Seribu Full Bass",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtakbisakulupasaatindahoffline/DJ_menimisu_maafkan_aku/Menimisu_maafkan_aku_9.mp3",
+			"duration": "376",
+			"lyrics": "Tidak Ada Lirik"
+		}
+	]
+}
