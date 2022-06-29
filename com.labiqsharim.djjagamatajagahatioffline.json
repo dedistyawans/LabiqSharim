@@ -1,0 +1,1209 @@
+{
+	"ads":
+	{
+		"live_version_code": -1,
+
+		"splash_ad": "auto",
+		"banner_ad": "auto",
+		"mrec_ad": "auto",
+		"inter_ad": "auto",
+
+		"splash_ad_identifier": "identifier_1",
+		"inter_ad_identifier": "identifier_2",
+		"banner_ad_identifier": "identifier_3",
+		"mrec_ad_identifier": "identifier_4",
+
+		"interval_awal": 2,
+		"interval_vungle": 5,
+		"interval_iron": 5,
+		"interval_fan": 5,
+		"interval_unity": 5,
+		"interval_admob": 5,
+		"interval_max": 5,
+		"interval_startapp": 3,
+
+		"minimum_time_vungle": 60,
+		"minimum_time_iron": 60,
+		"minimum_time_fan": 60,
+		"minimum_time_unity": 60,
+		"minimum_time_admob": 61,
+		"minimum_time_max": 60,
+		"minimum_time_startapp": 0,
+
+		"kemungkinan_vungle": 0,
+		"kemungkinan_iron": 0,
+		"kemungkinan_fan": 0,
+		"kemungkinan_unity": 0,
+		"kemungkinan_admob": 0,
+		"kemungkinan_max": 0,
+		"kemungkinan_startapp": 1,
+
+		"adcolony_app_id": "-",
+		"adcolony_banner": "-",
+		"adcolony_inter": "-",
+
+		"vungle_app_id": "-",
+		"vungle_banner": "-",
+		"vungle_mrec": "-",
+		"vungle_inter": "-",
+
+		"iron_appkey": "-",
+
+		"fan_banner": "-",
+		"fan_mrec": "-",
+		"fan_inter": "-",
+
+		"unity_game_id": "-",
+		"unity_banner": "-",
+		"unity_inter": "-",
+
+		"admob_open": "-",
+		"admob_banner": "-",
+		"admob_inter": "-",
+
+		"max_banner": "-",
+		"max_mrec": "-",
+		"max_inter": "-",
+
+		"startapp_id": "205960563",
+
+		"app_live_store": "auto",
+		"shopee_aff": "https://shope.ee/AUG8gxNBGz"
+	},
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "DJ Jaga Mata",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "DJ Jaga Mata Offline",
+			"image": "file:///android_asset/content/DJ_Jaga_Mata_Offline/tray.jpg"
+		},
+		{
+			"id": 3,
+			"name_category": "DJ Jaga Mata Viral",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata_Viral/tray.jpg"
+		},
+		{
+			"id": 4,
+			"name_category": "DJ kutukan mantan",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg"
+		},
+		{
+			"id": 5,
+			"name_category": "Jaga Mata Hati Viral",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/tray.jpg"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_1.mp3",
+			"duration": "344",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 2,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_10.mp3",
+			"duration": "376",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 3,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_11.mp3",
+			"duration": "309",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 4,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_12.mp3",
+			"duration": "343",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 5,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_13.mp3",
+			"duration": "223",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 6,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_14.mp3",
+			"duration": "284",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 7,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_15.mp3",
+			"duration": "350",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 8,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_16.mp3",
+			"duration": "241",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 9,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_17.mp3",
+			"duration": "349",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 10,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_18.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 11,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_19.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 12,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_2.mp3",
+			"duration": "289",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 13,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_20.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 14,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 21",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_21.mp3",
+			"duration": "184",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 15,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 22",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_22.mp3",
+			"duration": "341",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 16,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 23",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_23.mp3",
+			"duration": "206",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 17,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 24",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_24.mp3",
+			"duration": "234",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 18,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 25",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_25.mp3",
+			"duration": "403",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 19,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 26",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_26.mp3",
+			"duration": "328",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 20,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 27",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_27.mp3",
+			"duration": "312",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 21,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 28",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_28.mp3",
+			"duration": "314",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 22,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 29",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_29.mp3",
+			"duration": "430",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 23,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_3.mp3",
+			"duration": "366",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 24,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 30",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_30.mp3",
+			"duration": "224",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 25,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 31",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_31.mp3",
+			"duration": "241",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 26,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_4.mp3",
+			"duration": "224",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 27,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_5.mp3",
+			"duration": "317",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 28,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_6.mp3",
+			"duration": "382",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 29,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_7.mp3",
+			"duration": "432",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 30,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_8.mp3",
+			"duration": "331",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 31,
+			"name_category": "DJ Jaga Mata",
+			"title": "Jaga Mata 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata/Jaga_Mata_9.mp3",
+			"duration": "255",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 32,
+			"name_category": "DJ Jaga Mata Offline",
+			"title": "Dj Rasa Ini Yang Tertinggal Selamanya",
+			"image": "file:///android_asset/content/DJ_Jaga_Mata_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Jaga_Mata_Offline/Jaga_Mata_Jaga_Hati_1.mp3",
+			"duration": "227",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 33,
+			"name_category": "DJ Jaga Mata Offline",
+			"title": "DJ Tie Me Down",
+			"image": "file:///android_asset/content/DJ_Jaga_Mata_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Jaga_Mata_Offline/Jaga_Mata_Jaga_Hati_10.mp3",
+			"duration": "182",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 34,
+			"name_category": "DJ Jaga Mata Offline",
+			"title": "Dj Vaaste",
+			"image": "file:///android_asset/content/DJ_Jaga_Mata_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Jaga_Mata_Offline/Jaga_Mata_Jaga_Hati_11.mp3",
+			"duration": "431",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 35,
+			"name_category": "DJ Jaga Mata Offline",
+			"title": "DJ Viral",
+			"image": "file:///android_asset/content/DJ_Jaga_Mata_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Jaga_Mata_Offline/Jaga_Mata_Jaga_Hati_12.mp3",
+			"duration": "408",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 36,
+			"name_category": "DJ Jaga Mata Offline",
+			"title": "Dj Welas Hang Reng Kene",
+			"image": "file:///android_asset/content/DJ_Jaga_Mata_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Jaga_Mata_Offline/Jaga_Mata_Jaga_Hati_13.mp3",
+			"duration": "303",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 37,
+			"name_category": "DJ Jaga Mata Offline",
+			"title": "DJ Jaga Mata Jaga Hati FullBass",
+			"image": "file:///android_asset/content/DJ_Jaga_Mata_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Jaga_Mata_Offline/Jaga_Mata_Jaga_Hati_14.mp3",
+			"duration": "413",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 38,
+			"name_category": "DJ Jaga Mata Offline",
+			"title": "DJ Disitu Enak Susu Janda FullBass",
+			"image": "file:///android_asset/content/DJ_Jaga_Mata_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Jaga_Mata_Offline/Jaga_Mata_Jaga_Hati_15.mp3",
+			"duration": "245",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 39,
+			"name_category": "DJ Jaga Mata Offline",
+			"title": "Dj Harta Dan Tahta Jelek Gapapa",
+			"image": "file:///android_asset/content/DJ_Jaga_Mata_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Jaga_Mata_Offline/Jaga_Mata_Jaga_Hati_16.mp3",
+			"duration": "365",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 40,
+			"name_category": "DJ Jaga Mata Offline",
+			"title": "Dj kimi no toriko",
+			"image": "file:///android_asset/content/DJ_Jaga_Mata_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Jaga_Mata_Offline/Jaga_Mata_Jaga_Hati_17.mp3",
+			"duration": "334",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 41,
+			"name_category": "DJ Jaga Mata Offline",
+			"title": "Dj Kiri Kanan Santuy",
+			"image": "file:///android_asset/content/DJ_Jaga_Mata_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Jaga_Mata_Offline/Jaga_Mata_Jaga_Hati_18.mp3",
+			"duration": "311",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 42,
+			"name_category": "DJ Jaga Mata Offline",
+			"title": "Dj Korban Janji",
+			"image": "file:///android_asset/content/DJ_Jaga_Mata_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Jaga_Mata_Offline/Jaga_Mata_Jaga_Hati_19.mp3",
+			"duration": "399",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 43,
+			"name_category": "DJ Jaga Mata Offline",
+			"title": "Dj Rela Demi Cinta",
+			"image": "file:///android_asset/content/DJ_Jaga_Mata_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Jaga_Mata_Offline/Jaga_Mata_Jaga_Hati_2.mp3",
+			"duration": "336",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 44,
+			"name_category": "DJ Jaga Mata Offline",
+			"title": "Dj makan daging anjing dengan sayur kol",
+			"image": "file:///android_asset/content/DJ_Jaga_Mata_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Jaga_Mata_Offline/Jaga_Mata_Jaga_Hati_20.mp3",
+			"duration": "373",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 45,
+			"name_category": "DJ Jaga Mata Offline",
+			"title": "Dj Mama Muda Goyang Imut",
+			"image": "file:///android_asset/content/DJ_Jaga_Mata_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Jaga_Mata_Offline/Jaga_Mata_Jaga_Hati_21.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 46,
+			"name_category": "DJ Jaga Mata Offline",
+			"title": "Dj Papa Muda Geleng Geleng",
+			"image": "file:///android_asset/content/DJ_Jaga_Mata_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Jaga_Mata_Offline/Jaga_Mata_Jaga_Hati_22.mp3",
+			"duration": "401",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 47,
+			"name_category": "DJ Jaga Mata Offline",
+			"title": "Dj Piye Kabarmu sayang",
+			"image": "file:///android_asset/content/DJ_Jaga_Mata_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Jaga_Mata_Offline/Jaga_Mata_Jaga_Hati_23.mp3",
+			"duration": "333",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 48,
+			"name_category": "DJ Jaga Mata Offline",
+			"title": "Dj Satu Bunga Cinta",
+			"image": "file:///android_asset/content/DJ_Jaga_Mata_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Jaga_Mata_Offline/Jaga_Mata_Jaga_Hati_3.mp3",
+			"duration": "435",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 49,
+			"name_category": "DJ Jaga Mata Offline",
+			"title": "DJ Spongebob",
+			"image": "file:///android_asset/content/DJ_Jaga_Mata_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Jaga_Mata_Offline/Jaga_Mata_Jaga_Hati_4.mp3",
+			"duration": "196",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 50,
+			"name_category": "DJ Jaga Mata Offline",
+			"title": "DJ Suaramu Syairku",
+			"image": "file:///android_asset/content/DJ_Jaga_Mata_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Jaga_Mata_Offline/Jaga_Mata_Jaga_Hati_5.mp3",
+			"duration": "173",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 51,
+			"name_category": "DJ Jaga Mata Offline",
+			"title": "DJ Suaramu Syairku",
+			"image": "file:///android_asset/content/DJ_Jaga_Mata_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Jaga_Mata_Offline/Jaga_Mata_Jaga_Hati_6.mp3",
+			"duration": "173",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 52,
+			"name_category": "DJ Jaga Mata Offline",
+			"title": "Dj Sungguh Ku Merasa Resah",
+			"image": "file:///android_asset/content/DJ_Jaga_Mata_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Jaga_Mata_Offline/Jaga_Mata_Jaga_Hati_7.mp3",
+			"duration": "325",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 53,
+			"name_category": "DJ Jaga Mata Offline",
+			"title": "DJ Tak Perlu Kau Beri Alasan",
+			"image": "file:///android_asset/content/DJ_Jaga_Mata_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Jaga_Mata_Offline/Jaga_Mata_Jaga_Hati_8.mp3",
+			"duration": "209",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 54,
+			"name_category": "DJ Jaga Mata Offline",
+			"title": "DJ Temolla",
+			"image": "file:///android_asset/content/DJ_Jaga_Mata_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Jaga_Mata_Offline/Jaga_Mata_Jaga_Hati_9.mp3",
+			"duration": "234",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 55,
+			"name_category": "DJ Jaga Mata Viral",
+			"title": "Jaga Mata Viral 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata_Viral/Jaga_Mata_Viral_1.mp3",
+			"duration": "365",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 56,
+			"name_category": "DJ Jaga Mata Viral",
+			"title": "Jaga Mata Viral 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata_Viral/Jaga_Mata_Viral_10.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 57,
+			"name_category": "DJ Jaga Mata Viral",
+			"title": "Jaga Mata Viral 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata_Viral/Jaga_Mata_Viral_2.mp3",
+			"duration": "262",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 58,
+			"name_category": "DJ Jaga Mata Viral",
+			"title": "Jaga Mata Viral 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata_Viral/Jaga_Mata_Viral_3.mp3",
+			"duration": "352",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 59,
+			"name_category": "DJ Jaga Mata Viral",
+			"title": "Jaga Mata Viral 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata_Viral/Jaga_Mata_Viral_4.mp3",
+			"duration": "676",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 60,
+			"name_category": "DJ Jaga Mata Viral",
+			"title": "Jaga Mata Viral 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata_Viral/Jaga_Mata_Viral_5.mp3",
+			"duration": "222",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 61,
+			"name_category": "DJ Jaga Mata Viral",
+			"title": "Jaga Mata Viral 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata_Viral/Jaga_Mata_Viral_6.mp3",
+			"duration": "320",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 62,
+			"name_category": "DJ Jaga Mata Viral",
+			"title": "Jaga Mata Viral 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata_Viral/Jaga_Mata_Viral_7.mp3",
+			"duration": "323",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 63,
+			"name_category": "DJ Jaga Mata Viral",
+			"title": "Jaga Mata Viral 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata_Viral/Jaga_Mata_Viral_8.mp3",
+			"duration": "564",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 64,
+			"name_category": "DJ Jaga Mata Viral",
+			"title": "Jaga Mata Viral 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_Jaga_Mata_Viral/Jaga_Mata_Viral_9.mp3",
+			"duration": "315",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 65,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_1.mp3",
+			"duration": "351",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 66,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_10.mp3",
+			"duration": "190",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 67,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_11.mp3",
+			"duration": "366",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 68,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_12.mp3",
+			"duration": "221",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 69,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_13.mp3",
+			"duration": "218",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 70,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_14.mp3",
+			"duration": "346",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 71,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_15.mp3",
+			"duration": "365",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 72,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_16.mp3",
+			"duration": "180",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 73,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_17.mp3",
+			"duration": "240",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 74,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_18.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 75,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_19.mp3",
+			"duration": "257",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 76,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_2.mp3",
+			"duration": "320",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 77,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_20.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 78,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 21",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_21.mp3",
+			"duration": "338",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 79,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 22",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_22.mp3",
+			"duration": "328",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 80,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 23",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_23.mp3",
+			"duration": "360",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 81,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 24",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_24.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 82,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 25",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_25.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 83,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 26",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_26.mp3",
+			"duration": "398",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 84,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 27",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_27.mp3",
+			"duration": "282",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 85,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 28",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_28.mp3",
+			"duration": "347",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 86,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 29",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_29.mp3",
+			"duration": "269",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 87,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_3.mp3",
+			"duration": "225",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 88,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 30",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_30.mp3",
+			"duration": "371",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 89,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 31",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_31.mp3",
+			"duration": "267",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 90,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 32",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_32.mp3",
+			"duration": "321",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 91,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 33",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_33.mp3",
+			"duration": "351",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 92,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 34",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_34.mp3",
+			"duration": "288",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 93,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 35",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_35.mp3",
+			"duration": "412",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 94,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 36",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_36.mp3",
+			"duration": "362",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 95,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 37",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_37.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 96,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 38",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_38.mp3",
+			"duration": "339",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 97,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 39",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_39.mp3",
+			"duration": "373",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 98,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_4.mp3",
+			"duration": "359",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 99,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_5.mp3",
+			"duration": "231",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 100,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_6.mp3",
+			"duration": "294",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 101,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_7.mp3",
+			"duration": "357",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 102,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_8.mp3",
+			"duration": "205",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 103,
+			"name_category": "DJ kutukan mantan",
+			"title": "DJ Kutukan Mantan 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/DJ_kutukan_mantan/DJ_Kutukan_Mantan_9.mp3",
+			"duration": "354",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 104,
+			"name_category": "Jaga Mata Hati Viral",
+			"title": "Jaga Mata Hati Viral 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/Jaga_Mata_Hati_Viral_1.mp3",
+			"duration": "398",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 105,
+			"name_category": "Jaga Mata Hati Viral",
+			"title": "Jaga Mata Hati Viral 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/Jaga_Mata_Hati_Viral_10.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 106,
+			"name_category": "Jaga Mata Hati Viral",
+			"title": "Jaga Mata Hati Viral 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/Jaga_Mata_Hati_Viral_11.mp3",
+			"duration": "377",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 107,
+			"name_category": "Jaga Mata Hati Viral",
+			"title": "Jaga Mata Hati Viral 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/Jaga_Mata_Hati_Viral_12.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 108,
+			"name_category": "Jaga Mata Hati Viral",
+			"title": "Jaga Mata Hati Viral 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/Jaga_Mata_Hati_Viral_13.mp3",
+			"duration": "311",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 109,
+			"name_category": "Jaga Mata Hati Viral",
+			"title": "Jaga Mata Hati Viral 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/Jaga_Mata_Hati_Viral_14.mp3",
+			"duration": "269",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 110,
+			"name_category": "Jaga Mata Hati Viral",
+			"title": "Jaga Mata Hati Viral 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/Jaga_Mata_Hati_Viral_15.mp3",
+			"duration": "311",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 111,
+			"name_category": "Jaga Mata Hati Viral",
+			"title": "Jaga Mata Hati Viral 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/Jaga_Mata_Hati_Viral_16.mp3",
+			"duration": "410",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 112,
+			"name_category": "Jaga Mata Hati Viral",
+			"title": "Jaga Mata Hati Viral 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/Jaga_Mata_Hati_Viral_17.mp3",
+			"duration": "200",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 113,
+			"name_category": "Jaga Mata Hati Viral",
+			"title": "Jaga Mata Hati Viral 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/Jaga_Mata_Hati_Viral_18.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 114,
+			"name_category": "Jaga Mata Hati Viral",
+			"title": "Jaga Mata Hati Viral 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/Jaga_Mata_Hati_Viral_19.mp3",
+			"duration": "329",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 115,
+			"name_category": "Jaga Mata Hati Viral",
+			"title": "Jaga Mata Hati Viral 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/Jaga_Mata_Hati_Viral_2.mp3",
+			"duration": "296",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 116,
+			"name_category": "Jaga Mata Hati Viral",
+			"title": "Jaga Mata Hati Viral 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/Jaga_Mata_Hati_Viral_20.mp3",
+			"duration": "340",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 117,
+			"name_category": "Jaga Mata Hati Viral",
+			"title": "Jaga Mata Hati Viral 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/Jaga_Mata_Hati_Viral_3.mp3",
+			"duration": "370",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 118,
+			"name_category": "Jaga Mata Hati Viral",
+			"title": "Jaga Mata Hati Viral 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/Jaga_Mata_Hati_Viral_4.mp3",
+			"duration": "406",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 119,
+			"name_category": "Jaga Mata Hati Viral",
+			"title": "Jaga Mata Hati Viral 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/Jaga_Mata_Hati_Viral_5.mp3",
+			"duration": "281",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 120,
+			"name_category": "Jaga Mata Hati Viral",
+			"title": "Jaga Mata Hati Viral 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/Jaga_Mata_Hati_Viral_6.mp3",
+			"duration": "411",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 121,
+			"name_category": "Jaga Mata Hati Viral",
+			"title": "Jaga Mata Hati Viral 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/Jaga_Mata_Hati_Viral_7.mp3",
+			"duration": "331",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 122,
+			"name_category": "Jaga Mata Hati Viral",
+			"title": "Jaga Mata Hati Viral 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/Jaga_Mata_Hati_Viral_8.mp3",
+			"duration": "254",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 123,
+			"name_category": "Jaga Mata Hati Viral",
+			"title": "Jaga Mata Hati Viral 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djjagamatajagahatioffline/Jaga_Mata_Hati_Viral/Jaga_Mata_Hati_Viral_9.mp3",
+			"duration": "296",
+			"lyrics": "Tidak Ada Lirik"
+		}
+	]
+}
