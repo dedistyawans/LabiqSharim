@@ -71,6 +71,32 @@
 		"shopee_aff": "https://shope.ee/AUG8gxNBGz"
 	},
 	"Categories": [
+				{
+			"id": 21,
+			"name_category": "Kenangan Lawas",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/tray.jpg"
+		},
+		{
+			"id": 22,
+			"name_category": "Nostalgia Lawas Offline",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg"
+		},
+		{
+			"id": 23,
+			"name_category": "Nostalgia Tembang",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg"
+		},
+		{
+			"id": 24,
+			"name_category": "Remix Lawas",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg"
+		},
+		{
+			"id": 25,
+			"name_category": "Tembang Kenangan 80an",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg"
+		},
+		
 		{
 			"id": 1,
 			"name_category": "Nike Ardila",
@@ -170,32 +196,8 @@
 			"id": 20,
 			"name_category": "Koes Plus",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8W3YxkJHjrAsRPMKbLZKwYV62Dl0OpmCmJ8YlG_1GjRPqZS_Erho7pgYPzDCzTiHxdmk&usqp=CAU"
-		},
-		{
-			"id": 21,
-			"name_category": "Kenangan Lawas",
-			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/tray.jpg"
-		},
-		{
-			"id": 22,
-			"name_category": "Nostalgia Lawas Offline",
-			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg"
-		},
-		{
-			"id": 23,
-			"name_category": "Nostalgia Tembang",
-			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg"
-		},
-		{
-			"id": 24,
-			"name_category": "Remix Lawas",
-			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg"
-		},
-		{
-			"id": 25,
-			"name_category": "Tembang Kenangan 80an",
-			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg"
 		}
+
 	],
 	"Data": [
 		{
