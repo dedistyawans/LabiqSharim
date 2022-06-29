@@ -1,0 +1,1542 @@
+{
+	"ads":
+	{
+		"live_version_code": -1,
+
+		"splash_ad": "auto",
+		"banner_ad": "auto",
+		"mrec_ad": "auto",
+		"inter_ad": "auto",
+
+		"splash_ad_identifier": "identifier_1",
+		"inter_ad_identifier": "identifier_2",
+		"banner_ad_identifier": "identifier_3",
+		"mrec_ad_identifier": "identifier_4",
+
+		"interval_awal": 2,
+		"interval_vungle": 5,
+		"interval_iron": 5,
+		"interval_fan": 5,
+		"interval_unity": 5,
+		"interval_admob": 5,
+		"interval_max": 5,
+		"interval_startapp": 3,
+
+		"minimum_time_vungle": 60,
+		"minimum_time_iron": 60,
+		"minimum_time_fan": 60,
+		"minimum_time_unity": 60,
+		"minimum_time_admob": 61,
+		"minimum_time_max": 60,
+		"minimum_time_startapp": 0,
+
+		"kemungkinan_vungle": 0,
+		"kemungkinan_iron": 0,
+		"kemungkinan_fan": 0,
+		"kemungkinan_unity": 0,
+		"kemungkinan_admob": 0,
+		"kemungkinan_max": 0,
+		"kemungkinan_startapp": 1,
+
+		"adcolony_app_id": "-",
+		"adcolony_banner": "-",
+		"adcolony_inter": "-",
+
+		"vungle_app_id": "-",
+		"vungle_banner": "-",
+		"vungle_mrec": "-",
+		"vungle_inter": "-",
+
+		"iron_appkey": "-",
+
+		"fan_banner": "-",
+		"fan_mrec": "-",
+		"fan_inter": "-",
+
+		"unity_game_id": "-",
+		"unity_banner": "-",
+		"unity_inter": "-",
+
+		"admob_open": "-",
+		"admob_banner": "-",
+		"admob_inter": "-",
+
+		"max_banner": "-",
+		"max_mrec": "-",
+		"max_inter": "-",
+
+		"startapp_id": "205960563",
+
+		"app_live_store": "auto",
+		"shopee_aff": "https://shope.ee/AUG8gxNBGz"
+	},
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "DJ Bilang Pada Mama",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg"
+		},
+		{
+			"id": 3,
+			"name_category": "DJ Hanya Dia",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg"
+		},
+		{
+			"id": 4,
+			"name_category": "DJ Juara Hati",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg"
+		},
+		{
+			"id": 5,
+			"name_category": "DJ Sudah tak Cinta",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ ANGEL BABY",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_1.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 2,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ NGAMEN 5 SLOW BEAT",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_10.mp3",
+			"duration": "190",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 3,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ PECAH SERIBU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_11.mp3",
+			"duration": "300",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 4,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ POK AME AME BELALANG KUPU KUPU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_12.mp3",
+			"duration": "310",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 5,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ RIP LOVE FAOUZIA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_13.mp3",
+			"duration": "348",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 6,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ YA CUMA KAMU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_14.mp3",
+			"duration": "188",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 7,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ ZOOM KOPLO",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_15.mp3",
+			"duration": "270",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 8,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ CINTA SAMPAI MATI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_16.mp3",
+			"duration": "296",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 9,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ ASMARA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_17.mp3",
+			"duration": "300",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 10,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ BBHM RIHANA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_18.mp3",
+			"duration": "325",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 11,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ BILA NANTI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_19.mp3",
+			"duration": "229",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 12,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ BILA KAMU TAK LAGI DENGANKU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_2.mp3",
+			"duration": "391",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 13,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ BINGUNG PILIH YANG MANA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_20.mp3",
+			"duration": "267",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 14,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ CINTA SAMPAI MATI 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_21.mp3",
+			"duration": "353",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 15,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ DALAM SEPIKU KAULAH CANDAKU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_22.mp3",
+			"duration": "252",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 16,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ DEAR DIARY KU INGIN BERCERITA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_23.mp3",
+			"duration": "293",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 17,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ I LOSE MY SELF TONIGHT",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_24.mp3",
+			"duration": "324",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 18,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ LO MATI GUE PARTY COY SAMPE BAWAH",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_25.mp3",
+			"duration": "279",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 19,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ MAAFKAN AKU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_26.mp3",
+			"duration": "338",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 20,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ CINTA TERPENDAM",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_27.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 21,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ HANYA SATU PERSINGGAHAN",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_28.mp3",
+			"duration": "315",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 22,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ HIDUPKU SEPI TANPAMU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_29.mp3",
+			"duration": "256",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 23,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ DALAM SEPIKU KAULAH CANDAKU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_3.mp3",
+			"duration": "252",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 24,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ KAU PERMAISURI DALAM MIMPIKU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_30.mp3",
+			"duration": "315",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 25,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ DIA GADIS BERKRUDUNG MERAH",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_4.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 26,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ JOKO TINGKIR NGOMBE DAWET",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_5.mp3",
+			"duration": "222",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 27,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ SUDAH TAK CINTA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_6.mp3",
+			"duration": "350",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 28,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ HADIRMU AKAN MENJADI CERITA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_7.mp3",
+			"duration": "373",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 29,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ KU BERLAYAR DI LAUTAN TIDAK BERTEPIAN",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_8.mp3",
+			"duration": "358",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 30,
+			"name_category": "DJ Bilang Pada Mama",
+			"title": "DJ JIKA KAU BERTEMU AKU BEGINI TIARA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Bilang_Pada_Mama/Bilang_pada_mama_9.mp3",
+			"duration": "367",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 31,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "Tutur batinku tak akan salah",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_1.mp3",
+			"duration": "315",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 32,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "DJ Juara di hatiku",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_10.mp3",
+			"duration": "323",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 33,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "DJ Ko kira sa ni kuat tahan ni luka",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_11.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 34,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "Kukira kita akan bersama",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_12.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 35,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "Dj lagi lagi ku tak bisa tidur",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_13.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 36,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "Maafkan aku pergi Aku memang jodohnya",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_14.mp3",
+			"duration": "375",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 37,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "DJ Man down man down rip love",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_15.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 38,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "DJ Melepas Lajang",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_16.mp3",
+			"duration": "260",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 39,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "DJ Teruslah sembunyikan aku",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_17.mp3",
+			"duration": "386",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 40,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "Dj Cinta sampai mati",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_18.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 41,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "DJ kasih info mase burung puyuh dimakan biawak",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_19.mp3",
+			"duration": "244",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 42,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "Kita jangan bertengkar lagi",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_2.mp3",
+			"duration": "269",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 43,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "Rintik gerimis mengundang",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_20.mp3",
+			"duration": "224",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 44,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "DJ Hal Hebat",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_21.mp3",
+			"duration": "356",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 45,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "Kutahan Rindu Bukan Ku Sengaja",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_22.mp3",
+			"duration": "336",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 46,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "Dj aca aca nehi nehi remix",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_23.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 47,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "DJ Dan jika hati sudah tak mau",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_24.mp3",
+			"duration": "312",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 48,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "DJ Pok amai amai belalang kupu kupu",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_25.mp3",
+			"duration": "242",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 49,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "Dj akui sulit cari penggantimu",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_26.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 50,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "DJ papa muda goyang goyang",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_27.mp3",
+			"duration": "282",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 51,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "Dj pergilah engkau bersamanya",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_28.mp3",
+			"duration": "339",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 52,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "DJ Permaisuri dalam mimpiku",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_29.mp3",
+			"duration": "333",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 53,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "DJ Aku bukan orang kaya",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_3.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 54,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "DJ Piker keri remix",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_30.mp3",
+			"duration": "334",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 55,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "DJ Sanam re viral",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_31.mp3",
+			"duration": "214",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 56,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "DJ Tongrongan kami tongkrongan bukan pecundang",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_32.mp3",
+			"duration": "262",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 57,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "DJ Awalku mengenalmu tersita seluruh hatiku",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_4.mp3",
+			"duration": "274",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 58,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "DJ Bila tak mau disakiti",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_5.mp3",
+			"duration": "251",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 59,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "DJ Dalam sepiku kaulah candaku",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_6.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 60,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "Dear diary ku ingin bercerita",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_7.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 61,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "Dj Hanya dia",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_8.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 62,
+			"name_category": "DJ Dan Jika Hati Offline",
+			"title": "Dj merubah buih jadi permadani",
+			"image": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Dan_Jika_Hati_Offline/Dan_Jika_Hati_9.mp3",
+			"duration": "387",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 63,
+			"name_category": "DJ Hanya Dia",
+			"title": "DJ MENGHAPUS JEJAKMU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_1.mp3",
+			"duration": "221",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 64,
+			"name_category": "DJ Hanya Dia",
+			"title": "DJ Dalam sepiku kaulah candaku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_10.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 65,
+			"name_category": "DJ Hanya Dia",
+			"title": "DJ Ghost Jedagjedug Fullbeat",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_11.mp3",
+			"duration": "222",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 66,
+			"name_category": "DJ Hanya Dia",
+			"title": "Dj akui sulit cari penggantimu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_12.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 67,
+			"name_category": "DJ Hanya Dia",
+			"title": "DJ Penantian",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_13.mp3",
+			"duration": "299",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 68,
+			"name_category": "DJ Hanya Dia",
+			"title": "Dj aca aca nehi nehi remix",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_14.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 69,
+			"name_category": "DJ Hanya Dia",
+			"title": "Dj aku kecapean cari uang",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_15.mp3",
+			"duration": "244",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 70,
+			"name_category": "DJ Hanya Dia",
+			"title": "Dj andai kita dulu tak berpisah",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_16.mp3",
+			"duration": "287",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 71,
+			"name_category": "DJ Hanya Dia",
+			"title": "Dj Berjuta Kumbang Merayu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_17.mp3",
+			"duration": "361",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 72,
+			"name_category": "DJ Hanya Dia",
+			"title": "Dj Bukan Sekali Kamu Buat Begini",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_18.mp3",
+			"duration": "284",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 73,
+			"name_category": "DJ Hanya Dia",
+			"title": "DJ Cukup Kau disampingku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_19.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 74,
+			"name_category": "DJ Hanya Dia",
+			"title": "Dj merubah buih jadi permadani",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_2.mp3",
+			"duration": "387",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 75,
+			"name_category": "DJ Hanya Dia",
+			"title": "Dj dalamo dalamo viral",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_20.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 76,
+			"name_category": "DJ Hanya Dia",
+			"title": "DJ diGeboy Geboy muzair",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_21.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 77,
+			"name_category": "DJ Hanya Dia",
+			"title": "DJ ANGIN DATANG KASIH KABAR",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_22.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 78,
+			"name_category": "DJ Hanya Dia",
+			"title": "DJ BABY DONT GO X TIPAT TIPAT",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_23.mp3",
+			"duration": "231",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 79,
+			"name_category": "DJ Hanya Dia",
+			"title": "DJ GANI GANI X HUJAN BADAI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_24.mp3",
+			"duration": "353",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 80,
+			"name_category": "DJ Hanya Dia",
+			"title": "DJ HATE SABE MERINDU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_25.mp3",
+			"duration": "298",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 81,
+			"name_category": "DJ Hanya Dia",
+			"title": "DJ I Love Mama Mantu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_26.mp3",
+			"duration": "207",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 82,
+			"name_category": "DJ Hanya Dia",
+			"title": "dj kuch to bata",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_27.mp3",
+			"duration": "341",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 83,
+			"name_category": "DJ Hanya Dia",
+			"title": "DJ Salting x Pambasilet",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_28.mp3",
+			"duration": "312",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 84,
+			"name_category": "DJ Hanya Dia",
+			"title": "DJ SIA SIA BERJUANG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_29.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 85,
+			"name_category": "DJ Hanya Dia",
+			"title": "Dj PAPEPAP Soria Vadele Remix",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_3.mp3",
+			"duration": "309",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 86,
+			"name_category": "DJ Hanya Dia",
+			"title": "AKU BUKAN JODOHNYA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_30.mp3",
+			"duration": "432",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 87,
+			"name_category": "DJ Hanya Dia",
+			"title": "Dj Abang lagi dimana",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_31.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 88,
+			"name_category": "DJ Hanya Dia",
+			"title": "Dj Hanya dia",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_32.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 89,
+			"name_category": "DJ Hanya Dia",
+			"title": "DJ MATI MATIAN AKU MENCINTAIMU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_33.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 90,
+			"name_category": "DJ Hanya Dia",
+			"title": "DJ Melepas Lajang",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_34.mp3",
+			"duration": "260",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 91,
+			"name_category": "DJ Hanya Dia",
+			"title": "Dj pergilah engkau bersamanya",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_4.mp3",
+			"duration": "339",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 92,
+			"name_category": "DJ Hanya Dia",
+			"title": "DJ Hal Hebat",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_5.mp3",
+			"duration": "356",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 93,
+			"name_category": "DJ Hanya Dia",
+			"title": "Terluka Tapi Tak Berdarah",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_6.mp3",
+			"duration": "314",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 94,
+			"name_category": "DJ Hanya Dia",
+			"title": "DJ Akankah Kau Merasakan Rasa Cintaku Ini",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_7.mp3",
+			"duration": "363",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 95,
+			"name_category": "DJ Hanya Dia",
+			"title": "Dj Channa Mereya Remix",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_8.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 96,
+			"name_category": "DJ Hanya Dia",
+			"title": "Dj Cinta sampai mati",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Hanya_Dia/Hanya_Dia_9.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 97,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ RINTIK GERIMIS MENGUNDANG KEKASIH DI MALAM INI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_1.mp3",
+			"duration": "274",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 98,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ MONTAGE FINAL COUTDOWN X KUCING GARONG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_10.mp3",
+			"duration": "286",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 99,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ CINTA SAMPAI MATI - DJ DENGARKANLAH SEPANJANG JALAN AKU BERDOA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_11.mp3",
+			"duration": "294",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 100,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ CINTAKU - DALAM SEPIKU KAULAH CANDAKU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_12.mp3",
+			"duration": "320",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 101,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ CUKI CUKI MAINUNAH YANG FYP",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_13.mp3",
+			"duration": "340",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 102,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ DEAR DIARY KU INGIN BERCERITA - REMIX SLOW VIRAL",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_14.mp3",
+			"duration": "351",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 103,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ DIKASIH INFO NYA MASZEH - TING TING VIRAL",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_15.mp3",
+			"duration": "270",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 104,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ GOYANG SENGGOL",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_16.mp3",
+			"duration": "236",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 105,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ HADIRMU AKAN MENJADI CERITA TERINDAH (7 SAMUDERA) ANGKLUNG)",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_17.mp3",
+			"duration": "370",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 106,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ JERAWAT RINDU ROCKDUT REMIX",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_18.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 107,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ LEMES BESTIE GAK DI APA IN AYANG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_19.mp3",
+			"duration": "206",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 108,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ SANAM RE DJ INDIA VIRAL",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_2.mp3",
+			"duration": "344",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 109,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ LO MATI GUA PARTY X SAMPE BAWAH",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_20.mp3",
+			"duration": "336",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 110,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ MAAFKAN SOIBAH KU X AKON RIGH NOW REMIX",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_21.mp3",
+			"duration": "198",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 111,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ ANGEL BEBY JEDAG JEDUG FULBEAT VIRAL",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_22.mp3",
+			"duration": "262",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 112,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ ANU REMON SAKIT LAGI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_23.mp3",
+			"duration": "216",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 113,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ BILA KAMU TAK LAGI DENGANKU_HARGA DIRI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_24.mp3",
+			"duration": "347",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 114,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ BUKAN SEKEJAB DENGANMU_GERIMIS MENGUNDANG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_25.mp3",
+			"duration": "363",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 115,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ BURUNG PUYUH BURUNG KETUT DI MAKAN BIAWAK VIRAL",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_26.mp3",
+			"duration": "290",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 116,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ CALMA V3 X SONIA PADELE X SAFONAMIX",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_27.mp3",
+			"duration": "313",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 117,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ PAK PONG VONG THAI REMIX VIRAL",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_28.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 118,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ PAYUNG HITAM ROCKDUT",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_29.mp3",
+			"duration": "402",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 119,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ SIA SIA KU BERJUANG MERANTAU DI NEGERI ORANG REMIX VIRAL - SIA SIA BERJUANG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_3.mp3",
+			"duration": "368",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 120,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ PECAH SERIBU - HANYA DIA YANG ADA DI ANTARA JANTUNG HATI VIRAL",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_30.mp3",
+			"duration": "386",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 121,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ PIKIR KERI - IKI ATU DU PARKIRAN MAJU MUNDUR RA KARUAN",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_31.mp3",
+			"duration": "375",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 122,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ POK AMAI AMAI BELALANG KUPU KUPU VIRAL",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_32.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 123,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ RING DING DONG WAN GOMBEL REMIX VIRAL V2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_33.mp3",
+			"duration": "267",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 124,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ SOPAN GORENG GORENG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_4.mp3",
+			"duration": "325",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 125,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ SUDAH TAK CINTA VIRAL",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_5.mp3",
+			"duration": "347",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 126,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ MAN DOWN MAN DOWN - RIP LOVE FAOUZIA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_6.mp3",
+			"duration": "344",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 127,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ MAS AYO MAS TEMANIKU BERGOYANG REMIX",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_7.mp3",
+			"duration": "336",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 128,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ MENDEM MLETRE - TOMBO TEKO LORO LUNGO ANGKLUNG SLOW",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_8.mp3",
+			"duration": "381",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 129,
+			"name_category": "DJ Juara Hati",
+			"title": "DJ MENGAPA MUDAHNYA HATIMU MENDUA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Juara_Hati/Juara_Hati_9.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 130,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "DJ Man down man down rip love",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_1.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 131,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "DJ Bukan sekejab denganmu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_10.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 132,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "DJ Dalam sepiku kaulah candaku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_11.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 133,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "Dj akui sulit cari penggantimu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_12.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 134,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "DJ Jangan menangis untukku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_13.mp3",
+			"duration": "317",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 135,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "Kukira kita akan bersama",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_14.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 136,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "Dj lagi lagi ku tak bisa tidur",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_15.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 137,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "Maafkan aku pergi Aku memang jodohnya",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_16.mp3",
+			"duration": "375",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 138,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "DJ Melepas Lajang",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_17.mp3",
+			"duration": "260",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 139,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "Dj merubah buih jadi permadani",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_18.mp3",
+			"duration": "387",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 140,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "DJ Coba sejenak mengenal aku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_19.mp3",
+			"duration": "289",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 141,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "DJ Oh my angel angel baby angel",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_2.mp3",
+			"duration": "240",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 142,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "DJ Permaisuri dalam mimpiku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_20.mp3",
+			"duration": "333",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 143,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "DJ Sanam re viral",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_21.mp3",
+			"duration": "214",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 144,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "DJ Setia berbalas dusta",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_22.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 145,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "DJ Tak bisa ku lupa saat indah bersamamu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_23.mp3",
+			"duration": "321",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 146,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "DJ Tongrongan kami tongkrongan bukan pecundang",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_24.mp3",
+			"duration": "262",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 147,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "Kita jangan bertengkar lagi",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_25.mp3",
+			"duration": "269",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 148,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "DJ papa muda goyang goyang",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_26.mp3",
+			"duration": "282",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 149,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "Dj pergilah engkau bersamanya",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_27.mp3",
+			"duration": "339",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 150,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "DJ Sudah Tak Cinta",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_28.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 151,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "Dear diary ku ingin bercerita",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_29.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 152,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "DJ Pok amai amai belalang kupu kupu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_3.mp3",
+			"duration": "242",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 153,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "Dj Hanya dia",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_30.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 154,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "DJ Ko kira sa ni kuat tahan ni luka",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_31.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 155,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "Aku yang bertaruh dalam cinta",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_4.mp3",
+			"duration": "339",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 156,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "DJ Aku bukan orang kaya",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_5.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 157,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "DJ Aku jaga kesucian cinta",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_6.mp3",
+			"duration": "279",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 158,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "DJ Berapa lama aku memikirkanmu wahai dinda",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_7.mp3",
+			"duration": "279",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 159,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "DJ Bila bermimpi mimpi kamu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_8.mp3",
+			"duration": "302",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 160,
+			"name_category": "DJ Sudah tak Cinta",
+			"title": "DJ bila kamu tak lagi denganku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdanjikahatisudahtakmau/DJ_Sudah_tak_Cinta/Sudah_Tak_Cinta_9.mp3",
+			"duration": "298",
+			"lyrics": "Tidak Ada Lirik"
+		}
+	]
+}
