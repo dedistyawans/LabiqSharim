@@ -1,0 +1,1348 @@
+{
+	"ads":
+	{
+		"live_version_code": -1,
+
+		"splash_ad": "auto",
+		"banner_ad": "auto",
+		"mrec_ad": "auto",
+		"inter_ad": "auto",
+
+		"splash_ad_identifier": "identifier_1",
+		"inter_ad_identifier": "identifier_2",
+		"banner_ad_identifier": "identifier_3",
+		"mrec_ad_identifier": "identifier_4",
+
+		"interval_awal": 2,
+		"interval_vungle": 5,
+		"interval_iron": 5,
+		"interval_fan": 5,
+		"interval_unity": 5,
+		"interval_admob": 5,
+		"interval_max": 5,
+		"interval_startapp": 3,
+
+		"minimum_time_vungle": 60,
+		"minimum_time_iron": 60,
+		"minimum_time_fan": 60,
+		"minimum_time_unity": 60,
+		"minimum_time_admob": 61,
+		"minimum_time_max": 60,
+		"minimum_time_startapp": 0,
+
+		"kemungkinan_vungle": 0,
+		"kemungkinan_iron": 0,
+		"kemungkinan_fan": 0,
+		"kemungkinan_unity": 0,
+		"kemungkinan_admob": 0,
+		"kemungkinan_max": 0,
+		"kemungkinan_startapp": 1,
+
+		"adcolony_app_id": "-",
+		"adcolony_banner": "-",
+		"adcolony_inter": "-",
+
+		"vungle_app_id": "-",
+		"vungle_banner": "-",
+		"vungle_mrec": "-",
+		"vungle_inter": "-",
+
+		"iron_appkey": "-",
+
+		"fan_banner": "-",
+		"fan_mrec": "-",
+		"fan_inter": "-",
+
+		"unity_game_id": "-",
+		"unity_banner": "-",
+		"unity_inter": "-",
+
+		"admob_open": "-",
+		"admob_banner": "-",
+		"admob_inter": "-",
+
+		"max_banner": "-",
+		"max_mrec": "-",
+		"max_inter": "-",
+
+		"startapp_id": "205960563",
+
+		"app_live_store": "auto",
+		"shopee_aff": "https://shope.ee/AUG8gxNBGz"
+	},
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "DJ Cewek Viral",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg"
+		},
+		{
+			"id": 3,
+			"name_category": "Full Bass TikTok Offline",
+			"image": "file:///android_asset/content/Full_Bass_TikTok_Offline/tray.jpg"
+		},
+		{
+			"id": 4,
+			"name_category": "TikTok Viral Malaysia",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_1.mp3",
+			"duration": "286",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 2,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_10.mp3",
+			"duration": "291",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 3,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_11.mp3",
+			"duration": "333",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 4,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_12.mp3",
+			"duration": "299",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 5,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_13.mp3",
+			"duration": "347",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 6,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_14.mp3",
+			"duration": "389",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 7,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_15.mp3",
+			"duration": "157",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 8,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_16.mp3",
+			"duration": "404",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 9,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_17.mp3",
+			"duration": "355",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 10,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_18.mp3",
+			"duration": "259",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 11,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_19.mp3",
+			"duration": "2387",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 12,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_2.mp3",
+			"duration": "276",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 13,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_20.mp3",
+			"duration": "352",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 14,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 21",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_21.mp3",
+			"duration": "303",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 15,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 22",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_22.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 16,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 23",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_23.mp3",
+			"duration": "310",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 17,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 24",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_24.mp3",
+			"duration": "420",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 18,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 25",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_25.mp3",
+			"duration": "222",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 19,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 26",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_26.mp3",
+			"duration": "216",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 20,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 27",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_27.mp3",
+			"duration": "440",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 21,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 28",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_28.mp3",
+			"duration": "326",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 22,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 29",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_29.mp3",
+			"duration": "197",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 23,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_3.mp3",
+			"duration": "209",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 24,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 30",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_30.mp3",
+			"duration": "214",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 25,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 31",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_31.mp3",
+			"duration": "238",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 26,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 32",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_32.mp3",
+			"duration": "208",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 27,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 33",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_33.mp3",
+			"duration": "342",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 28,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 34",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_34.mp3",
+			"duration": "289",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 29,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 35",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_35.mp3",
+			"duration": "288",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 30,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 36",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_36.mp3",
+			"duration": "279",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 31,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 37",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_37.mp3",
+			"duration": "282",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 32,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 38",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_38.mp3",
+			"duration": "393",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 33,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 39",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_39.mp3",
+			"duration": "215",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 34,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_4.mp3",
+			"duration": "274",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 35,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 40",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_40.mp3",
+			"duration": "363",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 36,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 41",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_41.mp3",
+			"duration": "270",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 37,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_5.mp3",
+			"duration": "269",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 38,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_6.mp3",
+			"duration": "238",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 39,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_7.mp3",
+			"duration": "283",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 40,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_8.mp3",
+			"duration": "236",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 41,
+			"name_category": "DJ Cewek Viral",
+			"title": "Cewek Viral 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/DJ_Cewek_Viral/Cewek_Viral_9.mp3",
+			"duration": "184",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 42,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_1.mp3",
+			"duration": "344",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 43,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_10.mp3",
+			"duration": "270",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 44,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_11.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 45,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_12.mp3",
+			"duration": "178",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 46,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_13.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 47,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_14.mp3",
+			"duration": "133",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 48,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_15.mp3",
+			"duration": "298",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 49,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_16.mp3",
+			"duration": "159",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 50,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_17.mp3",
+			"duration": "296",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 51,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_18.mp3",
+			"duration": "283",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 52,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_19.mp3",
+			"duration": "437",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 53,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_2.mp3",
+			"duration": "345",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 54,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_20.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 55,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 21",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_21.mp3",
+			"duration": "175",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 56,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 22",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_22.mp3",
+			"duration": "306",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 57,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 23",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_23.mp3",
+			"duration": "271",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 58,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 24",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_24.mp3",
+			"duration": "274",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 59,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 25",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_25.mp3",
+			"duration": "286",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 60,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 26",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_26.mp3",
+			"duration": "232",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 61,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 27",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_27.mp3",
+			"duration": "168",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 62,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 28",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_28.mp3",
+			"duration": "215",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 63,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 29",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_29.mp3",
+			"duration": "227",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 64,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_3.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 65,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 30",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_30.mp3",
+			"duration": "298",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 66,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 31",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_31.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 67,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 32",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_32.mp3",
+			"duration": "205",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 68,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 33",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_33.mp3",
+			"duration": "377",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 69,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 34",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_34.mp3",
+			"duration": "153",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 70,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 35",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_35.mp3",
+			"duration": "265",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 71,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 36",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_36.mp3",
+			"duration": "260",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 72,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 37",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_37.mp3",
+			"duration": "337",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 73,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 38",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_38.mp3",
+			"duration": "294",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 74,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 39",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_39.mp3",
+			"duration": "290",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 75,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_4.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 76,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_5.mp3",
+			"duration": "215",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 77,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_6.mp3",
+			"duration": "158",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 78,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_7.mp3",
+			"duration": "290",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 79,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_8.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 80,
+			"name_category": "Dj Remix Sayang jangan marah",
+			"title": "Sayang jangan marah 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/Dj_Remix_Sayang_jangan_marah/Sayang_jangan_marah_9.mp3",
+			"duration": "221",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 81,
+			"name_category": "Full Bass TikTok Offline",
+			"title": "a01djganiganixhujanbadaianginributremixterbarutiktokviral2021mp3",
+			"image": "file:///android_asset/content/Full_Bass_TikTok_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Full_Bass_TikTok_Offline/a01djganiganixhujanbadaianginributremixterbarutiktokviral2021mp3.mp3",
+			"duration": "355",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 82,
+			"name_category": "Full Bass TikTok Offline",
+			"title": "a02djgoyangpargoyxifollowyouapolloxmashupremixterbarutiktokviral2021mp3",
+			"image": "file:///android_asset/content/Full_Bass_TikTok_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Full_Bass_TikTok_Offline/a02djgoyangpargoyxifollowyouapolloxmashupremixterbarutiktokviral2021mp3.mp3",
+			"duration": "345",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 83,
+			"name_category": "Full Bass TikTok Offline",
+			"title": "a03djgoyangpargoyxbaraberetibantibanxmashupremixterbarutiktokviral2021mp3",
+			"image": "file:///android_asset/content/Full_Bass_TikTok_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Full_Bass_TikTok_Offline/a03djgoyangpargoyxbaraberetibantibanxmashupremixterbarutiktokviral2021mp3.mp3",
+			"duration": "369",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 84,
+			"name_category": "Full Bass TikTok Offline",
+			"title": "a04djgoyangpargoyxlalalawonderlandxmashupremixterbarutiktokviral2021mp3",
+			"image": "file:///android_asset/content/Full_Bass_TikTok_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Full_Bass_TikTok_Offline/a04djgoyangpargoyxlalalawonderlandxmashupremixterbarutiktokviral2021mp3.mp3",
+			"duration": "385",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 85,
+			"name_category": "Full Bass TikTok Offline",
+			"title": "a05djakukecapeancariuangremixtiktokviral2021mp3",
+			"image": "file:///android_asset/content/Full_Bass_TikTok_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Full_Bass_TikTok_Offline/a05djakukecapeancariuangremixtiktokviral2021mp3.mp3",
+			"duration": "331",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 86,
+			"name_category": "Full Bass TikTok Offline",
+			"title": "bukandjakimilakukimpobaraberedjsanfonamixtiktokviraldjdesafahmyfayremixmp3",
+			"image": "file:///android_asset/content/Full_Bass_TikTok_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Full_Bass_TikTok_Offline/bukandjakimilakukimpobaraberedjsanfonamixtiktokviraldjdesafahmyfayremixmp3.mp3",
+			"duration": "347",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 87,
+			"name_category": "Full Bass TikTok Offline",
+			"title": "djdiamondintheskytiktokviralxbaraberepapaliatmamamudadjdesaremixmp3",
+			"image": "file:///android_asset/content/Full_Bass_TikTok_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Full_Bass_TikTok_Offline/djdiamondintheskytiktokviralxbaraberepapaliatmamamudadjdesaremixmp3.mp3",
+			"duration": "346",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 88,
+			"name_category": "Full Bass TikTok Offline",
+			"title": "djdigidigibambampengenpansosxmelodiviraltiktokdjdesaremixmp3",
+			"image": "file:///android_asset/content/Full_Bass_TikTok_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Full_Bass_TikTok_Offline/djdigidigibambampengenpansosxmelodiviraltiktokdjdesaremixmp3.mp3",
+			"duration": "423",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 89,
+			"name_category": "Full Bass TikTok Offline",
+			"title": "djgratatatatiktokterbaru2021djimutremixmp3",
+			"image": "file:///android_asset/content/Full_Bass_TikTok_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Full_Bass_TikTok_Offline/djgratatatatiktokterbaru2021djimutremixmp3.mp3",
+			"duration": "116",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 90,
+			"name_category": "Full Bass TikTok Offline",
+			"title": "djitwillrainviraltiktokterbaru2021djimutremixmp3",
+			"image": "file:///android_asset/content/Full_Bass_TikTok_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Full_Bass_TikTok_Offline/djitwillrainviraltiktokterbaru2021djimutremixmp3.mp3",
+			"duration": "270",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 91,
+			"name_category": "Full Bass TikTok Offline",
+			"title": "djonthefloorslowxmelodysulingterbaruviraltiktokdjdesafahmyfayremixmp3",
+			"image": "file:///android_asset/content/Full_Bass_TikTok_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Full_Bass_TikTok_Offline/djonthefloorslowxmelodysulingterbaruviraltiktokdjdesafahmyfayremixmp3.mp3",
+			"duration": "320",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 92,
+			"name_category": "Full Bass TikTok Offline",
+			"title": "djsetiapyangkulakukanuntukdirimutiktokviral2021djbahagiaremixfullbassmp3",
+			"image": "file:///android_asset/content/Full_Bass_TikTok_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Full_Bass_TikTok_Offline/djsetiapyangkulakukanuntukdirimutiktokviral2021djbahagiaremixfullbassmp3.mp3",
+			"duration": "317",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 93,
+			"name_category": "Full Bass TikTok Offline",
+			"title": "djsetiapyangkulakukanxakiakiviraltiktokdjimutremixmp3",
+			"image": "file:///android_asset/content/Full_Bass_TikTok_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Full_Bass_TikTok_Offline/djsetiapyangkulakukanxakiakiviraltiktokdjimutremixmp3.mp3",
+			"duration": "297",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 94,
+			"name_category": "Full Bass TikTok Offline",
+			"title": "djspiritleadmeslowremixterbarutiktokviral2021mp3",
+			"image": "file:///android_asset/content/Full_Bass_TikTok_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Full_Bass_TikTok_Offline/djspiritleadmeslowremixterbarutiktokviral2021mp3.mp3",
+			"duration": "317",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 95,
+			"name_category": "Full Bass TikTok Offline",
+			"title": "djstereoheartsgamelanslowviraltiktokxmelodyjepangdjdesafahmyfayremixmp3",
+			"image": "file:///android_asset/content/Full_Bass_TikTok_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Full_Bass_TikTok_Offline/djstereoheartsgamelanslowviraltiktokxmelodyjepangdjdesafahmyfayremixmp3.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 96,
+			"name_category": "Full Bass TikTok Offline",
+			"title": "djtakkantergantierenhillremixterbarutiktokviral2021djopusmp3",
+			"image": "file:///android_asset/content/Full_Bass_TikTok_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Full_Bass_TikTok_Offline/djtakkantergantierenhillremixterbarutiktokviral2021djopusmp3.mp3",
+			"duration": "344",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 97,
+			"name_category": "Full Bass TikTok Offline",
+			"title": "djterbarustrongestslowbeatremixtiktokviralterbaru2021djstrongestmusicremix561mp3",
+			"image": "file:///android_asset/content/Full_Bass_TikTok_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Full_Bass_TikTok_Offline/djterbarustrongestslowbeatremixtiktokviralterbaru2021djstrongestmusicremix561mp3.mp3",
+			"duration": "264",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 98,
+			"name_category": "Full Bass TikTok Offline",
+			"title": "djudaramanakiniyangkauhirupxmaimunahjatuhcintapadajamiladjtiktokterbaru2021fullbasmp3",
+			"image": "file:///android_asset/content/Full_Bass_TikTok_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Full_Bass_TikTok_Offline/djudaramanakiniyangkauhirupxmaimunahjatuhcintapadajamiladjtiktokterbaru2021fullbasmp3.mp3",
+			"duration": "296",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 99,
+			"name_category": "Full Bass TikTok Offline",
+			"title": "djwearethepeopleeuro2021melodyasikdjimutremixmp3",
+			"image": "file:///android_asset/content/Full_Bass_TikTok_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Full_Bass_TikTok_Offline/djwearethepeopleeuro2021melodyasikdjimutremixmp3.mp3",
+			"duration": "317",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 100,
+			"name_category": "Full Bass TikTok Offline",
+			"title": "djyangmanistapibukangulatiktokviral2021mp3",
+			"image": "file:///android_asset/content/Full_Bass_TikTok_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Full_Bass_TikTok_Offline/djyangmanistapibukangulatiktokviral2021mp3.mp3",
+			"duration": "353",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 101,
+			"name_category": "Full Bass TikTok Offline",
+			"title": "tiktokviraleraseyoudjimutremixmp3",
+			"image": "file:///android_asset/content/Full_Bass_TikTok_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Full_Bass_TikTok_Offline/tiktokviraleraseyoudjimutremixmp3.mp3",
+			"duration": "310",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 102,
+			"name_category": "Full Bass TikTok Offline",
+			"title": "viraltiktoksymphonyxbomabomayeixwakemeupdjimutremixmp3",
+			"image": "file:///android_asset/content/Full_Bass_TikTok_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Full_Bass_TikTok_Offline/viraltiktoksymphonyxbomabomayeixwakemeupdjimutremixmp3.mp3",
+			"duration": "289",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 103,
+			"name_category": "Full Bass TikTok Offline",
+			"title": "viraltiktokterbaru2021djastronautdjimutremixmp3",
+			"image": "file:///android_asset/content/Full_Bass_TikTok_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Full_Bass_TikTok_Offline/viraltiktokterbaru2021djastronautdjimutremixmp3.mp3",
+			"duration": "236",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 104,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_1.mp3",
+			"duration": "383",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 105,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_10.mp3",
+			"duration": "346",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 106,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_11.mp3",
+			"duration": "507",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 107,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_12.mp3",
+			"duration": "386",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 108,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_13.mp3",
+			"duration": "287",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 109,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_14.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 110,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_15.mp3",
+			"duration": "317",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 111,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_16.mp3",
+			"duration": "446",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 112,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_17.mp3",
+			"duration": "442",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 113,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_18.mp3",
+			"duration": "348",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 114,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_19.mp3",
+			"duration": "404",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 115,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_2.mp3",
+			"duration": "339",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 116,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_20.mp3",
+			"duration": "345",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 117,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 21",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_21.mp3",
+			"duration": "302",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 118,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 22",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_22.mp3",
+			"duration": "292",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 119,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 23",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_23.mp3",
+			"duration": "364",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 120,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 24",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_24.mp3",
+			"duration": "255",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 121,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 25",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_25.mp3",
+			"duration": "294",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 122,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 26",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_26.mp3",
+			"duration": "315",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 123,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 27",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_27.mp3",
+			"duration": "365",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 124,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 28",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_28.mp3",
+			"duration": "447",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 125,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 29",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_29.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 126,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_3.mp3",
+			"duration": "367",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 127,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 30",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_30.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 128,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 31",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_31.mp3",
+			"duration": "383",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 129,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 32",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_32.mp3",
+			"duration": "317",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 130,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 33",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_33.mp3",
+			"duration": "218",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 131,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 34",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_34.mp3",
+			"duration": "295",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 132,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 35",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_35.mp3",
+			"duration": "625",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 133,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 36",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_36.mp3",
+			"duration": "347",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 134,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_4.mp3",
+			"duration": "685",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 135,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_5.mp3",
+			"duration": "360",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 136,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_6.mp3",
+			"duration": "391",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 137,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_7.mp3",
+			"duration": "528",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 138,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_8.mp3",
+			"duration": "375",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 139,
+			"name_category": "TikTok Viral Malaysia",
+			"title": "TikTok malaysia 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtiktokviral2022offline/TikTok_Viral_Malaysia/TikTok_malaysia_9.mp3",
+			"duration": "252",
+			"lyrics": "Tidak Ada Lirik"
+		}
+	]
+}
