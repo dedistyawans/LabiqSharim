@@ -1,0 +1,2749 @@
+{
+	"ads":
+	{
+		"live_version_code": -1,
+
+		"splash_ad": "auto",
+		"banner_ad": "auto",
+		"mrec_ad": "auto",
+		"inter_ad": "auto",
+
+		"splash_ad_identifier": "identifier_1",
+		"inter_ad_identifier": "identifier_2",
+		"banner_ad_identifier": "identifier_3",
+		"mrec_ad_identifier": "identifier_4",
+
+		"interval_awal": 2,
+		"interval_vungle": 5,
+		"interval_iron": 5,
+		"interval_fan": 5,
+		"interval_unity": 5,
+		"interval_admob": 5,
+		"interval_max": 5,
+		"interval_startapp": 3,
+
+		"minimum_time_vungle": 60,
+		"minimum_time_iron": 60,
+		"minimum_time_fan": 60,
+		"minimum_time_unity": 60,
+		"minimum_time_admob": 61,
+		"minimum_time_max": 60,
+		"minimum_time_startapp": 0,
+
+		"kemungkinan_vungle": 0,
+		"kemungkinan_iron": 0,
+		"kemungkinan_fan": 0,
+		"kemungkinan_unity": 0,
+		"kemungkinan_admob": 0,
+		"kemungkinan_max": 0,
+		"kemungkinan_startapp": 1,
+
+		"adcolony_app_id": "-",
+		"adcolony_banner": "-",
+		"adcolony_inter": "-",
+
+		"vungle_app_id": "-",
+		"vungle_banner": "-",
+		"vungle_mrec": "-",
+		"vungle_inter": "-",
+
+		"iron_appkey": "-",
+
+		"fan_banner": "-",
+		"fan_mrec": "-",
+		"fan_inter": "-",
+
+		"unity_game_id": "-",
+		"unity_banner": "-",
+		"unity_inter": "-",
+
+		"admob_open": "-",
+		"admob_banner": "-",
+		"admob_inter": "-",
+
+		"max_banner": "-",
+		"max_mrec": "-",
+		"max_inter": "-",
+
+		"startapp_id": "205960563",
+
+		"app_live_store": "auto",
+		"shopee_aff": "https://shope.ee/AUG8gxNBGz"
+	},
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "Nike Ardila",
+			"image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/649b743b-5e54-47ea-823e-f9c1941f0597.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "Betharia Sonata",
+			"image": "https://lh3.googleusercontent.com/5BnAOcFqMYA48VUvf14eRgnh6xfAwzmSNY60zQk9__5EarnXfqoIOX3csfinCAGeTg"
+		},
+		{
+			"id": 3,
+			"name_category": "Broery Marantika",
+			"image": "https://image.winudf.com/v2/image/Y29tLkJyb2VyeU1hcmFudGlrYUxhZ3VOb3N0YWxnaWEubm1heGRyb29pZF9zY3JlZW5fMF8xNTE5MzU0Nzg1XzA0Mg/screen-0.jpg?fakeurl=1&type=.jpg"
+		},
+		{
+			"id": 4,
+			"name_category": "Chrisye",
+			"image": "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/09/16/1479501579.jpg"
+		},
+		{
+			"id":5,
+			"name_category": "Rhoma Irama",
+			"image": "https://s3.theasianparent.com/tap-assets-prod/wp-content/uploads/sites/24/2021/06/rhoma-irama-1.jpg"
+		},
+		{
+			"id": 6,
+			"name_category": "Pance Pondang",
+			"image": "https://upload.wikimedia.org/wikipedia/id/2/2f/Pance_Pondaag.jpg"
+		},
+		{
+			"id": 7,
+			"name_category": "God Bless",
+			"image": "https://i.scdn.co/image/ab6761610000e5ebc7c4922c7eeeb920fe83db57"
+		},
+		{
+			"id": 8,
+			"name_category": "Rita Sugiarto",
+			"image": "https://cdn1-production-images-kly.akamaized.net/g_RALmz4IBePQYYinffTw6hDtBs=/640x853/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2843677/original/066815900_1562146841-rita_sugiarto_01.jpg"
+		},
+		{
+			"id": 9,
+			"name_category": "Doel Sumbang",
+			"image": "https://www.wowkeren.com/images/photo/doel_sumbang.jpg"
+		},
+		{
+			"id": 10,
+			"name_category": "Yuni Shara",
+			"image": "https://cdns.klimg.com/kapanlagi.com/g/1/2/12_foto_transformasi_yuni_shara_tetap_awet_muda_di_usia_hampir_setengah_abad/p/transformasi_yuni_shara-20191107-002-non_fotografer_kly.jpg"
+		},
+		{
+			"id": 11,
+			"name_category": "Christine Panjaitan",
+			"image": "https://i.scdn.co/image/ab67616d0000b27313c3e236ea955e1011193fd6"
+		},
+		{
+			"id": 12,
+			"name_category": "Hamdan Att",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmZMqoN_06GBrgpY5XR4wUxb_5W-cJnagysbwpUFrOphtfWND5THq_QcKxl8JVmfaHieI&usqp=CAU"
+		},
+		{
+			"id": 13,
+			"name_category": "Meggy Z",
+			"image": "https://s.mxmcdn.net/images-storage/albums5/9/3/3/2/7/2/33272339_500_500.jpg"
+		},
+		{
+			"id": 14,
+			"name_category": "Elvy Sukaesih",
+			"image": "http://nadanusantara.files.wordpress.com/2009/04/elvysukaesih01.jpg"
+		},
+		{
+			"id": 15,
+			"name_category": "Ebit G Ade",
+			"image": "https://cdn1-production-images-kly.akamaized.net/YlvIFGpGhD_R3KmKi9brkZfXZUY=/640x853/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2827845/original/053441200_1560425528-ebiet1.jpg"
+		},
+		{
+			"id": 16,
+			"name_category": "Cici Paramida",
+			"image": "https://c-cl.cdn.smule.com/rs-s91/arr/10/01/fda0c540-f597-4367-97de-1227b749037b_1024.jpg"
+		},
+		{
+			"id": 17,
+			"name_category": "Mansyur S",
+			"image": "https://i0.wp.com/1.bp.blogspot.com/-Mhn2AnvWPus/WilnIKAJgsI/AAAAAAAAAmY/XnOBYIe-C488j0WOZxNhpt160Fh9zncgQCLcBGAs/s1600/images.jpg?ssl=1"
+		},
+		{
+			"id": 18,
+			"name_category": "Gito Rollies",
+			"image": "https://asset.kompas.com/crops/DDG2_fEiMUCUkc49yO-xaJrdf9Q=/0x0:419x279/750x500/data/photo/2021/02/28/603af91bcee91.jpg"
+		},
+		{
+			"id": 19,
+			"name_category": "Dewi Yull",
+			"image": "https://c-cl.cdn.smule.com/rs-s80/arr/c3/45/92eaccfc-df8b-4ba7-9f73-3f25563f6407_1024.jpg"
+		},
+		{
+			"id": 20,
+			"name_category": "Koes Plus",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8W3YxkJHjrAsRPMKbLZKwYV62Dl0OpmCmJ8YlG_1GjRPqZS_Erho7pgYPzDCzTiHxdmk&usqp=CAU"
+		},
+		{
+			"id": 21,
+			"name_category": "Kenangan Lawas",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/tray.jpg"
+		},
+		{
+			"id": 22,
+			"name_category": "Nostalgia Lawas Offline",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg"
+		},
+		{
+			"id": 23,
+			"name_category": "Nostalgia Tembang",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg"
+		},
+		{
+			"id": 24,
+			"name_category": "Remix Lawas",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg"
+		},
+		{
+			"id": 25,
+			"name_category": "Tembang Kenangan 80an",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "Kenangan Lawas",
+			"title": "amman-syah-cinta-tak-seindah-yang-diucap",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/amman-syah-cinta-tak-seindah-yang-diucap.mp3",
+			"duration": "197",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 2,
+			"name_category": "Kenangan Lawas",
+			"title": "andaikan-kau-datang",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/andaikan-kau-datang.mp3",
+			"duration": "230",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 3,
+			"name_category": "Kenangan Lawas",
+			"title": "azman-zuraida",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/azman-zuraida.mp3",
+			"duration": "289",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 4,
+			"name_category": "Kenangan Lawas",
+			"title": "ben-nathan-stanza-sepi-sekeping-hati",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/ben-nathan-stanza-sepi-sekeping-hati.mp3",
+			"duration": "279",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 5,
+			"name_category": "Kenangan Lawas",
+			"title": "bintang-kehidupan",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/bintang-kehidupan.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 6,
+			"name_category": "Kenangan Lawas",
+			"title": "caresfree-rindu-bayangan",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/caresfree-rindu-bayangan.mp3",
+			"duration": "181",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 7,
+			"name_category": "Kenangan Lawas",
+			"title": "dlloyd-cinta-hampa",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/dlloyd-cinta-hampa.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 8,
+			"name_category": "Kenangan Lawas",
+			"title": "dween-satu-penantian",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/dween-satu-penantian.mp3",
+			"duration": "247",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 9,
+			"name_category": "Kenangan Lawas",
+			"title": "dween-satu-waktu-dahulu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/dween-satu-waktu-dahulu.mp3",
+			"duration": "246",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 10,
+			"name_category": "Kenangan Lawas",
+			"title": "gantengnya-pacarku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/gantengnya-pacarku.mp3",
+			"duration": "311",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 11,
+			"name_category": "Kenangan Lawas",
+			"title": "gingersbread-hanya-nyanyian-dalam-sepi",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/gingersbread-hanya-nyanyian-dalam-sepi.mp3",
+			"duration": "242",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 12,
+			"name_category": "Kenangan Lawas",
+			"title": "gingersbread-kau-ku-rindukan",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/gingersbread-kau-ku-rindukan.mp3",
+			"duration": "223",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 13,
+			"name_category": "Kenangan Lawas",
+			"title": "ibnor-riza-mimpi-yang-tak-sudah",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/ibnor-riza-mimpi-yang-tak-sudah.mp3",
+			"duration": "292",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 14,
+			"name_category": "Kenangan Lawas",
+			"title": "j-mezan-melati-di-tapal-batas",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/j-mezan-melati-di-tapal-batas.mp3",
+			"duration": "184",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 15,
+			"name_category": "Kenangan Lawas",
+			"title": "jaay-jaay-cukuplah-sekali",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/jaay-jaay-cukuplah-sekali.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 16,
+			"name_category": "Kenangan Lawas",
+			"title": "jaay-jaay-keasingan-dalam-luka",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/jaay-jaay-keasingan-dalam-luka.mp3",
+			"duration": "241",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 17,
+			"name_category": "Kenangan Lawas",
+			"title": "jamal-sepi-seorang-perindu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/jamal-sepi-seorang-perindu.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 18,
+			"name_category": "Kenangan Lawas",
+			"title": "kazar-memburu-impian",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/kazar-memburu-impian.mp3",
+			"duration": "162",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 19,
+			"name_category": "Kenangan Lawas",
+			"title": "keny-remy-marten-suratan-atau-kebetulan",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/keny-remy-marten-suratan-atau-kebetulan.mp3",
+			"duration": "226",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 20,
+			"name_category": "Kenangan Lawas",
+			"title": "khayrol-idlan-aku-yang-kau-panggil-sayang",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/khayrol-idlan-aku-yang-kau-panggil-sayang.mp3",
+			"duration": "292",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 21,
+			"name_category": "Kenangan Lawas",
+			"title": "kopratasa-permata-untuk-isteri",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/kopratasa-permata-untuk-isteri.mp3",
+			"duration": "241",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 22,
+			"name_category": "Kenangan Lawas",
+			"title": "kubangga-mencintaimu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/kubangga-mencintaimu.mp3",
+			"duration": "297",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 23,
+			"name_category": "Kenangan Lawas",
+			"title": "kugadaikan-cintaku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/kugadaikan-cintaku.mp3",
+			"duration": "245",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 24,
+			"name_category": "Kenangan Lawas",
+			"title": "m-naseer-suatu-masa",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/m-naseer-suatu-masa.mp3",
+			"duration": "237",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 25,
+			"name_category": "Kenangan Lawas",
+			"title": "malik-ridzwan-cukup-sampai-di-sini-sayang",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Kenangan_Lawas/malik-ridzwan-cukup-sampai-di-sini-sayang.mp3",
+			"duration": "290",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 26,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Dian Piesesha — Tak Ingin Sendiri",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_1.mp3",
+			"duration": "253",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 27,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "kucari jalan terbaik lirik pance pondaag -5161971771634293294",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_10.mp3",
+			"duration": "256",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 28,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "KUCOBA HIDUP SENDIRI - DIAN PISESHA",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_11.mp3",
+			"duration": "259",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 29,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Mengapa tak pernah jujur - Pance",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_12.mp3",
+			"duration": "261",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 30,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Nostaliga lawas 13",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_13.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 31,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "musafir",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_14.mp3",
+			"duration": "289",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 32,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Nostaliga lawas 15",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_15.mp3",
+			"duration": "239",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 33,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Nostaliga lawas 16",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_16.mp3",
+			"duration": "276",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 34,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Nostaliga lawas 17",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_17.mp3",
+			"duration": "281",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 35,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Nostaliga lawas 18",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_18.mp3",
+			"duration": "235",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 36,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Nostaliga lawas 19",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_19.mp3",
+			"duration": "265",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 37,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Dingin",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_2.mp3",
+			"duration": "314",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 38,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Nostaliga lawas 20",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_20.mp3",
+			"duration": "277",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 39,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Nostaliga lawas 21",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_21.mp3",
+			"duration": "283",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 40,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "ratih purwasih surat cinta 3178945967062507643",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_22.mp3",
+			"duration": "236",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 41,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "11 Teluk Bayur",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_23.mp3",
+			"duration": "188",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 42,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Nostaliga lawas 24",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_24.mp3",
+			"duration": "263",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 43,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Nostaliga lawas 25",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_25.mp3",
+			"duration": "321",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 44,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Nostaliga lawas 26",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_26.mp3",
+			"duration": "285",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 45,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Nostaliga lawas 27",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_27.mp3",
+			"duration": "352",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 46,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Nostaliga lawas 28",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_28.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 47,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "tommy j pisa disini dibatas kota ini 8197221778176540887",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_29.mp3",
+			"duration": "263",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 48,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Nostaliga lawas 3",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_3.mp3",
+			"duration": "343",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 49,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Kereta Senja",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_30.mp3",
+			"duration": "261",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 50,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Setangkai Anggrek Bulan",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_31.mp3",
+			"duration": "244",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 51,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Nostaliga lawas 32",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_32.mp3",
+			"duration": "325",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 52,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "aku ingin cinta yang nyata betharia sonatha 7512879790000624140",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_33.mp3",
+			"duration": "297",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 53,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "#Antara Benci Dan Rindu",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_34.mp3",
+			"duration": "314",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 54,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "apa yang kucari endang s taurina 989009300686878435",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_35.mp3",
+			"duration": "265",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 55,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Nostaliga lawas 36",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_36.mp3",
+			"duration": "283",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 56,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Kau tercipta untukku",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_37.mp3",
+			"duration": "256",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 57,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "biar ku cari jalanku tommy j pisa lirik 737345717780633792",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_38.mp3",
+			"duration": "241",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 58,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Nostaliga lawas 39",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_39.mp3",
+			"duration": "281",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 59,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Nostaliga lawas 4",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_4.mp3",
+			"duration": "238",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 60,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Dibatas Kota Ini",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_40.mp3",
+			"duration": "265",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 61,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Dian Piesesha   Satukan Hati Kami",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_41.mp3",
+			"duration": "267",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 62,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Nostaliga lawas 42",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_42.mp3",
+			"duration": "258",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 63,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "03 Hatimu Hatiku",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_5.mp3",
+			"duration": "196",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 64,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Nostaliga lawas 6",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_6.mp3",
+			"duration": "301",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 65,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Nostaliga lawas 7",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_7.mp3",
+			"duration": "276",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 66,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Nostaliga lawas 8",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_8.mp3",
+			"duration": "315",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 67,
+			"name_category": "Nostalgia Lawas Offline",
+			"title": "Kisah Kasih di Sekolah",
+			"image": "file:///android_asset/content/Nostalgia_Lawas_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Nostalgia_Lawas_Offline/Nostaliga_lawas_9.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 68,
+			"name_category": "Nostalgia Tembang",
+			"title": "Antara Benci Dan Rindu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/antarabencidanrindu.mp3",
+			"duration": "303",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 69,
+			"name_category": "Nostalgia Tembang",
+			"title": "Asmara",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/asmara.mp3",
+			"duration": "273",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 70,
+			"name_category": "Nostalgia Tembang",
+			"title": "ayah",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/ayah.mp3",
+			"duration": "325",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 71,
+			"name_category": "Nostalgia Tembang",
+			"title": "diana nasution",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/bencitapirindu.mp3",
+			"duration": "279",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 72,
+			"name_category": "Nostalgia Tembang",
+			"title": "Biarkan Aku Menangis",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/biarkanakumenangis.mp3",
+			"duration": "281",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 73,
+			"name_category": "Nostalgia Tembang",
+			"title": "bilacintadidusta",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/bilacintadidusta.mp3",
+			"duration": "321",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 74,
+			"name_category": "Nostalgia Tembang",
+			"title": "Bunga Mawar",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/bungamawar.mp3",
+			"duration": "235",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 75,
+			"name_category": "Nostalgia Tembang",
+			"title": "cintakutakterbataswaktu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/cintakutakterbataswaktu.mp3",
+			"duration": "288",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 76,
+			"name_category": "Nostalgia Tembang",
+			"title": "Demi Kau Dan Si Buah Hati",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/demikaudansibuahhati.mp3",
+			"duration": "265",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 77,
+			"name_category": "Nostalgia Tembang",
+			"title": "Dibatas Kota Ini",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/dibataskotaini.mp3",
+			"duration": "265",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 78,
+			"name_category": "Nostalgia Tembang",
+			"title": "Dingin",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/dingin.mp3",
+			"duration": "314",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 79,
+			"name_category": "Nostalgia Tembang",
+			"title": "Di Puncak Bukit Hijau",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/dipuncakbukithijau.mp3",
+			"duration": "278",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 80,
+			"name_category": "Nostalgia Tembang",
+			"title": "Gereja Tua",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/gerejatua.mp3",
+			"duration": "282",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 81,
+			"name_category": "Nostalgia Tembang",
+			"title": "03 Hatimu Hatiku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/hatimuhatiku.mp3",
+			"duration": "196",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 82,
+			"name_category": "Nostalgia Tembang",
+			"title": "Hati Yang Luka",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/hatiyangluka.mp3",
+			"duration": "329",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 83,
+			"name_category": "Nostalgia Tembang",
+			"title": "janganadadusta",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/janganadadusta.mp3",
+			"duration": "239",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 84,
+			"name_category": "Nostalgia Tembang",
+			"title": "iis sugianto",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/jangansakitihatinya.mp3",
+			"duration": "303",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 85,
+			"name_category": "Nostalgia Tembang",
+			"title": "Katakan Sejujurnya",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/katakansejujurnya.mp3",
+			"duration": "240",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 86,
+			"name_category": "Nostalgia Tembang",
+			"title": "Kau tercipta untukku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/kauterciptauntukku.mp3",
+			"duration": "257",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 87,
+			"name_category": "Nostalgia Tembang",
+			"title": "Kisah Cintaku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/kisahcintaku.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 88,
+			"name_category": "Nostalgia Tembang",
+			"title": "kisahkasihdisekolah",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/kisahkasihdisekolah.mp3",
+			"duration": "245",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 89,
+			"name_category": "Nostalgia Tembang",
+			"title": "Raih Purwasih",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/kisahsedihdihariminggu.mp3",
+			"duration": "245",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 90,
+			"name_category": "Nostalgia Tembang",
+			"title": "kutakakanbersuara",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/kutakakanbersuara.mp3",
+			"duration": "269",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 91,
+			"name_category": "Nostalgia Tembang",
+			"title": "02 Mulanya Biasa Saja",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/mulanyabiasasaja.mp3",
+			"duration": "256",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 92,
+			"name_category": "Nostalgia Tembang",
+			"title": "mungkinkah",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/mungkinkah.mp3",
+			"duration": "261",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 93,
+			"name_category": "Nostalgia Tembang",
+			"title": "iis sugianto",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/nasibmunasibku.mp3",
+			"duration": "279",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 94,
+			"name_category": "Nostalgia Tembang",
+			"title": "pergilahkasih",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/pergilahkasih.mp3",
+			"duration": "289",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 95,
+			"name_category": "Nostalgia Tembang",
+			"title": "Setangkai Anggrek Bulan",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/setangkai_anggrek_bulan.mp3",
+			"duration": "244",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 96,
+			"name_category": "Nostalgia Tembang",
+			"title": "Setulus Hatimu Semurni Cintaku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/setulushatimusemurnicintamu.mp3",
+			"duration": "340",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 97,
+			"name_category": "Nostalgia Tembang",
+			"title": "Surat Undangan",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/suratundangan.mp3",
+			"duration": "264",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 98,
+			"name_category": "Nostalgia Tembang",
+			"title": "Tenda Biru",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Nostalgia_Tembang/tendabiru.mp3",
+			"duration": "321",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 99,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_1.mp3",
+			"duration": "333",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 100,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_10.mp3",
+			"duration": "267",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 101,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_11.mp3",
+			"duration": "257",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 102,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_12.mp3",
+			"duration": "338",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 103,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_13.mp3",
+			"duration": "250",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 104,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_14.mp3",
+			"duration": "236",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 105,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_15.mp3",
+			"duration": "325",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 106,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_16.mp3",
+			"duration": "264",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 107,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_17.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 108,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_18.mp3",
+			"duration": "348",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 109,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_19.mp3",
+			"duration": "285",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 110,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_2.mp3",
+			"duration": "269",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 111,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_20.mp3",
+			"duration": "269",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 112,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 21",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_21.mp3",
+			"duration": "250",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 113,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 22",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_22.mp3",
+			"duration": "302",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 114,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 23",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_23.mp3",
+			"duration": "312",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 115,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 24",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_24.mp3",
+			"duration": "300",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 116,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 25",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_25.mp3",
+			"duration": "289",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 117,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 26",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_26.mp3",
+			"duration": "267",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 118,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 27",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_27.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 119,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 28",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_28.mp3",
+			"duration": "282",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 120,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 29",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_29.mp3",
+			"duration": "377",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 121,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_3.mp3",
+			"duration": "303",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 122,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 30",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_30.mp3",
+			"duration": "288",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 123,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 31",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_31.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 124,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 32",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_32.mp3",
+			"duration": "287",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 125,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 33",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_33.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 126,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_4.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 127,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_5.mp3",
+			"duration": "264",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 128,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_6.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 129,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_7.mp3",
+			"duration": "224",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 130,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_8.mp3",
+			"duration": "343",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 131,
+			"name_category": "Remix Lawas",
+			"title": "Remix Lawas 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Remix_Lawas/Remix_Lawas_9.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 132,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_1.mp3",
+			"duration": "290",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 133,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_10.mp3",
+			"duration": "258",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 134,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_11.mp3",
+			"duration": "265",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 135,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_12.mp3",
+			"duration": "293",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 136,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_13.mp3",
+			"duration": "296",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 137,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_14.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 138,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_15.mp3",
+			"duration": "325",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 139,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_16.mp3",
+			"duration": "325",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 140,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_17.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 141,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_18.mp3",
+			"duration": "310",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 142,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_19.mp3",
+			"duration": "333",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 143,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_2.mp3",
+			"duration": "303",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 144,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_20.mp3",
+			"duration": "255",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 145,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 21",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_21.mp3",
+			"duration": "246",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 146,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 22",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_22.mp3",
+			"duration": "183",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 147,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 23",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_23.mp3",
+			"duration": "262",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 148,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 24",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_24.mp3",
+			"duration": "199",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 149,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 25",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_25.mp3",
+			"duration": "270",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 150,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 26",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_26.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 151,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 27",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_27.mp3",
+			"duration": "299",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 152,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 28",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_28.mp3",
+			"duration": "351",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 153,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 29",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_29.mp3",
+			"duration": "320",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 154,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_3.mp3",
+			"duration": "210",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 155,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 30",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_30.mp3",
+			"duration": "202",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 156,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 31",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_31.mp3",
+			"duration": "197",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 157,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 32",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_32.mp3",
+			"duration": "252",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 158,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 33",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_33.mp3",
+			"duration": "253",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 159,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 34",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_34.mp3",
+			"duration": "286",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 160,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 35",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_35.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 161,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 36",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_36.mp3",
+			"duration": "333",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 162,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 37",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_37.mp3",
+			"duration": "237",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 163,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 38",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_38.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 164,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 39",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_39.mp3",
+			"duration": "365",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 165,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_4.mp3",
+			"duration": "262",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 166,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 40",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_40.mp3",
+			"duration": "245",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 167,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 41",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_41.mp3",
+			"duration": "258",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 168,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 42",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_42.mp3",
+			"duration": "312",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 169,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 43",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_43.mp3",
+			"duration": "293",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 170,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 44",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_44.mp3",
+			"duration": "234",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 171,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 45",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_45.mp3",
+			"duration": "230",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 172,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_5.mp3",
+			"duration": "173",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 173,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_6.mp3",
+			"duration": "276",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 174,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_7.mp3",
+			"duration": "269",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 175,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_8.mp3",
+			"duration": "293",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 176,
+			"name_category": "Tembang Kenangan 80an",
+			"title": "Kenangan 80an 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.lagutembangkenanganviral/Tembang_Kenangan_80an/Kenangan_80an_9.mp3",
+			"duration": "352",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 1,
+			"name_category": "Nike Ardila",
+			"title": "Aku Takkan Bersuara",
+			"image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/649b743b-5e54-47ea-823e-f9c1941f0597.jpg",
+			"link_mp3": "https://archive.org/download/NIKEARDILA_20170531/Aku%20Takkan%20Bersuara.mp3",
+			"duration": "270",
+			"lyrics": ""
+		},
+		{
+			"id": 1,
+			"name_category": "Nike Ardila",
+			"title": "Bayang Bayang Hitam",
+			"image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/649b743b-5e54-47ea-823e-f9c1941f0597.jpg",
+			"link_mp3": "https://archive.org/download/LaguNikeArdillaLengkap/Bayang%20Bayang%20Hitam.mp3",
+			"duration": "280",
+			"lyrics": ""
+		},
+		{
+			"id": 1,
+			"name_category": "Nike Ardila",
+			"title": "Belenggu Cinta",
+			"image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/649b743b-5e54-47ea-823e-f9c1941f0597.jpg",
+			"link_mp3": "https://archive.org/download/LaguNikeArdillaLengkap/Belenggu%20Cinta.mp3",
+			"duration": "276",
+			"lyrics": ""
+		},
+		{
+			"id": 1,
+			"name_category": "Nike Ardila",
+			"title": "Berikan Setitik Air",
+			"image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/649b743b-5e54-47ea-823e-f9c1941f0597.jpg",
+			"link_mp3": "https://archive.org/download/LaguNikeArdillaLengkap/Berikan%20Setitik%20Air.mp3",
+			"duration": "312",
+			"lyrics": ""
+		},
+		{
+			"id": 1,
+			"name_category": "Nike Ardila",
+			"title": "Biarkan Cintamu Berlalu",
+			"image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/649b743b-5e54-47ea-823e-f9c1941f0597.jpg",
+			"link_mp3": "https://archive.org/download/LaguNikeArdillaLengkap/Biarkan%20Cintamu%20Berlalu.mp3",
+			"duration": "321",
+			"lyrics": ""
+		},
+		{
+			"id": 1,
+			"name_category": "Nike Ardila",
+			"title": "Biarlah Aku Mengalah",
+			"image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/649b743b-5e54-47ea-823e-f9c1941f0597.jpg",
+			"link_mp3": "https://archive.org/download/LaguNikeArdillaLengkap/Biarlah%20Aku%20Mengalah.mp3",
+			"duration": "282",
+			"lyrics": ""
+		},
+		{
+			"id": 1,
+			"name_category": "Nike Ardila",
+			"title": "Biarlah",
+			"image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/649b743b-5e54-47ea-823e-f9c1941f0597.jpg",
+			"link_mp3": "https://archive.org/download/LaguNikeArdillaLengkap/Biarlah.mp3",
+			"duration": "222",
+			"lyrics": ""
+		},
+		{
+			"id": 1,
+			"name_category": "Nike Ardila",
+			"title": "Paksakan Ibadah",
+			"image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/649b743b-5e54-47ea-823e-f9c1941f0597.jpg",
+			"link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/paksakan_ibadah.mp3",
+			"duration": "101",
+			"lyrics": ""
+		},
+		{
+			"id": 1,
+			"name_category": "Nike Ardila",
+			"title": "Bintang Kehidupan",
+			"image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/649b743b-5e54-47ea-823e-f9c1941f0597.jpg",
+			"link_mp3": "https://archive.org/download/LaguNikeArdillaLengkap/Bintang%20Kehidupan.mp3",
+			"duration": "268",
+			"lyrics": ""
+		},
+		{
+			"id": 1,
+			"name_category": "Nike Ardila",
+			"title": "Cinta Diantara Kita",
+			"image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/649b743b-5e54-47ea-823e-f9c1941f0597.jpg",
+			"link_mp3": "https://archive.org/download/LaguNikeArdillaLengkap/Cinta%20Diantara%20Kita.mp3",
+			"duration": "243",
+			"lyrics": ""
+		},
+		{
+			"id": 1,
+			"name_category": "Nike Ardila",
+			"title": "Cinta Kita",
+			"image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/649b743b-5e54-47ea-823e-f9c1941f0597.jpg",
+			"link_mp3": "https://archive.org/download/LaguNikeArdillaLengkap/Cinta%20Kita.mp3",
+			"duration": "290",
+			"lyrics": ""
+		},
+		{
+			"id": 1,
+			"name_category": "Nike Ardila",
+			"title": "Cintaku Suci",
+			"image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/649b743b-5e54-47ea-823e-f9c1941f0597.jpg",
+			"link_mp3": "https://archive.org/download/LaguNikeArdillaLengkap/Cintaku%20Suci.mp3",
+			"duration": "267",
+			"lyrics": ""
+		},
+		{
+			"id": 1,
+			"name_category": "Nike Ardila",
+			"title": "Cukup Sampai Disini",
+			"image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/649b743b-5e54-47ea-823e-f9c1941f0597.jpg",
+			"link_mp3": "https://archive.org/download/LaguNikeArdillaLengkap/Cukup%20Sampai%20Disini.mp3",
+			"duration": "291",
+			"lyrics": ""
+		},
+		{
+			"id": 1,
+			"name_category": "Nike Ardila",
+			"title": "Duri Terlindung",
+			"image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/649b743b-5e54-47ea-823e-f9c1941f0597.jpg",
+			"link_mp3": "https://archive.org/download/LaguNikeArdillaLengkap/Duri Terlindung.mp3",
+			"duration": "239",
+			"lyrics": ""
+		},
+		{
+			"id": 1,
+			"name_category": "Nike Ardila",
+			"title": "Deru Debu",
+			"image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/649b743b-5e54-47ea-823e-f9c1941f0597.jpg",
+			"link_mp3": "https://archive.org/download/LaguNikeArdillaLengkap/Deru%20Debu.mp3",
+			"duration": "260",
+			"lyrics": ""
+		},
+		{
+			"id": 1,
+			"name_category": "Nike Ardila",
+			"title": "Paksakan Ibadah",
+			"image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/649b743b-5e54-47ea-823e-f9c1941f0597.jpg",
+			"link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/paksakan_ibadah.mp3",
+			"duration": "101",
+			"lyrics": ""
+		},
+		{
+			"id": 1,
+			"name_category": "Nike Ardila",
+			"title": "Ingin Kulupakan",
+			"image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/649b743b-5e54-47ea-823e-f9c1941f0597.jpg",
+			"link_mp3": "https://archive.org/download/LaguNikeArdillaLengkap/Ingin%20Kulupakan.mp3",
+			"duration": "264",
+			"lyrics": ""
+		},
+		{
+			"id": 1,
+			"name_category": "Nike Ardila",
+			"title": "Izinkanlah",
+			"image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/649b743b-5e54-47ea-823e-f9c1941f0597.jpg",
+			"link_mp3": "https://archive.org/download/LaguNikeArdillaLengkap/Izinkanlah.mp3",
+			"duration": "230",
+			"lyrics": ""
+		},
+		{
+			"id": 1,
+			"name_category": "Nike Ardila",
+			"title": "Jangan Kau Duakan",
+			"image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/649b743b-5e54-47ea-823e-f9c1941f0597.jpg",
+			"link_mp3": "https://archive.org/download/LaguNikeArdillaLengkap/Jangan%20Kau%20Duakan.mp3",
+			"duration": "273",
+			"lyrics": ""
+		},
+		{
+			"id": 1,
+			"name_category": "Nike Ardila",
+			"title": "Jalan Yang Terpisah",
+			"image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/649b743b-5e54-47ea-823e-f9c1941f0597.jpg",
+			"link_mp3": "https://archive.org/download/LaguNikeArdillaLengkap/Jalan%20Yang%20Terpisah.mp3",
+			"duration": "256",
+			"lyrics": ""
+		},
+		{
+			"id": 1,
+			"name_category": "Nike Ardila",
+			"title": "Kapan Kau Mengerti",
+			"image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/649b743b-5e54-47ea-823e-f9c1941f0597.jpg",
+			"link_mp3": "https://archive.org/download/LaguNikeArdillaLengkap/Kapan%20Kau%20Mengerti.mp3",
+			"duration": "301",
+			"lyrics": ""
+		},
+		{
+			"id": 1,
+			"name_category": "Nike Ardila",
+			"title": "Mama Aku Ingin Pulang",
+			"image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/649b743b-5e54-47ea-823e-f9c1941f0597.jpg",
+			"link_mp3": "https://archive.org/download/LaguNikeArdillaLengkap/Mama%20Aku%20Ingin%20Pulang.mp3",
+			"duration": "275",
+			"lyrics": ""
+		},
+		{
+			"id": 1,
+			"name_category": "Nike Ardila",
+			"title": "Matahariku",
+			"image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/649b743b-5e54-47ea-823e-f9c1941f0597.jpg",
+			"link_mp3": "https://archive.org/download/LaguNikeArdillaLengkap/Matahariku.mp3",
+			"duration": "307",
+			"lyrics": ""
+		},
+		{
+			"id": 1,
+			"name_category": "Nike Ardila",
+			"title": "Menanti Kejujuran",
+			"image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/649b743b-5e54-47ea-823e-f9c1941f0597.jpg",
+			"link_mp3": "https://archive.org/download/LaguNikeArdillaLengkap/Menanti%20Kejujuran.mp3",
+			"duration": "259",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "Betharia Sonata",
+			"title": "Aku Ingin Cinta Yang Nyata",
+			"image": "https://lh3.googleusercontent.com/5BnAOcFqMYA48VUvf14eRgnh6xfAwzmSNY60zQk9__5EarnXfqoIOX3csfinCAGeTg",
+			"link_mp3": "https://archive.org/download/BethariaSonata_201612/Aku%20Ingin%20Cinta%20Yang%20Nyata%20%282%29.mp3",
+			"duration": "311",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "Betharia Sonata",
+			"title": "Biar Ku Sendiri ",
+			"image": "https://lh3.googleusercontent.com/5BnAOcFqMYA48VUvf14eRgnh6xfAwzmSNY60zQk9__5EarnXfqoIOX3csfinCAGeTg",
+			"link_mp3": "https://archive.org/download/BethariaSonata_201612/Biar%20Ku%20Sendiri.MP3",
+			"duration": "281",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "Betharia Sonata",
+			"title": "Biarkanlah Dia Pergi",
+			"image": "https://lh3.googleusercontent.com/5BnAOcFqMYA48VUvf14eRgnh6xfAwzmSNY60zQk9__5EarnXfqoIOX3csfinCAGeTg",
+			"link_mp3": "https://archive.org/download/BethariaSonata_201612/Biarkanlah%20Dia%20Pergi.MP3",
+			"duration": "371",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "Betharia Sonata",
+			"title": "Hati Seorang Wanita",
+			"image": "https://lh3.googleusercontent.com/5BnAOcFqMYA48VUvf14eRgnh6xfAwzmSNY60zQk9__5EarnXfqoIOX3csfinCAGeTg",
+			"link_mp3": "https://archive.org/download/BethariaSonata_201612/Hati%20Seorang%20Wanita%20%282%29.MP3",
+			"duration": "239",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "Betharia Sonata",
+			"title": "04 Hitam Putih Jadi Satu",
+			"image": "https://lh3.googleusercontent.com/5BnAOcFqMYA48VUvf14eRgnh6xfAwzmSNY60zQk9__5EarnXfqoIOX3csfinCAGeTg",
+			"link_mp3": "https://archive.org/download/BethariaSonata_201612/Hitam%20Putih%20Jadi%20Satu%20%282%29.mp3",
+			"duration": "311",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "Betharia Sonata",
+			"title": "01 Hati Yang Luka",
+			"image": "https://lh3.googleusercontent.com/5BnAOcFqMYA48VUvf14eRgnh6xfAwzmSNY60zQk9__5EarnXfqoIOX3csfinCAGeTg",
+			"link_mp3": "https://archive.org/download/BethariaSonata_201612/Hati%20Yang%20Luka%20%282%29.mp3",
+			"duration": "355",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "Betharia Sonata",
+			"title": "08 Jangan Ingin Menang Sendiri",
+			"image": "https://lh3.googleusercontent.com/5BnAOcFqMYA48VUvf14eRgnh6xfAwzmSNY60zQk9__5EarnXfqoIOX3csfinCAGeTg",
+			"link_mp3": "https://archive.org/download/BethariaSonata_201612/Jangan%20Ingin%20Menang%20Sendiri.mp3",
+			"duration": "305",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "Betharia Sonata",
+			"title": "10 Kau Salah Sebut Namaku",
+			"image": "https://lh3.googleusercontent.com/5BnAOcFqMYA48VUvf14eRgnh6xfAwzmSNY60zQk9__5EarnXfqoIOX3csfinCAGeTg",
+			"link_mp3": "https://archive.org/download/BethariaSonata_201612/Kau%20Salah%20Sebut%20Namaku%20%282%29.mp3",
+			"duration": "271",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "Betharia Sonata",
+			"title": "09 Kau Tercipta Untukku",
+			"image": "https://lh3.googleusercontent.com/5BnAOcFqMYA48VUvf14eRgnh6xfAwzmSNY60zQk9__5EarnXfqoIOX3csfinCAGeTg",
+			"link_mp3": "https://archive.org/download/BethariaSonata_201612/Kau%20Tercipta%20Untukku%20%282%29.MP3",
+			"duration": "258",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "Betharia Sonata",
+			"title": "12 Kau Untuk Siapa",
+			"image": "https://lh3.googleusercontent.com/5BnAOcFqMYA48VUvf14eRgnh6xfAwzmSNY60zQk9__5EarnXfqoIOX3csfinCAGeTg",
+			"link_mp3": "https://archive.org/download/BethariaSonata_201612/Kau%20Untuk%20Siapa.mp3",
+			"duration": "257",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "Betharia Sonata",
+			"title": "08 Maafkan Daku",
+			"image": "https://lh3.googleusercontent.com/5BnAOcFqMYA48VUvf14eRgnh6xfAwzmSNY60zQk9__5EarnXfqoIOX3csfinCAGeTg",
+			"link_mp3": "https://archive.org/download/BethariaSonata_201612/Maafkan%20Daku.mp3",
+			"duration": "207",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "Betharia Sonata",
+			"title": "Memoryku",
+			"image": "https://lh3.googleusercontent.com/5BnAOcFqMYA48VUvf14eRgnh6xfAwzmSNY60zQk9__5EarnXfqoIOX3csfinCAGeTg",
+			"link_mp3": "https://archive.org/download/BethariaSonata_201612/Memoryku.mp3",
+			"duration": "357",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "Betharia Sonata",
+			"title": "03 Satu Tanda Tangan",
+			"image": "https://lh3.googleusercontent.com/5BnAOcFqMYA48VUvf14eRgnh6xfAwzmSNY60zQk9__5EarnXfqoIOX3csfinCAGeTg",
+			"link_mp3": "https://archive.org/download/BethariaSonata_201612/Satu%20Tanda%20Tangan.mp3",
+			"duration": "307",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "Betharia Sonata",
+			"title": "Seandainya",
+			"image": "https://lh3.googleusercontent.com/5BnAOcFqMYA48VUvf14eRgnh6xfAwzmSNY60zQk9__5EarnXfqoIOX3csfinCAGeTg",
+			"link_mp3": "https://archive.org/download/BethariaSonata_201612/Seandainya.MP3",
+			"duration": "323",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "Betharia Sonata",
+			"title": "02 Tak Mungkin Lagi",
+			"image": "https://lh3.googleusercontent.com/5BnAOcFqMYA48VUvf14eRgnh6xfAwzmSNY60zQk9__5EarnXfqoIOX3csfinCAGeTg",
+			"link_mp3": "https://archive.org/download/BethariaSonata_201612/Tak%20Mungkin%20Lagi%20%282%29.MP3",
+			"duration": "284",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "Betharia Sonata",
+			"title": "10 Tinggal Mimpi",
+			"image": "https://lh3.googleusercontent.com/5BnAOcFqMYA48VUvf14eRgnh6xfAwzmSNY60zQk9__5EarnXfqoIOX3csfinCAGeTg",
+			"link_mp3": "https://archive.org/download/BethariaSonata_201612/Tinggal%20Mimpi.MP3",
+			"duration": "326",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "Broery Marantika",
+			"title": "AKU BEGINI ENGKAU BEGITU",
+			"image": "https://image.winudf.com/v2/image/Y29tLkJyb2VyeU1hcmFudGlrYUxhZ3VOb3N0YWxnaWEubm1heGRyb29pZF9zY3JlZW5fMF8xNTE5MzU0Nzg1XzA0Mg/screen-0.jpg?fakeurl=1&type=.jpg",
+			"link_mp3": "https://archive.org/download/BroeryMarantika_20170628/AKU%20BEGINI%20ENGKAU%20BEGITU%20-%20BROERY%20MARANTIKA.mp3",
+			"duration": "367",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "Broery Marantika",
+			"title": "Aku Begini Engkau Begitu",
+			"image": "https://image.winudf.com/v2/image/Y29tLkJyb2VyeU1hcmFudGlrYUxhZ3VOb3N0YWxnaWEubm1heGRyb29pZF9zY3JlZW5fMF8xNTE5MzU0Nzg1XzA0Mg/screen-0.jpg?fakeurl=1&type=.jpg",
+			"link_mp3": "https://archive.org/download/BroeryMarantika_20170628/Aku%20Begini%20Engkau%20Begitu%20-%20Broery%20Marantika%281%29.mp3",
+			"duration": "378",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "Broery Marantika",
+			"title": "Ayah",
+			"image": "https://image.winudf.com/v2/image/Y29tLkJyb2VyeU1hcmFudGlrYUxhZ3VOb3N0YWxnaWEubm1heGRyb29pZF9zY3JlZW5fMF8xNTE5MzU0Nzg1XzA0Mg/screen-0.jpg?fakeurl=1&type=.jpg",
+			"link_mp3": "https://archive.org/download/BroeryMarantika_20170628/Ayah%20-%20Broery%20Marantika%281%29.mp3",
+			"duration": "359",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "Broery Marantika",
+			"title": "BIARLAH BULAN BERBICARA",
+			"image": "https://image.winudf.com/v2/image/Y29tLkJyb2VyeU1hcmFudGlrYUxhZ3VOb3N0YWxnaWEubm1heGRyb29pZF9zY3JlZW5fMF8xNTE5MzU0Nzg1XzA0Mg/screen-0.jpg?fakeurl=1&type=.jpg",
+			"link_mp3": "https://archive.org/download/BroeryMarantika_20170628/BIARLAH%20BULAN%20BERBICARA%3DBROERY%20MARANTIKA.mp3",
+			"duration": "325",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "Broery Marantika",
+			"title": "Kasihmu Kasihku",
+			"image": "https://image.winudf.com/v2/image/Y29tLkJyb2VyeU1hcmFudGlrYUxhZ3VOb3N0YWxnaWEubm1heGRyb29pZF9zY3JlZW5fMF8xNTE5MzU0Nzg1XzA0Mg/screen-0.jpg?fakeurl=1&type=.jpg",
+			"link_mp3": "https://archive.org/download/BroeryMarantika_20170628/BROERY%20MARANTIKA%20-%20Kasihmu%20Kasihku%20%281970s%29.mp3",
+			"duration": "230",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "Broery Marantika",
+			"title": "Ku Cari Jalan Terbaik",
+			"image": "https://image.winudf.com/v2/image/Y29tLkJyb2VyeU1hcmFudGlrYUxhZ3VOb3N0YWxnaWEubm1heGRyb29pZF9zY3JlZW5fMF8xNTE5MzU0Nzg1XzA0Mg/screen-0.jpg?fakeurl=1&type=.jpg",
+			"link_mp3": "https://archive.org/download/BroeryMarantika_20170628/Broery%20-%20Ku%20Cari%20Jalan%20Terbaik.mp3",
+			"duration": "272",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "Broery Marantika",
+			"title": "Aku Jatuh Cinta",
+			"image": "https://image.winudf.com/v2/image/Y29tLkJyb2VyeU1hcmFudGlrYUxhZ3VOb3N0YWxnaWEubm1heGRyb29pZF9zY3JlZW5fMF8xNTE5MzU0Nzg1XzA0Mg/screen-0.jpg?fakeurl=1&type=.jpg",
+			"link_mp3": "https://archive.org/download/BroeryMarantika_20170628/Broery%20Marantika%20-%20Aku%20Jatuh%20Cinta%20%28Karaoke%20Video%29.mp3",
+			"duration": "230",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "Broery Marantika",
+			"title": "Angin Malam",
+			"image": "https://image.winudf.com/v2/image/Y29tLkJyb2VyeU1hcmFudGlrYUxhZ3VOb3N0YWxnaWEubm1heGRyb29pZF9zY3JlZW5fMF8xNTE5MzU0Nzg1XzA0Mg/screen-0.jpg?fakeurl=1&type=.jpg",
+			"link_mp3": "https://archive.org/download/BroeryMarantika_20170628/Broery%20Marantika%20-%20Angin%20Malam.mp3",
+			"duration": "277",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "Broery Marantika",
+			"title": "Pamit Selamat Tinggal",
+			"image": "https://image.winudf.com/v2/image/Y29tLkJyb2VyeU1hcmFudGlrYUxhZ3VOb3N0YWxnaWEubm1heGRyb29pZF9zY3JlZW5fMF8xNTE5MzU0Nzg1XzA0Mg/screen-0.jpg?fakeurl=1&type=.jpg",
+			"link_mp3": "https://archive.org/download/BroeryMarantika_20170628/Broery%20Marantika%20-%20Pamit%20Selamat%20Tinggal%20%28LIRIK%29%20LIRIKMUSIK10.mp3",
+			"duration": "258",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "Broery Marantika",
+			"title": "Sabar Menanti",
+			"image": "https://image.winudf.com/v2/image/Y29tLkJyb2VyeU1hcmFudGlrYUxhZ3VOb3N0YWxnaWEubm1heGRyb29pZF9zY3JlZW5fMF8xNTE5MzU0Nzg1XzA0Mg/screen-0.jpg?fakeurl=1&type=.jpg",
+			"link_mp3": "https://archive.org/download/BroeryMarantika_20170628/Broery%20Marantika%20-%20Sabar%20Menanti%20%281976%29.mp3",
+			"duration": "217",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "Broery Marantika",
+			"title": "Selamat Tinggal",
+			"image": "https://image.winudf.com/v2/image/Y29tLkJyb2VyeU1hcmFudGlrYUxhZ3VOb3N0YWxnaWEubm1heGRyb29pZF9zY3JlZW5fMF8xNTE5MzU0Nzg1XzA0Mg/screen-0.jpg?fakeurl=1&type=.jpg",
+			"link_mp3": "https://archive.org/download/BroeryMarantika_20170628/Broery%20Marantika%20-%20Selamat%20Tinggal.mp33",
+			"duration": "250",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "Broery Marantika",
+			"title": "Rembulan Merah",
+			"image": "https://image.winudf.com/v2/image/Y29tLkJyb2VyeU1hcmFudGlrYUxhZ3VOb3N0YWxnaWEubm1heGRyb29pZF9zY3JlZW5fMF8xNTE5MzU0Nzg1XzA0Mg/screen-0.jpg?fakeurl=1&type=.jpg",
+			"link_mp3": "https://archive.org/download/BroeryMarantika_20170628/Broery%20Marantika%20Rembulan%20Merah%20%28HQ%20Audio%29.mp4.mp3",
+			"duration": "264",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "Broery Marantika",
+			"title": "Tinggi gunung seribu janji",
+			"image": "https://image.winudf.com/v2/image/Y29tLkJyb2VyeU1hcmFudGlrYUxhZ3VOb3N0YWxnaWEubm1heGRyb29pZF9zY3JlZW5fMF8xNTE5MzU0Nzg1XzA0Mg/screen-0.jpg?fakeurl=1&type=.jpg",
+			"link_mp3": "https://archive.org/download/BroeryMarantika_20170628/Broery%20MarantikaTinggi%20gunung%20seribu%20janji.mp3",
+			"duration": "270",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "Broery Marantika",
+			"title": "Cinta",
+			"image": "https://image.winudf.com/v2/image/Y29tLkJyb2VyeU1hcmFudGlrYUxhZ3VOb3N0YWxnaWEubm1heGRyb29pZF9zY3JlZW5fMF8xNTE5MzU0Nzg1XzA0Mg/screen-0.jpg?fakeurl=1&type=.jpg",
+			"link_mp3": "https://archive.org/download/BroeryMarantika_20170628/Cinta%20%28Cipt.%20Titiek%20Puspa%29%20-%20Broery%20Marantika.mp3",
+			"duration": "214",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "Broery Marantika",
+			"title": "DIBALIK MATA ADA DUSTA",
+			"image": "https://image.winudf.com/v2/image/Y29tLkJyb2VyeU1hcmFudGlrYUxhZ3VOb3N0YWxnaWEubm1heGRyb29pZF9zY3JlZW5fMF8xNTE5MzU0Nzg1XzA0Mg/screen-0.jpg?fakeurl=1&type=.jpg",
+			"link_mp3": "https://archive.org/download/BroeryMarantika_20170628/DIBALIK%20MATA%20ADA%20DUSTA%20BY%20BROERY%20PESOLIMA.mp3",
+			"duration": "275",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "Broery Marantika",
+			"title": "Hati Yang Terluka",
+			"image": "https://image.winudf.com/v2/image/Y29tLkJyb2VyeU1hcmFudGlrYUxhZ3VOb3N0YWxnaWEubm1heGRyb29pZF9zY3JlZW5fMF8xNTE5MzU0Nzg1XzA0Mg/screen-0.jpg?fakeurl=1&type=.jpg",
+			"link_mp3": "https://archive.org/download/BroeryMarantika_20170628/Hati%20Yang%20Terluka%20-%20Broery%20Marantika%281%29.mp3",
+			"duration": "259",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "Broery Marantika",
+			"title": "JUWITA",
+			"image": "https://image.winudf.com/v2/image/Y29tLkJyb2VyeU1hcmFudGlrYUxhZ3VOb3N0YWxnaWEubm1heGRyb29pZF9zY3JlZW5fMF8xNTE5MzU0Nzg1XzA0Mg/screen-0.jpg?fakeurl=1&type=.jpg",
+			"link_mp3": "https://archive.org/download/BroeryMarantika_20170628/JUWITA%20Broery%20Marantika.mp3",
+			"duration": "306",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "Broery Marantika",
+			"title": "Jangan Ditanya Kemana Aku Pergi",
+			"image": "https://image.winudf.com/v2/image/Y29tLkJyb2VyeU1hcmFudGlrYUxhZ3VOb3N0YWxnaWEubm1heGRyb29pZF9zY3JlZW5fMF8xNTE5MzU0Nzg1XzA0Mg/screen-0.jpg?fakeurl=1&type=.jpg",
+			"link_mp3": "https://archive.org/download/BroeryMarantika_20170628/Jangan%20Ditanya%20Kemana%20Aku%20Pergi%20-%20Broery%20Marantika%20_%20By%20Dea.mp4.mp3",
+			"duration": "292",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "Broery Marantika",
+			"title": "Jatuh Cinta",
+			"image": "https://image.winudf.com/v2/image/Y29tLkJyb2VyeU1hcmFudGlrYUxhZ3VOb3N0YWxnaWEubm1heGRyb29pZF9zY3JlZW5fMF8xNTE5MzU0Nzg1XzA0Mg/screen-0.jpg?fakeurl=1&type=.jpg",
+			"link_mp3": "https://archive.org/download/BroeryMarantika_20170628/Jatuh%20Cinta%20-%20Broery%20Marantika%20%20HD%20.mp3",
+			"duration": "226",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "Chrisye",
+			"title": "Menunggumu",
+			"image": "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/09/16/1479501579.jpg",
+			"link_mp3": "https://archive.org/download/chrisye_20170626/01%20Chrisye%20Menunggumu.mp3",
+			"duration": "227",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "Chrisye",
+			"title": "Seperti Yang Kau Minta",
+			"image": "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/09/16/1479501579.jpg",
+			"link_mp3": "https://archive.org/download/chrisye_20170626/02%20Chrisye%20Seperti%20Yang%20Kau%20Minta.mp3",
+			"duration": "290",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "Chrisye",
+			"title": "Pelangi",
+			"image": "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/09/16/1479501579.jpg",
+			"link_mp3": "https://archive.org/download/chrisye_20170626/03%20Chrisye%20Pelangi.mp3",
+			"duration": "326",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "Chrisye",
+			"title": "Pergilah Kasih",
+			"image": "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/09/16/1479501579.jpg",
+			"link_mp3": "https://archive.org/download/chrisye_20170626/04%20Chrisye%20Pergilah%20Kasih.mp3",
+			"duration": "288",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "Chrisye",
+			"title": "Cinta Yang Lain",
+			"image": "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/09/16/1479501579.jpg",
+			"link_mp3": "https://archive.org/download/chrisye_20170626/05%20Chrisye%20Cinta%20Yang%20Lain.mp3",
+			"duration": "259",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "Chrisye",
+			"title": "Untukku",
+			"image": "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/09/16/1479501579.jpg",
+			"link_mp3": "https://archive.org/download/chrisye_20170626/06%20Chrisye%20Untukku.mp3",
+			"duration": "261",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "Chrisye",
+			"title": "Kisah Kasih Disekolah",
+			"image": "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/09/16/1479501579.jpg",
+			"link_mp3": "https://archive.org/download/chrisye_20170626/07%20Chrisye%20Kisah%20Kasih%20Disekolah.mp3",
+			"duration": "280",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "Chrisye",
+			"title": "Andai Aku Bisa",
+			"image": "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/09/16/1479501579.jpg",
+			"link_mp3": "https://archive.org/download/chrisye_20170626/08%20Chrisye%20Andai%20Aku%20Bisa.mp3",
+			"duration": "309",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "Chrisye",
+			"title": "Kangen",
+			"image": "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/09/16/1479501579.jpg",
+			"link_mp3": "https://archive.org/download/chrisye_20170626/09%20Chrisye%20Kangen.mp3",
+			"duration": "329",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "Chrisye",
+			"title": "Maafkanlah",
+			"image": "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/09/16/1479501579.jpg",
+			"link_mp3": "https://archive.org/download/chrisye_20170626/10%20Chrisye%20Maafkanlah.mp3",
+			"duration": "329",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "Chrisye",
+			"title": "Cintamu T'lah Berlalu",
+			"image": "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/09/16/1479501579.jpg",
+			"link_mp3": "https://archive.org/download/chrisye_20170626/11%20Chrisye%20Cintamu%20Tlah%20Berlalu.mp3",
+			"duration": "277",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "Chrisye",
+			"title": "Malam Pertama",
+			"image": "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/09/16/1479501579.jpg",
+			"link_mp3": "https://archive.org/download/chrisye_20170626/12%20Chrisye%20Malam%20Pertama.mp3",
+			"duration": "295",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "Chrisye",
+			"title": "Sendiri Lagi",
+			"image": "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/09/16/1479501579.jpg",
+			"link_mp3": "https://archive.org/download/chrisye_20170626/13%20Chrisye%20Sendiri%20Lagi.mp3",
+			"duration": "283",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "Chrisye",
+			"title": "Kisah Cintaku",
+			"image": "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/09/16/1479501579.jpg",
+			"link_mp3": "https://archive.org/download/chrisye_20170626/14%20Chrisye%20Kisah%20Cintaku.mp3",
+			"duration": "304",
+			"lyrics": ""
+		},
+		{
+			"id":5,
+			"name_category": "Rhoma Irama",
+			"title": "135 juta",
+			"image": "https://s3.theasianparent.com/tap-assets-prod/wp-content/uploads/sites/24/2021/06/rhoma-irama-1.jpg",
+			"link_mp3": "https://archive.org/download/lagurhomairamaterbaik/v1/135%20juta.mp3",
+			"duration": "217",
+			"lyrics": ""
+		},
+		{
+			"id":5,
+			"name_category": "Rhoma Irama",
+			"title": "Ada Udang Di Balik Batu",
+			"image": "https://s3.theasianparent.com/tap-assets-prod/wp-content/uploads/sites/24/2021/06/rhoma-irama-1.jpg",
+			"link_mp3": "https://archive.org/download/lagurhomairamaterbaik/v1/AdaUdangDiBalikBatu.mp3",
+			"duration": "208",
+			"lyrics": ""
+		},
+		{
+			"id":5,
+			"name_category": "Rhoma Irama",
+			"title": "Air Mata Darah",
+			"image": "https://s3.theasianparent.com/tap-assets-prod/wp-content/uploads/sites/24/2021/06/rhoma-irama-1.jpg",
+			"link_mp3": "https://archive.org/download/lagurhomairamaterbaik/v1/AirMataDarah.mp3",
+			"duration": "216",
+			"lyrics": ""
+		},
+		{
+			"id":5,
+			"name_category": "Rhoma Irama",
+			"title": "Ajojing",
+			"image": "https://s3.theasianparent.com/tap-assets-prod/wp-content/uploads/sites/24/2021/06/rhoma-irama-1.jpg",
+			"link_mp3": "https://archive.org/download/lagurhomairamaterbaik/v1/Ajojing.mp3",
+			"duration": "163",
+			"lyrics": ""
+		},
+		{
+			"id":5,
+			"name_category": "Rhoma Irama",
+			"title": "AnakYangMalang",
+			"image": "https://s3.theasianparent.com/tap-assets-prod/wp-content/uploads/sites/24/2021/06/rhoma-irama-1.jpg",
+			"link_mp3": "https://archive.org/download/lagurhomairamaterbaik/v1/AnakYangMalang.mp3",
+			"duration": "361",
+			"lyrics": ""
+		},
+		{
+			"id":5,
+			"name_category": "Rhoma Irama",
+			"title": "Ani",
+			"image": "https://s3.theasianparent.com/tap-assets-prod/wp-content/uploads/sites/24/2021/06/rhoma-irama-1.jpg",
+			"link_mp3": "https://archive.org/download/lagurhomairamaterbaik/v1/Ani.mp3",
+			"duration": "276",
+			"lyrics": ""
+		},
+		{
+			"id":5,
+			"name_category": "Rhoma Irama",
+			"title": "AsalSombong",
+			"image": "https://s3.theasianparent.com/tap-assets-prod/wp-content/uploads/sites/24/2021/06/rhoma-irama-1.jpg",
+			"link_mp3": "https://archive.org/download/lagurhomairamaterbaik/v1/AsalSombong.mp3",
+			"duration": "167",
+			"lyrics": ""
+		},
+		{
+			"id":5,
+			"name_category": "Rhoma Irama",
+			"title": "AsamGaram",
+			"image": "https://s3.theasianparent.com/tap-assets-prod/wp-content/uploads/sites/24/2021/06/rhoma-irama-1.jpg",
+			"link_mp3": "https://archive.org/download/lagurhomairamaterbaik/v1/AsamGaram.mp3",
+			"duration": "170",
+			"lyrics": ""
+		},
+		{
+			"id":5,
+			"name_category": "Rhoma Irama",
+			"title": "BahasaIsyarat",
+			"image": "https://s3.theasianparent.com/tap-assets-prod/wp-content/uploads/sites/24/2021/06/rhoma-irama-1.jpg",
+			"link_mp3": "https://archive.org/download/lagurhomairamaterbaik/v1/BahasaIsyarat.mp3",
+			"duration": "228",
+			"lyrics": ""
+		},
+		{
+			"id":5,
+			"name_category": "Rhoma Irama",
+			"title": "Banyak Jalan Menuju Roma",
+			"image": "https://s3.theasianparent.com/tap-assets-prod/wp-content/uploads/sites/24/2021/06/rhoma-irama-1.jpg",
+			"link_mp3": "https://archive.org/download/lagurhomairamaterbaik/v1/BanyakJalanMenujuRoma.mp3",
+			"duration": "277",
+			"lyrics": ""
+		},
+		{
+			"id":5,
+			"name_category": "Rhoma Irama",
+			"title": "Beku",
+			"image": "https://s3.theasianparent.com/tap-assets-prod/wp-content/uploads/sites/24/2021/06/rhoma-irama-1.jpg",
+			"link_mp3": "https://archive.org/download/lagurhomairamaterbaik/v1/Beku.mp3",
+			"duration": "267",
+			"lyrics": ""
+		},
+		{
+			"id":5,
+			"name_category": "Rhoma Irama",
+			"title": "Bercanda",
+			"image": "https://s3.theasianparent.com/tap-assets-prod/wp-content/uploads/sites/24/2021/06/rhoma-irama-1.jpg",
+			"link_mp3": "https://archive.org/download/lagurhomairamaterbaik/v1/Bercanda.mp3",
+			"duration": "151",
+			"lyrics": ""
+		},
+		{
+			"id":5,
+			"name_category": "Rhoma Irama",
+			"title": "Biarkan Aku Pergi",
+			"image": "https://s3.theasianparent.com/tap-assets-prod/wp-content/uploads/sites/24/2021/06/rhoma-irama-1.jpg",
+			"link_mp3": "https://archive.org/download/lagurhomairamaterbaik/v1/BiarkanAkuPergipopJadul.mp3",
+			"duration": "206",
+			"lyrics": ""
+		},
+		{
+			"id":5,
+			"name_category": "Rhoma Irama",
+			"title": "Birahi",
+			"image": "https://s3.theasianparent.com/tap-assets-prod/wp-content/uploads/sites/24/2021/06/rhoma-irama-1.jpg",
+			"link_mp3": "https://archive.org/download/lagurhomairamaterbaik/v2/Birahi.mp3",
+			"duration": "182",
+			"lyrics": ""
+		},
+		{
+			"id":5,
+			"name_category": "Rhoma Irama",
+			"title": "Bunga Surga",
+			"image": "https://s3.theasianparent.com/tap-assets-prod/wp-content/uploads/sites/24/2021/06/rhoma-irama-1.jpg",
+			"link_mp3": "https://archive.org/download/lagurhomairamaterbaik/v2/BungaSurga.mp3",
+			"duration": "121",
+			"lyrics": ""
+		},
+		{
+			"id":5,
+			"name_category": "Rhoma Irama",
+			"title": "Cape",
+			"image": "https://s3.theasianparent.com/tap-assets-prod/wp-content/uploads/sites/24/2021/06/rhoma-irama-1.jpg",
+			"link_mp3": "https://archive.org/download/lagurhomairamaterbaik/v2/Cape.mp3",
+			"duration": "273",
+			"lyrics": ""
+		},
+		{
+			"id":5,
+			"name_category": "Rhoma Irama",
+			"title": "Cinta Pertama",
+			"image": "https://s3.theasianparent.com/tap-assets-prod/wp-content/uploads/sites/24/2021/06/rhoma-irama-1.jpg",
+			"link_mp3": "https://archive.org/download/lagurhomairamaterbaik/v2/CintaPertama.mp3",
+			"duration": "173",
+			"lyrics": ""
+		},
+		{
+			"id":5,
+			"name_category": "Rhoma Irama",
+			"title": "Cinta Segitiga",
+			"image": "https://s3.theasianparent.com/tap-assets-prod/wp-content/uploads/sites/24/2021/06/rhoma-irama-1.jpg",
+			"link_mp3": "https://archive.org/download/lagurhomairamaterbaik/v2/CintaSegitiga.mp3",
+			"duration": "156",
+			"lyrics": ""
+		},
+		{
+			"id":5,
+			"name_category": "Rhoma Irama",
+			"title": "Datang Untuk Pergi",
+			"image": "https://s3.theasianparent.com/tap-assets-prod/wp-content/uploads/sites/24/2021/06/rhoma-irama-1.jpg",
+			"link_mp3": "https://archive.org/download/lagurhomairamaterbaik/v2/DatangUntukPergi.mp3",
+			"duration": "298",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "Pance Pondang",
+			"title": "Aku Masih Sendiri",
+			"image": "https://upload.wikimedia.org/wikipedia/id/2/2f/Pance_Pondaag.jpg",
+			"link_mp3": "https://archive.org/download/TopLaguPancePondaag/Aku%20Masih%20Sendiri.mp3",
+			"duration": "199",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "Pance Pondang",
+			"title": "Aku Percaya",
+			"image": "https://upload.wikimedia.org/wikipedia/id/2/2f/Pance_Pondaag.jpg",
+			"link_mp3": "https://archive.org/download/TopLaguPancePondaag/Aku%20Percaya.mp3",
+			"duration": "239",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "Pance Pondang",
+			"title": "Ayah",
+			"image": "https://upload.wikimedia.org/wikipedia/id/2/2f/Pance_Pondaag.jpg",
+			"link_mp3": "https://archive.org/download/TopLaguPancePondaag/Ayah.mp3",
+			"duration": "295",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "Pance Pondang",
+			"title": "Begitu Indah",
+			"image": "https://upload.wikimedia.org/wikipedia/id/2/2f/Pance_Pondaag.jpg",
+			"link_mp3": "https://archive.org/download/TopLaguPancePondaag/Begitu%20Indah.mp3",
+			"duration": "273",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "Pance Pondang",
+			"title": "Berikanlah Kekuatan",
+			"image": "https://upload.wikimedia.org/wikipedia/id/2/2f/Pance_Pondaag.jpg",
+			"link_mp3": "https://archive.org/download/TopLaguPancePondaag/Berikanlah%20Kekuatan.mp3",
+			"duration": "224",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "Pance Pondang",
+			"title": "Biarlah",
+			"image": "https://upload.wikimedia.org/wikipedia/id/2/2f/Pance_Pondaag.jpg",
+			"link_mp3": "https://archive.org/download/TopLaguPancePondaag/Biarlah.mp3",
+			"duration": "282",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "Pance Pondang",
+			"title": "Bukan Aku Menolakmu",
+			"image": "https://upload.wikimedia.org/wikipedia/id/2/2f/Pance_Pondaag.jpg",
+			"link_mp3": "https://archive.org/download/TopLaguPancePondaag/Bukan%20Aku%20Menolakmu.mp3",
+			"duration": "242",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "Pance Pondang",
+			"title": "Bunda Maria",
+			"image": "https://upload.wikimedia.org/wikipedia/id/2/2f/Pance_Pondaag.jpg",
+			"link_mp3": "https://archive.org/download/TopLaguPancePondaag/Bunda%20Maria.mp3",
+			"duration": "241",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "Pance Pondang",
+			"title": "Dekatlah Diriku",
+			"image": "https://upload.wikimedia.org/wikipedia/id/2/2f/Pance_Pondaag.jpg",
+			"link_mp3": "https://archive.org/download/TopLaguPancePondaag/Dekatlah%20Diriku.mp3",
+			"duration": "269",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "Pance Pondang",
+			"title": "Demi Kau Dan Si Buah Hati",
+			"image": "https://upload.wikimedia.org/wikipedia/id/2/2f/Pance_Pondaag.jpg",
+			"link_mp3": "https://archive.org/download/TopLaguPancePondaag/Demi%20Kau%20Dan%20Si%20Buah%20Hati.mp3",
+			"duration": "262",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "Pance Pondang",
+			"title": "Di Saat Kau harus Memilih",
+			"image": "https://upload.wikimedia.org/wikipedia/id/2/2f/Pance_Pondaag.jpg",
+			"link_mp3": "https://archive.org/download/TopLaguPancePondaag/Di%20Saat%20Kau%20harus%20Memilih.mp3",
+			"duration": "244",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "Pance Pondang",
+			"title": "Dimana Harus Kucari",
+			"image": "https://upload.wikimedia.org/wikipedia/id/2/2f/Pance_Pondaag.jpg",
+			"link_mp3": "https://archive.org/download/TopLaguPancePondaag/Dimana%20Harus%20Kucari.mp3",
+			"duration": "197",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "Pance Pondang",
+			"title": "Doa Novena",
+			"image": "https://upload.wikimedia.org/wikipedia/id/2/2f/Pance_Pondaag.jpg",
+			"link_mp3": "https://archive.org/download/TopLaguPancePondaag/Doa%20Novena.mp3",
+			"duration": "3273",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "Pance Pondang",
+			"title": "Dunia Semakin Tua",
+			"image": "https://upload.wikimedia.org/wikipedia/id/2/2f/Pance_Pondaag.jpg",
+			"link_mp3": "https://archive.org/download/TopLaguPancePondaag/Dunia%20Semakin%20Tua.mp3",
+			"duration": "199",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "Pance Pondang",
+			"title": "Engkau Segalanya Bagiku",
+			"image": "https://upload.wikimedia.org/wikipedia/id/2/2f/Pance_Pondaag.jpg",
+			"link_mp3": "https://archive.org/download/TopLaguPancePondaag/Engkau%20Segalanya%20Bagiku.mp3",
+			"duration": "257",
+			"lyrics": ""
+		}
+	]
+}
