@@ -1,0 +1,1507 @@
+{
+	"ads":
+	{
+		"live_version_code": -1,
+
+		"splash_ad": "auto",
+		"banner_ad": "auto",
+		"mrec_ad": "auto",
+		"inter_ad": "auto",
+
+		"splash_ad_identifier": "identifier_1",
+		"inter_ad_identifier": "identifier_2",
+		"banner_ad_identifier": "identifier_3",
+		"mrec_ad_identifier": "identifier_4",
+
+		"interval_awal": 2,
+		"interval_vungle": 5,
+		"interval_iron": 5,
+		"interval_fan": 5,
+		"interval_unity": 5,
+		"interval_admob": 5,
+		"interval_max": 5,
+		"interval_startapp": 3,
+
+		"minimum_time_vungle": 60,
+		"minimum_time_iron": 60,
+		"minimum_time_fan": 60,
+		"minimum_time_unity": 60,
+		"minimum_time_admob": 61,
+		"minimum_time_max": 60,
+		"minimum_time_startapp": 0,
+
+		"kemungkinan_vungle": 0,
+		"kemungkinan_iron": 0,
+		"kemungkinan_fan": 0,
+		"kemungkinan_unity": 0,
+		"kemungkinan_admob": 0,
+		"kemungkinan_max": 0,
+		"kemungkinan_startapp": 1,
+
+		"adcolony_app_id": "-",
+		"adcolony_banner": "-",
+		"adcolony_inter": "-",
+
+		"vungle_app_id": "-",
+		"vungle_banner": "-",
+		"vungle_mrec": "-",
+		"vungle_inter": "-",
+
+		"iron_appkey": "-",
+
+		"fan_banner": "-",
+		"fan_mrec": "-",
+		"fan_inter": "-",
+
+		"unity_game_id": "-",
+		"unity_banner": "-",
+		"unity_inter": "-",
+
+		"admob_open": "-",
+		"admob_banner": "-",
+		"admob_inter": "-",
+
+		"max_banner": "-",
+		"max_mrec": "-",
+		"max_inter": "-",
+
+		"startapp_id": "205960563",
+
+		"app_live_store": "auto",
+		"shopee_aff": "https://shope.ee/AUG8gxNBGz"
+	},
+
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "DJ Offline Sepanjang malam",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "DJ Ku Berdoa",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/tray.jpg"
+		},
+		{
+			"id": 3,
+			"name_category": "DJ Sambil Ngopi",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg"
+		},
+		{
+			"id": 4,
+			"name_category": "DJ Sepanjang Malam",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg"
+		},
+		{
+			"id": 5,
+			"name_category": "Sepanjang Malam",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/tray.jpg"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ TEHIBA TEHI",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_1.mp3",
+			"duration": "348",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 2,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ BILANG PA MAMA MANTU KITA SO SIAP",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_10.mp3",
+			"duration": "223",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 3,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ AKU TITIPKAN DIA LANJUTKAN PERJUANGANKU",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_11.mp3",
+			"duration": "382",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 4,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ DINDA JANGAN MARAH MARAH TAKUT NANTI LEKAS TUA",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_12.mp3",
+			"duration": "370",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 5,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ MENIMISU X ANU REMON",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_13.mp3",
+			"duration": "290",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 6,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ CINTA SAMPAI MATI",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_14.mp3",
+			"duration": "296",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 7,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ DALAMO DALAMO REMIX",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_15.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 8,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ DALAM SEPIKU KAULAH CANDAKU",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_16.mp3",
+			"duration": "252",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 9,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ KAMU GATAL - GATAL BUKANKAH KAU SUDAH BERPUNYA",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_17.mp3",
+			"duration": "345",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 10,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ DENTING",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_18.mp3",
+			"duration": "276",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 11,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ GHOST JEDAG JEDUG REMIX DJ OPUS",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_19.mp3",
+			"duration": "303",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 12,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ SIA SIA BERJUANG",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_2.mp3",
+			"duration": "284",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 13,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ MATI MATIAN AKU MENCINTAIMU",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_20.mp3",
+			"duration": "230",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 14,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ PECAH SERIBU",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_21.mp3",
+			"duration": "376",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 15,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ BUKAN SEKALI KAMU BUAT BEGINI",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_22.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 16,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ ANU REMON SAKIT LAGI X YOU AND I",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_23.mp3",
+			"duration": "174",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 17,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ AJARKAN AKU DJ TERLUKA TAPI TAK BERDARAH",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_24.mp3",
+			"duration": "343",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 18,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ DEAR DIARY KU INGIN BERCERITA",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_25.mp3",
+			"duration": "293",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 19,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ SORRY SLOW BASS",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_26.mp3",
+			"duration": "386",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 20,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ BELAHAN JIWA",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_27.mp3",
+			"duration": "239",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 21,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ DARI YANG MUDA X TUKERAN SEMVAQ",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_28.mp3",
+			"duration": "401",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 22,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ KNOW ME TOO WELL",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_29.mp3",
+			"duration": "277",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 23,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ SALTING KO PALING MANIS",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_3.mp3",
+			"duration": "271",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 24,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ LAGI LAGI KU NGAK BISA TIDUR",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_30.mp3",
+			"duration": "337",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 25,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ ACA ACA NEHI NEHI",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_4.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 26,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ MONTAGE REBORN",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_5.mp3",
+			"duration": "320",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 27,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ MELEPAS LAJANG",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_6.mp3",
+			"duration": "265",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 28,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ BETA JANJI BETA JAGA dj yoga",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_7.mp3",
+			"duration": "328",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 29,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ INILAH AKU RAJA MEXICO",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_8.mp3",
+			"duration": "306",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 30,
+			"name_category": "DJ Offline Sepanjang malam",
+			"title": "DJ ANGIN DATANG KASIH KABAR",
+			"image": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Offline_Sepanjang_malam/Dj_Offline_Sepanjang_Malam_9.mp3",
+			"duration": "318",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 31,
+			"name_category": "DJ Ku Berdoa",
+			"title": "DJ Ku Berdoa 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/DJ_Ku_Berdoa_1.mp3",
+			"duration": "323",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 32,
+			"name_category": "DJ Ku Berdoa",
+			"title": "DJ Ku Berdoa 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/DJ_Ku_Berdoa_10.mp3",
+			"duration": "215",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 33,
+			"name_category": "DJ Ku Berdoa",
+			"title": "DJ Ku Berdoa 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/DJ_Ku_Berdoa_11.mp3",
+			"duration": "523",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 34,
+			"name_category": "DJ Ku Berdoa",
+			"title": "DJ Ku Berdoa 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/DJ_Ku_Berdoa_12.mp3",
+			"duration": "271",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 35,
+			"name_category": "DJ Ku Berdoa",
+			"title": "DJ Ku Berdoa 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/DJ_Ku_Berdoa_13.mp3",
+			"duration": "227",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 36,
+			"name_category": "DJ Ku Berdoa",
+			"title": "DJ Ku Berdoa 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/DJ_Ku_Berdoa_14.mp3",
+			"duration": "357",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 37,
+			"name_category": "DJ Ku Berdoa",
+			"title": "DJ Ku Berdoa 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/DJ_Ku_Berdoa_15.mp3",
+			"duration": "359",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 38,
+			"name_category": "DJ Ku Berdoa",
+			"title": "DJ Ku Berdoa 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/DJ_Ku_Berdoa_16.mp3",
+			"duration": "488",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 39,
+			"name_category": "DJ Ku Berdoa",
+			"title": "DJ Ku Berdoa 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/DJ_Ku_Berdoa_17.mp3",
+			"duration": "300",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 40,
+			"name_category": "DJ Ku Berdoa",
+			"title": "DJ Ku Berdoa 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/DJ_Ku_Berdoa_18.mp3",
+			"duration": "344",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 41,
+			"name_category": "DJ Ku Berdoa",
+			"title": "DJ Ku Berdoa 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/DJ_Ku_Berdoa_19.mp3",
+			"duration": "254",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 42,
+			"name_category": "DJ Ku Berdoa",
+			"title": "DJ Ku Berdoa 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/DJ_Ku_Berdoa_2.mp3",
+			"duration": "346",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 43,
+			"name_category": "DJ Ku Berdoa",
+			"title": "DJ Ku Berdoa 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/DJ_Ku_Berdoa_20.mp3",
+			"duration": "329",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 44,
+			"name_category": "DJ Ku Berdoa",
+			"title": "DJ Ku Berdoa 21",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/DJ_Ku_Berdoa_21.mp3",
+			"duration": "225",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 45,
+			"name_category": "DJ Ku Berdoa",
+			"title": "DJ Ku Berdoa 22",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/DJ_Ku_Berdoa_22.mp3",
+			"duration": "1421",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 46,
+			"name_category": "DJ Ku Berdoa",
+			"title": "DJ Ku Berdoa 23",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/DJ_Ku_Berdoa_23.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 47,
+			"name_category": "DJ Ku Berdoa",
+			"title": "DJ Ku Berdoa 24",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/DJ_Ku_Berdoa_24.mp3",
+			"duration": "357",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 48,
+			"name_category": "DJ Ku Berdoa",
+			"title": "DJ Ku Berdoa 25",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/DJ_Ku_Berdoa_25.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 49,
+			"name_category": "DJ Ku Berdoa",
+			"title": "DJ Ku Berdoa 26",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/DJ_Ku_Berdoa_26.mp3",
+			"duration": "240",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 50,
+			"name_category": "DJ Ku Berdoa",
+			"title": "DJ Ku Berdoa 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/DJ_Ku_Berdoa_3.mp3",
+			"duration": "289",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 51,
+			"name_category": "DJ Ku Berdoa",
+			"title": "DJ Ku Berdoa 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/DJ_Ku_Berdoa_4.mp3",
+			"duration": "374",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 52,
+			"name_category": "DJ Ku Berdoa",
+			"title": "DJ Ku Berdoa 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/DJ_Ku_Berdoa_5.mp3",
+			"duration": "1102",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 53,
+			"name_category": "DJ Ku Berdoa",
+			"title": "DJ Ku Berdoa 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/DJ_Ku_Berdoa_6.mp3",
+			"duration": "406",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 54,
+			"name_category": "DJ Ku Berdoa",
+			"title": "DJ Ku Berdoa 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/DJ_Ku_Berdoa_7.mp3",
+			"duration": "312",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 55,
+			"name_category": "DJ Ku Berdoa",
+			"title": "DJ Ku Berdoa 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/DJ_Ku_Berdoa_8.mp3",
+			"duration": "357",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 56,
+			"name_category": "DJ Ku Berdoa",
+			"title": "DJ Ku Berdoa 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Ku_Berdoa/DJ_Ku_Berdoa_9.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 57,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ ANGIN DATANG KASIH KABAR REMIX FULL BASS TERBARU 2021",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_ANGIN_DATANG_KASIH_KABAR_REMIX_FULL_BASS_TERBARU_2021.mp3",
+			"duration": "244",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 58,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ CINTA SAMPAI MATI - HIDUPLAH ENGKAU DENGANKU DENGARKANLAH VIRAL",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_CINTA_SAMPAI_MATI_-_HIDUPLAH_ENGKAU_DENGANKU_DENGARKANLAH_VIRAL.mp3",
+			"duration": "345",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 59,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ DALAM SEPI KU KAULAH CANDAKU - CINTAKU RENDY ANDIKA REMIX VIRAL",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_DALAM_SEPI_KU_KAULAH_CANDAKU_-_CINTAKU_RENDY_ANDIKA_REMIX_VIRAL.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 60,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ DENGARKANLAH DI SEPANJANG MALAM AKU BERDOA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_DENGARKANLAH_DI_SEPANJANG_MALAM_AKU_BERDOA.mp3",
+			"duration": "232",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 61,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ MELEPAS MASA LAJANG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_MELEPAS_MASA_LAJANG.mp3",
+			"duration": "18",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 62,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_1.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 63,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_10.mp3",
+			"duration": "252",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 64,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_11.mp3",
+			"duration": "298",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 65,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_12.mp3",
+			"duration": "432",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 66,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_13.mp3",
+			"duration": "355",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 67,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_14.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 68,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_15.mp3",
+			"duration": "342",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 69,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_16.mp3",
+			"duration": "343",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 70,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_17.mp3",
+			"duration": "309",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 71,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_18.mp3",
+			"duration": "234",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 72,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_19.mp3",
+			"duration": "269",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 73,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_2.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 74,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_20.mp3",
+			"duration": "287",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 75,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 21",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_21.mp3",
+			"duration": "364",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 76,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 22",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_22.mp3",
+			"duration": "299",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 77,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 23",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_23.mp3",
+			"duration": "288",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 78,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 24",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_24.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 79,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 25",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_25.mp3",
+			"duration": "408",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 80,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 26",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_26.mp3",
+			"duration": "381",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 81,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 27",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_27.mp3",
+			"duration": "389",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 82,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 28",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_28.mp3",
+			"duration": "444",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 83,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 29",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_29.mp3",
+			"duration": "390",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 84,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_3.mp3",
+			"duration": "353",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 85,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 30",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_30.mp3",
+			"duration": "244",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 86,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 31",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_31.mp3",
+			"duration": "325",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 87,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 32",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_32.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 88,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 33",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_33.mp3",
+			"duration": "180",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 89,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 34",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_34.mp3",
+			"duration": "346",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 90,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 35",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_35.mp3",
+			"duration": "276",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 91,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 36",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_36.mp3",
+			"duration": "192",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 92,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_4.mp3",
+			"duration": "207",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 93,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_5.mp3",
+			"duration": "271",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 94,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_6.mp3",
+			"duration": "120",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 95,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_7.mp3",
+			"duration": "286",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 96,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_8.mp3",
+			"duration": "309",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 97,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "DJ Sambil Ngopi 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/DJ_Sambil_Ngopi_9.mp3",
+			"duration": "168",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 98,
+			"name_category": "DJ Sambil Ngopi",
+			"title": "Dj Boy Band Jedag Jedug Viral Tiktok Terbaru 2021 Dj Komang Rimex",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sambil_Ngopi/Dj_Tapi_Jangan_Bilang_Mama.mp3",
+			"duration": "191",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 99,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_1.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 100,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_10.mp3",
+			"duration": "285",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 101,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_11.mp3",
+			"duration": "211",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 102,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_12.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 103,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_13.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 104,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_14.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 105,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_15.mp3",
+			"duration": "325",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 106,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_16.mp3",
+			"duration": "300",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 107,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_17.mp3",
+			"duration": "324",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 108,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_18.mp3",
+			"duration": "401",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 109,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_19.mp3",
+			"duration": "259",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 110,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_2.mp3",
+			"duration": "335",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 111,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_20.mp3",
+			"duration": "303",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 112,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 21",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_21.mp3",
+			"duration": "296",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 113,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 22",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_22.mp3",
+			"duration": "355",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 114,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 23",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_23.mp3",
+			"duration": "363",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 115,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 24",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_24.mp3",
+			"duration": "384",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 116,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 25",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_25.mp3",
+			"duration": "378",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 117,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 26",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_26.mp3",
+			"duration": "236",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 118,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 27",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_27.mp3",
+			"duration": "277",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 119,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 28",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_28.mp3",
+			"duration": "200",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 120,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 29",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_29.mp3",
+			"duration": "265",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 121,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_3.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 122,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 30",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_30.mp3",
+			"duration": "267",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 123,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 31",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_31.mp3",
+			"duration": "405",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 124,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 32",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_32.mp3",
+			"duration": "391",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 125,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_4.mp3",
+			"duration": "315",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 126,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_5.mp3",
+			"duration": "312",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 127,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_6.mp3",
+			"duration": "357",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 128,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_7.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 129,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_8.mp3",
+			"duration": "225",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 130,
+			"name_category": "DJ Sepanjang Malam",
+			"title": "Sepanjang Malam Ku Berdoa 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/DJ_Sepanjang_Malam/Sepanjang_Malam_Ku_Berdoa_9.mp3",
+			"duration": "317",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 131,
+			"name_category": "Sepanjang Malam",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/Sepanjang_Malam_1.mp3",
+			"duration": "171",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 132,
+			"name_category": "Sepanjang Malam",
+			"title": "Sepanjang Malam 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/Sepanjang_Malam_10.mp3",
+			"duration": "267",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 133,
+			"name_category": "Sepanjang Malam",
+			"title": "Sepanjang Malam 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/Sepanjang_Malam_11.mp3",
+			"duration": "405",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 134,
+			"name_category": "Sepanjang Malam",
+			"title": "Sepanjang Malam 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/Sepanjang_Malam_12.mp3",
+			"duration": "335",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 135,
+			"name_category": "Sepanjang Malam",
+			"title": "Sepanjang Malam 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/Sepanjang_Malam_13.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 136,
+			"name_category": "Sepanjang Malam",
+			"title": "Sepanjang Malam 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/Sepanjang_Malam_14.mp3",
+			"duration": "265",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 137,
+			"name_category": "Sepanjang Malam",
+			"title": "Sepanjang Malam 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/Sepanjang_Malam_15.mp3",
+			"duration": "300",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 138,
+			"name_category": "Sepanjang Malam",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/Sepanjang_Malam_16.mp3",
+			"duration": "331",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 139,
+			"name_category": "Sepanjang Malam",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/Sepanjang_Malam_17.mp3",
+			"duration": "365",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 140,
+			"name_category": "Sepanjang Malam",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/Sepanjang_Malam_18.mp3",
+			"duration": "293",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 141,
+			"name_category": "Sepanjang Malam",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/Sepanjang_Malam_19.mp3",
+			"duration": "182",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 142,
+			"name_category": "Sepanjang Malam",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/Sepanjang_Malam_2.mp3",
+			"duration": "340",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 143,
+			"name_category": "Sepanjang Malam",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/Sepanjang_Malam_20.mp3",
+			"duration": "185",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 144,
+			"name_category": "Sepanjang Malam",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/Sepanjang_Malam_21.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 145,
+			"name_category": "Sepanjang Malam",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/Sepanjang_Malam_22.mp3",
+			"duration": "328",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 146,
+			"name_category": "Sepanjang Malam",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/Sepanjang_Malam_23.mp3",
+			"duration": "235",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 147,
+			"name_category": "Sepanjang Malam",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/Sepanjang_Malam_24.mp3",
+			"duration": "369",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 148,
+			"name_category": "Sepanjang Malam",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/Sepanjang_Malam_25.mp3",
+			"duration": "185",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 149,
+			"name_category": "Sepanjang Malam",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/Sepanjang_Malam_26.mp3",
+			"duration": "270",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 150,
+			"name_category": "Sepanjang Malam",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/Sepanjang_Malam_3.mp3",
+			"duration": "246",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 151,
+			"name_category": "Sepanjang Malam",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/Sepanjang_Malam_4.mp3",
+			"duration": "254",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 152,
+			"name_category": "Sepanjang Malam",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/Sepanjang_Malam_5.mp3",
+			"duration": "263",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 153,
+			"name_category": "Sepanjang Malam",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/Sepanjang_Malam_6.mp3",
+			"duration": "271",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 154,
+			"name_category": "Sepanjang Malam",
+			"title": "Sepanjang Malam 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/Sepanjang_Malam_7.mp3",
+			"duration": "237",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 155,
+			"name_category": "Sepanjang Malam",
+			"title": "Sepanjang Malam 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/Sepanjang_Malam_8.mp3",
+			"duration": "391",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 156,
+			"name_category": "Sepanjang Malam",
+			"title": "Sepanjang Malam 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdisepanjangmalamkuberdoaoffline/Sepanjang_Malam/Sepanjang_Malam_9.mp3",
+			"duration": "263",
+			"lyrics": "Tidak Ada Lirik"
+		}
+	]
+}
