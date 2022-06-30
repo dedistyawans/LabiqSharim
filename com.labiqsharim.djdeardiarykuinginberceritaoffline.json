@@ -1,0 +1,1507 @@
+{
+	"ads":
+	{
+		"live_version_code": -1,
+
+		"splash_ad": "auto",
+		"banner_ad": "auto",
+		"mrec_ad": "auto",
+		"inter_ad": "auto",
+
+		"splash_ad_identifier": "identifier_1",
+		"inter_ad_identifier": "identifier_2",
+		"banner_ad_identifier": "identifier_3",
+		"mrec_ad_identifier": "identifier_4",
+
+		"interval_awal": 2,
+		"interval_vungle": 5,
+		"interval_iron": 5,
+		"interval_fan": 5,
+		"interval_unity": 5,
+		"interval_admob": 5,
+		"interval_max": 5,
+		"interval_startapp": 3,
+
+		"minimum_time_vungle": 60,
+		"minimum_time_iron": 60,
+		"minimum_time_fan": 60,
+		"minimum_time_unity": 60,
+		"minimum_time_admob": 61,
+		"minimum_time_max": 60,
+		"minimum_time_startapp": 0,
+
+		"kemungkinan_vungle": 0,
+		"kemungkinan_iron": 0,
+		"kemungkinan_fan": 0,
+		"kemungkinan_unity": 0,
+		"kemungkinan_admob": 0,
+		"kemungkinan_max": 0,
+		"kemungkinan_startapp": 1,
+
+		"adcolony_app_id": "-",
+		"adcolony_banner": "-",
+		"adcolony_inter": "-",
+
+		"vungle_app_id": "-",
+		"vungle_banner": "-",
+		"vungle_mrec": "-",
+		"vungle_inter": "-",
+
+		"iron_appkey": "-",
+
+		"fan_banner": "-",
+		"fan_mrec": "-",
+		"fan_inter": "-",
+
+		"unity_game_id": "-",
+		"unity_banner": "-",
+		"unity_inter": "-",
+
+		"admob_open": "-",
+		"admob_banner": "-",
+		"admob_inter": "-",
+
+		"max_banner": "-",
+		"max_mrec": "-",
+		"max_inter": "-",
+
+		"startapp_id": "205960563",
+
+		"app_live_store": "auto",
+		"shopee_aff": "https://shope.ee/AUG8gxNBGz"
+	},
+
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "Dear Diary Offline",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "Dear Diary Angklung",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/tray.jpg"
+		},
+		{
+			"id": 3,
+			"name_category": "Dear Diary Remix",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg"
+		},
+		{
+			"id": 4,
+			"name_category": "DJ Ku ingin bercerita",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg"
+		},
+		{
+			"id": 5,
+			"name_category": "Rsamo Dear Diary",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "Dear Diary Offline",
+			"title": "Terluka Tapi Tak Berdarah",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_1.mp3",
+			"duration": "314",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 2,
+			"name_category": "Dear Diary Offline",
+			"title": "DJ MATI MATIAN AKU MENCINTAIMU",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_10.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 3,
+			"name_category": "Dear Diary Offline",
+			"title": "DJ Melepas Lajang",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_11.mp3",
+			"duration": "260",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 4,
+			"name_category": "Dear Diary Offline",
+			"title": "Dj PAPEPAP Soria Vadele Remix",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_12.mp3",
+			"duration": "309",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 5,
+			"name_category": "Dear Diary Offline",
+			"title": "Dj Channa Mereya Remix",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_13.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 6,
+			"name_category": "Dear Diary Offline",
+			"title": "DJ Ghost Jedagjedug Fullbeat",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_14.mp3",
+			"duration": "222",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 7,
+			"name_category": "Dear Diary Offline",
+			"title": "Dj dalamo dalamo viral",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_15.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 8,
+			"name_category": "Dear Diary Offline",
+			"title": "DJ Penantian",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_16.mp3",
+			"duration": "299",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 9,
+			"name_category": "Dear Diary Offline",
+			"title": "Dj aca aca nehi nehi remix",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_17.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 10,
+			"name_category": "Dear Diary Offline",
+			"title": "Dj aku kecapean cari uang",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_18.mp3",
+			"duration": "244",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 11,
+			"name_category": "Dear Diary Offline",
+			"title": "Dj Bukan Sekali Kamu Buat Begini",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_19.mp3",
+			"duration": "284",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 12,
+			"name_category": "Dear Diary Offline",
+			"title": "DJ Akankah Kau Merasakan Rasa Cintaku Ini",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_2.mp3",
+			"duration": "363",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 13,
+			"name_category": "Dear Diary Offline",
+			"title": "DJ SIA SIA BERJUANG",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_20.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 14,
+			"name_category": "Dear Diary Offline",
+			"title": "Aku Bukan Jodohnya",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_21.mp3",
+			"duration": "432",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 15,
+			"name_category": "Dear Diary Offline",
+			"title": "Dj Abang lagi dimana",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_22.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 16,
+			"name_category": "Dear Diary Offline",
+			"title": "DJ ANGIN DATANG KASIH KABAR",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_23.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 17,
+			"name_category": "Dear Diary Offline",
+			"title": "DJ BABY DONT GO X TIPAT TIPAT",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_24.mp3",
+			"duration": "231",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 18,
+			"name_category": "Dear Diary Offline",
+			"title": "DJ GANI GANI X HUJAN BADAI",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_25.mp3",
+			"duration": "353",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 19,
+			"name_category": "Dear Diary Offline",
+			"title": "DJ HATE SABE MERINDU",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_26.mp3",
+			"duration": "298",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 20,
+			"name_category": "Dear Diary Offline",
+			"title": "DJ I Love Mama Mantu",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_27.mp3",
+			"duration": "207",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 21,
+			"name_category": "Dear Diary Offline",
+			"title": "dj kuch to bata",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_28.mp3",
+			"duration": "341",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 22,
+			"name_category": "Dear Diary Offline",
+			"title": "Dear diary ku ingin bercerita",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_29.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 23,
+			"name_category": "Dear Diary Offline",
+			"title": "Dj Cinta sampai mati",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_3.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 24,
+			"name_category": "Dear Diary Offline",
+			"title": "Dj merubah buih jadi permadani",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_30.mp3",
+			"duration": "387",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 25,
+			"name_category": "Dear Diary Offline",
+			"title": "Dj pergilah engkau bersamanya",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_31.mp3",
+			"duration": "339",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 26,
+			"name_category": "Dear Diary Offline",
+			"title": "DJ SELALU TERSIMPAN ZIDAN",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_32.mp3",
+			"duration": "314",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 27,
+			"name_category": "Dear Diary Offline",
+			"title": "DJ Hal Hebat",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_33.mp3",
+			"duration": "356",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 28,
+			"name_category": "Dear Diary Offline",
+			"title": "DJ Dalam sepiku kaulah candaku",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_4.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 29,
+			"name_category": "Dear Diary Offline",
+			"title": "Dj Hanya dia",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_5.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 30,
+			"name_category": "Dear Diary Offline",
+			"title": "Dj akui sulit cari penggantimu",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_6.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 31,
+			"name_category": "Dear Diary Offline",
+			"title": "Kutahan Rindu Bukan Ku Sengaja",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_7.mp3",
+			"duration": "336",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 32,
+			"name_category": "Dear Diary Offline",
+			"title": "Dj lagi lagi ku tak bisa tidur",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_8.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 33,
+			"name_category": "Dear Diary Offline",
+			"title": "Maafkan aku pergi Aku memang jodohnya",
+			"image": "file:///android_asset/content/Dear_Diary_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dear_Diary_Offline/Dear_Diary_Offline_9.mp3",
+			"duration": "375",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 34,
+			"name_category": "Dear Diary Angklung",
+			"title": "Dear Diary Angklung 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/Dear_Diary_Angklung_1.mp3",
+			"duration": "371",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 35,
+			"name_category": "Dear Diary Angklung",
+			"title": "Dear Diary Angklung 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/Dear_Diary_Angklung_10.mp3",
+			"duration": "347",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 36,
+			"name_category": "Dear Diary Angklung",
+			"title": "Dear Diary Angklung 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/Dear_Diary_Angklung_11.mp3",
+			"duration": "418",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 37,
+			"name_category": "Dear Diary Angklung",
+			"title": "Dear Diary Angklung 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/Dear_Diary_Angklung_12.mp3",
+			"duration": "433",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 38,
+			"name_category": "Dear Diary Angklung",
+			"title": "Dear Diary Angklung 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/Dear_Diary_Angklung_13.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 39,
+			"name_category": "Dear Diary Angklung",
+			"title": "Dear Diary Angklung 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/Dear_Diary_Angklung_14.mp3",
+			"duration": "360",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 40,
+			"name_category": "Dear Diary Angklung",
+			"title": "Dear Diary Angklung 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/Dear_Diary_Angklung_15.mp3",
+			"duration": "362",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 41,
+			"name_category": "Dear Diary Angklung",
+			"title": "Dear Diary Angklung 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/Dear_Diary_Angklung_16.mp3",
+			"duration": "278",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 42,
+			"name_category": "Dear Diary Angklung",
+			"title": "Dear Diary Angklung 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/Dear_Diary_Angklung_17.mp3",
+			"duration": "301",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 43,
+			"name_category": "Dear Diary Angklung",
+			"title": "Dear Diary Angklung 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/Dear_Diary_Angklung_18.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 44,
+			"name_category": "Dear Diary Angklung",
+			"title": "Dear Diary Angklung 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/Dear_Diary_Angklung_19.mp3",
+			"duration": "325",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 45,
+			"name_category": "Dear Diary Angklung",
+			"title": "Dear Diary Angklung 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/Dear_Diary_Angklung_2.mp3",
+			"duration": "361",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 46,
+			"name_category": "Dear Diary Angklung",
+			"title": "Dear Diary Angklung 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/Dear_Diary_Angklung_20.mp3",
+			"duration": "376",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 47,
+			"name_category": "Dear Diary Angklung",
+			"title": "Dear Diary Angklung 21",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/Dear_Diary_Angklung_21.mp3",
+			"duration": "357",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 48,
+			"name_category": "Dear Diary Angklung",
+			"title": "Dear Diary Angklung 22",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/Dear_Diary_Angklung_22.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 49,
+			"name_category": "Dear Diary Angklung",
+			"title": "Dear Diary Angklung 23",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/Dear_Diary_Angklung_23.mp3",
+			"duration": "395",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 50,
+			"name_category": "Dear Diary Angklung",
+			"title": "Dear Diary Angklung 24",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/Dear_Diary_Angklung_24.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 51,
+			"name_category": "Dear Diary Angklung",
+			"title": "Dear Diary Angklung 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/Dear_Diary_Angklung_3.mp3",
+			"duration": "336",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 52,
+			"name_category": "Dear Diary Angklung",
+			"title": "Dear Diary Angklung 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/Dear_Diary_Angklung_4.mp3",
+			"duration": "437",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 53,
+			"name_category": "Dear Diary Angklung",
+			"title": "Dear Diary Angklung 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/Dear_Diary_Angklung_5.mp3",
+			"duration": "359",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 54,
+			"name_category": "Dear Diary Angklung",
+			"title": "Dear Diary Angklung 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/Dear_Diary_Angklung_6.mp3",
+			"duration": "351",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 55,
+			"name_category": "Dear Diary Angklung",
+			"title": "Dear Diary Angklung 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/Dear_Diary_Angklung_7.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 56,
+			"name_category": "Dear Diary Angklung",
+			"title": "Dear Diary Angklung 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/Dear_Diary_Angklung_8.mp3",
+			"duration": "434",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 57,
+			"name_category": "Dear Diary Angklung",
+			"title": "Dear Diary Angklung 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Angklung/Dear_Diary_Angklung_9.mp3",
+			"duration": "386",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 58,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ DALAM SEPIKU KAULAH CANDAKU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_1.mp3",
+			"duration": "252",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 59,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ CALL ME BABY",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_10.mp3",
+			"duration": "211",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 60,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ DARI YANG MUDA X TUKERAN SEMVAQ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_11.mp3",
+			"duration": "401",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 61,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ DO YOU LIKE A TRUCK",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_12.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 62,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ DOTA X BASTA BOI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_13.mp3",
+			"duration": "383",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 63,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ GHOST JEDAG JEDUG DJ KOMANG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_14.mp3",
+			"duration": "224",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 64,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ GODZILLA SLOW",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_15.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 65,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ INILAH AKU RAJA MEXICO",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_16.mp3",
+			"duration": "306",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 66,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ KNOW ME TOO WELL",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_17.mp3",
+			"duration": "277",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 67,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ LOVE TONIGHT ENGKOL",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_18.mp3",
+			"duration": "298",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 68,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ MENIMISU X ANU REMON",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_19.mp3",
+			"duration": "290",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 69,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ DENTING",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_2.mp3",
+			"duration": "276",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 70,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ MONTAGE REBORN",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_20.mp3",
+			"duration": "320",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 71,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ PECAH SERIBU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_21.mp3",
+			"duration": "376",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 72,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ RIP LOVE FAOUZIA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_22.mp3",
+			"duration": "348",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 73,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ SAD SLOW",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_23.mp3",
+			"duration": "245",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 74,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ SOMETHING JUST LIKE THIS",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_24.mp3",
+			"duration": "224",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 75,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ TING TING TING X DIKASIH INFO MAZZEH",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_25.mp3",
+			"duration": "363",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 76,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ DEAR DIARY KU INGIN BERCERITA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_26.mp3",
+			"duration": "293",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 77,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ ANU REMON SAKIT LAGI X YOU AND I",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_27.mp3",
+			"duration": "174",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 78,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ BILA KAMU TAK LAGI DENGANKU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_28.mp3",
+			"duration": "391",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 79,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ BUKAN SEKALI KAMU BUAT BEGINI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_29.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 80,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ HATI HATI DI JALAN",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_3.mp3",
+			"duration": "178",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 81,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ BURUNG PUYUH BURUNG KETUT DI MAKAN BIAWAK",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_30.mp3",
+			"duration": "297",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 82,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ CINTA SAMPAI MATI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_31.mp3",
+			"duration": "296",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 83,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ KALA KU SEORANG DIRI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_4.mp3",
+			"duration": "375",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 84,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ POK AME AME BELALANG KUPU KUPU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_5.mp3",
+			"duration": "310",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 85,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ ACA ACA NEHI NEHI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_6.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 86,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ ANGEL BABY",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_7.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 87,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ BBHM RIHANA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_8.mp3",
+			"duration": "325",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 88,
+			"name_category": "Dear Diary Remix",
+			"title": "DJ BEAUTIFUL GIRL",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Dear_Diary_Remix/Dear_Diary_Remix_9.mp3",
+			"duration": "229",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 89,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ IN DA GHETTO CEPAK CEPAK JEDER",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_1.mp3",
+			"duration": "427",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 90,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ SOMETHING JUST LIKE THIS",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_10.mp3",
+			"duration": "224",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 91,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ TING TING TING X DIKASIH INFO MAZZEH",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_11.mp3",
+			"duration": "363",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 92,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ VAKSIN CINTA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_12.mp3",
+			"duration": "247",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 93,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ LOVE TONIGHT ENGKOL",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_13.mp3",
+			"duration": "298",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 94,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ POK AME AME BELALANG KUPU KUPU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_14.mp3",
+			"duration": "310",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 95,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ RIP LOVE FAOUZIA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_15.mp3",
+			"duration": "348",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 96,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ SANAM RE",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_16.mp3",
+			"duration": "230",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 97,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ ACA ACA NEHI NEHI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_17.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 98,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ BUKAN SEKALI KAMU BUAT BEGINI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_18.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 99,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ BURUNG PUYUH BURUNG KETUT DI MAKAN BIAWAK",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_19.mp3",
+			"duration": "297",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 100,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ MELEPAS LAJANG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_2.mp3",
+			"duration": "265",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 101,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ DEAR DIARY KU INGIN BERCERITA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_20.mp3",
+			"duration": "293",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 102,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ MENIMISU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_21.mp3",
+			"duration": "331",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 103,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ LAGI LAGI KU NGAK BISA TIDUR",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_22.mp3",
+			"duration": "337",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 104,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ SORRY SLOW BASS",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_23.mp3",
+			"duration": "386",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 105,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ DALAMO DALAMO REMIX",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_24.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 106,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ GHOST JEDAG JEDUG REMIX DJ OPUS",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_25.mp3",
+			"duration": "303",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 107,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ CINTA SAMPAI MATI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_26.mp3",
+			"duration": "296",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 108,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ MATI MATIAN AKU MENCINTAIMU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_27.mp3",
+			"duration": "230",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 109,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ PECAH SERIBU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_28.mp3",
+			"duration": "376",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 110,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ ANU REMON SAKIT LAGI X YOU AND I",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_29.mp3",
+			"duration": "174",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 111,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ DURI DURI YANG KAU TANCAPKAN DI HATI INI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_3.mp3",
+			"duration": "258",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 112,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ INILAH AKU RAJA MEXICO",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_30.mp3",
+			"duration": "306",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 113,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ MONTAGE REBORN",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_31.mp3",
+			"duration": "320",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 114,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ BILANG PA MAMA MANTU KITA SO SIAP",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_4.mp3",
+			"duration": "223",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 115,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ AKU TITIPKAN DIA LANJUTKAN PERJUANGANKU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_5.mp3",
+			"duration": "382",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 116,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ ANGEL BABY",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_6.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 117,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ BEAUTIFUL GIRL",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_7.mp3",
+			"duration": "229",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 118,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ CALL ME BABY",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_8.mp3",
+			"duration": "211",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 119,
+			"name_category": "DJ Ku ingin bercerita",
+			"title": "DJ DARI YANG MUDA X TUKERAN SEMVAQ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/DJ_Ku_ingin_bercerita/Ku_ingin_bercerita_9.mp3",
+			"duration": "401",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 120,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_1.mp3",
+			"duration": "198",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 121,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_10.mp3",
+			"duration": "256",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 122,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_11.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 123,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_12.mp3",
+			"duration": "261",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 124,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_13.mp3",
+			"duration": "302",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 125,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_14.mp3",
+			"duration": "255",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 126,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_15.mp3",
+			"duration": "283",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 127,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_16.mp3",
+			"duration": "355",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 128,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_17.mp3",
+			"duration": "351",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 129,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_18.mp3",
+			"duration": "407",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 130,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_19.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 131,
+			"name_category": "Rsamo Dear Diary",
+			"title": "dj cidro 2 cindi chintya dewi selow remix terbaru viral tik tok 2021 jpc dj tatang axl 9017849950599434611",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_2.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 132,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_20.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 133,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 21",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_21.mp3",
+			"duration": "381",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 134,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 22",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_22.mp3",
+			"duration": "303",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 135,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 23",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_23.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 136,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 24",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_24.mp3",
+			"duration": "257",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 137,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 25",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_25.mp3",
+			"duration": "282",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 138,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 26",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_26.mp3",
+			"duration": "242",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 139,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 27",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_27.mp3",
+			"duration": "313",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 140,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 28",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_28.mp3",
+			"duration": "300",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 141,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 29",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_29.mp3",
+			"duration": "245",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 142,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_3.mp3",
+			"duration": "224",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 143,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 30",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_30.mp3",
+			"duration": "253",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 144,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 31",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_31.mp3",
+			"duration": "441",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 145,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 32",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_32.mp3",
+			"duration": "281",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 146,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_4.mp3",
+			"duration": "272",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 147,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_5.mp3",
+			"duration": "259",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 148,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_6.mp3",
+			"duration": "173",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 149,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_7.mp3",
+			"duration": "270",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 150,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_8.mp3",
+			"duration": "212",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 151,
+			"name_category": "Rsamo Dear Diary",
+			"title": "Dear Diary 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/Dear_Diary_9.mp3",
+			"duration": "290",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 152,
+			"name_category": "Rsamo Dear Diary",
+			"title": "DJ Aku Raja Mexico",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/DJ_Aku_Raja_Mexico.mp3",
+			"duration": "409",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 153,
+			"name_category": "Rsamo Dear Diary",
+			"title": "DJ Cinta Sampai Mati Dengarkanlah Di Sepanjang Malam Aku Berdoa",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/DJ_Cinta_Sampai_Mati_Dengarkanlah_Di_Sepanjang_Malam_Aku_Berdoa.mp3",
+			"duration": "301",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 154,
+			"name_category": "Rsamo Dear Diary",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/DJ_Dear_Diary_Ku_Ingin_Bercerita_Kepadamu.mp3",
+			"duration": "414",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 155,
+			"name_category": "Rsamo Dear Diary",
+			"title": "DJ Dengarkanlah Disepanjang Malam Aku Berdoa",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/DJ_Dengarkanlah_Disepanjang_Malam_Aku_Berdoa.mp3",
+			"duration": "390",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 156,
+			"name_category": "Rsamo Dear Diary",
+			"title": "DJ Fortune Cookies",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djdeardiarykuinginberceritaoffline/Rsamo_Dear_Diary/DJ_Fortune_Cookies.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		}
+	]
+}
