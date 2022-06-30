@@ -1,0 +1,1560 @@
+{
+	"ads":
+	{
+		"live_version_code": -1,
+
+		"splash_ad": "auto",
+		"banner_ad": "auto",
+		"mrec_ad": "auto",
+		"inter_ad": "auto",
+
+		"splash_ad_identifier": "identifier_1",
+		"inter_ad_identifier": "identifier_2",
+		"banner_ad_identifier": "identifier_3",
+		"mrec_ad_identifier": "identifier_4",
+
+		"interval_awal": 2,
+		"interval_vungle": 5,
+		"interval_iron": 5,
+		"interval_fan": 5,
+		"interval_unity": 5,
+		"interval_admob": 5,
+		"interval_max": 5,
+		"interval_startapp": 3,
+
+		"minimum_time_vungle": 60,
+		"minimum_time_iron": 60,
+		"minimum_time_fan": 60,
+		"minimum_time_unity": 60,
+		"minimum_time_admob": 61,
+		"minimum_time_max": 60,
+		"minimum_time_startapp": 0,
+
+		"kemungkinan_vungle": 0,
+		"kemungkinan_iron": 0,
+		"kemungkinan_fan": 0,
+		"kemungkinan_unity": 0,
+		"kemungkinan_admob": 0,
+		"kemungkinan_max": 0,
+		"kemungkinan_startapp": 1,
+
+		"adcolony_app_id": "-",
+		"adcolony_banner": "-",
+		"adcolony_inter": "-",
+
+		"vungle_app_id": "-",
+		"vungle_banner": "-",
+		"vungle_mrec": "-",
+		"vungle_inter": "-",
+
+		"iron_appkey": "-",
+
+		"fan_banner": "-",
+		"fan_mrec": "-",
+		"fan_inter": "-",
+
+		"unity_game_id": "-",
+		"unity_banner": "-",
+		"unity_inter": "-",
+
+		"admob_open": "-",
+		"admob_banner": "-",
+		"admob_inter": "-",
+
+		"max_banner": "-",
+		"max_mrec": "-",
+		"max_inter": "-",
+
+		"startapp_id": "205960563",
+
+		"app_live_store": "auto",
+		"shopee_aff": "https://shope.ee/AUG8gxNBGz"
+	},
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "DJ Belalang kupu Offline",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "DJ Abadi Selamanya",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg"
+		},
+		{
+			"id": 3,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg"
+		},
+		{
+			"id": 4,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg"
+		},
+		{
+			"id": 5,
+			"name_category": "DJ Pok Amai2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "DJ Juara di hatiku",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_1.mp3",
+			"duration": "323",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 2,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "DJ Piker keri remix",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_10.mp3",
+			"duration": "334",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 3,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "Tutur batinku tak akan salah",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_11.mp3",
+			"duration": "315",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 4,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "DJ SELALU TERSIMPAN ZIDAN",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_12.mp3",
+			"duration": "314",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 5,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "DJ Ghost Jedagjedug Fullbeat",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_13.mp3",
+			"duration": "222",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 6,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "DJ Penantian",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_14.mp3",
+			"duration": "299",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 7,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "Dj aca aca nehi nehi remix",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_15.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 8,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "Dj Andai kita dulu tak berpisah",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_16.mp3",
+			"duration": "287",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 9,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "Dj dalamo dalamo viral",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_17.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 10,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "DJ SIA SIA BERJUANG",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_18.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 11,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "Aku Bukan Jodohnya",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_19.mp3",
+			"duration": "432",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 12,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "Kukira kita akan bersama",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_2.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 13,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "DJ ANGIN DATANG KASIH KABAR",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_20.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 14,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "DJ I Love Mama Mantu",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_21.mp3",
+			"duration": "207",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 15,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "DJ GANI GANI X HUJAN BADAI",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_22.mp3",
+			"duration": "353",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 16,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "DJ Tunggulah kasih",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_23.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 17,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "Dj Cinta sampai mati",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_24.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 18,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "DJ kasih info mase burung puyuh dimakan biawak",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_25.mp3",
+			"duration": "244",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 19,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "DJ Pok amai amai belalang kupu kupu",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_26.mp3",
+			"duration": "242",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 20,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "DJ Teruslah sembunyikan aku",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_27.mp3",
+			"duration": "386",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 21,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "DJ Melepas Lajang",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_28.mp3",
+			"duration": "260",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 22,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "DJ Dalam sepiku kaulah candaku",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_29.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 23,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "Dj lagi lagi ku tak bisa tidur",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_3.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 24,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "Dear diary ku ingin bercerita",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_30.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 25,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "Dj Hanya dia",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_31.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 26,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "Dj akui sulit cari penggantimu",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_32.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 27,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "DJ Jangan menangis untukku",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_33.mp3",
+			"duration": "317",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 28,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "Maafkan aku pergi Aku memang jodohnya",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_4.mp3",
+			"duration": "375",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 29,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "DJ Mars Tukang Bangunan",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_5.mp3",
+			"duration": "202",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 30,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "Kita jangan bertengkar lagi",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_6.mp3",
+			"duration": "269",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 31,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "DJ Aku bukan orang kaya",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_7.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 32,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "Dj merubah buih jadi permadani",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_8.mp3",
+			"duration": "387",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 33,
+			"name_category": "DJ Belalang kupu Offline",
+			"title": "Dj pergilah engkau bersamanya",
+			"image": "file:///android_asset/content/DJ_Belalang_kupu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Belalang_kupu_Offline/Belalang_Kupu_Viral_9.mp3",
+			"duration": "339",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 34,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ NENEKKU PAHLAWANKU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_1.mp3",
+			"duration": "309",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 35,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "Dj Ghost Jedag Jedug",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_10.mp3",
+			"duration": "226",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 36,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ INILAH AKU RAJA MEXICO",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_11.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 37,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ PECAH SERIBU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_12.mp3",
+			"duration": "329",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 38,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "Dj lagi lagi ku tak bisa tidur",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_13.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 39,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ Gani Gani Hujan Badai Angin Ribut",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_14.mp3",
+			"duration": "247",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 40,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "Dj beautiful girl",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_15.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 41,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ DO YOU LIKE A TRUCK",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_16.mp3",
+			"duration": "242",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 42,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ TRUMPET NARCO",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_17.mp3",
+			"duration": "235",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 43,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ BABY DONT GO X TIPAT TIPAT",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_18.mp3",
+			"duration": "231",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 44,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ I Love Mama Mantu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_19.mp3",
+			"duration": "207",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 45,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ POK AME AME BELALANG KUPU KUPU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_2.mp3",
+			"duration": "311",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 46,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ TOXIC FRIENDS SLOW",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_20.mp3",
+			"duration": "180",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 47,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ AKANKAH KAU MERASAKAN",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_21.mp3",
+			"duration": "237",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 48,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ CINTA SAMPAI MATI 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_22.mp3",
+			"duration": "351",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 49,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ CONTELO JERAWAT RINDU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_23.mp3",
+			"duration": "339",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 50,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ MELEPAS MASA LAJANG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_24.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 51,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ Bila Nanti Remix",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_25.mp3",
+			"duration": "286",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 52,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ SELALU TERSIMPAN ZIDAN",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_26.mp3",
+			"duration": "314",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 53,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ SIA SIA KU BERJUANG SLOW",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_27.mp3",
+			"duration": "248",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 54,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ SUDAH TAK CINTA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_28.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 55,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ TAHAN NI LUKA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_29.mp3",
+			"duration": "215",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 56,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ Malam Ini Tangkis Dang",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_3.mp3",
+			"duration": "250",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 57,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ Ya Cuman Kamu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_30.mp3",
+			"duration": "215",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 58,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ ANGEL BABY JEDAG JEDUG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_31.mp3",
+			"duration": "263",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 59,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ BANG JONO X KKN DESA PENARI REMIX",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_32.mp3",
+			"duration": "362",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 60,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ Dia Gadis Berkerudung Merah",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_33.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 61,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "Dj harga diriku - Wali Band",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_34.mp3",
+			"duration": "281",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 62,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ Jawa Ngamen 5 Slow",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_35.mp3",
+			"duration": "196",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 63,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ KU BERLAYAR DI LAUTAN TIDAK BERTEPIAN",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_36.mp3",
+			"duration": "350",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 64,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ MENIMISU X AKON RIGHT NOW",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_4.mp3",
+			"duration": "329",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 65,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ RIP LOVE FAOUZIA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_5.mp3",
+			"duration": "349",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 66,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ CINTA SAMPAI MATI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_6.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 67,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ Dalam Sepiku Kaulah Candaku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_7.mp3",
+			"duration": "253",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 68,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ DALAMO DALAMO",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_8.mp3",
+			"duration": "333",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 69,
+			"name_category": "DJ Abadi Selamanya",
+			"title": "DJ DARI YANG MUDA X TUKERAN SEMVAQ X BEAUTIFUL GIRLS",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Abadi_Selamanya/Abadi_Selamanya_9.mp3",
+			"duration": "399",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 70,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_1.mp3",
+			"duration": "294",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 71,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_10.mp3",
+			"duration": "254",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 72,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_11.mp3",
+			"duration": "351",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 73,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_12.mp3",
+			"duration": "315",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 74,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_13.mp3",
+			"duration": "364",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 75,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_14.mp3",
+			"duration": "264",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 76,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_15.mp3",
+			"duration": "391",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 77,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_16.mp3",
+			"duration": "350",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 78,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_17.mp3",
+			"duration": "354",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 79,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_18.mp3",
+			"duration": "225",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 80,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_19.mp3",
+			"duration": "233",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 81,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_2.mp3",
+			"duration": "464",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 82,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_20.mp3",
+			"duration": "381",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 83,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 21",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_21.mp3",
+			"duration": "309",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 84,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 22",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_22.mp3",
+			"duration": "262",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 85,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 23",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_23.mp3",
+			"duration": "478",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 86,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 24",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_24.mp3",
+			"duration": "223",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 87,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 25",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_25.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 88,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 26",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_26.mp3",
+			"duration": "262",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 89,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 27",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_27.mp3",
+			"duration": "296",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 90,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 28",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_28.mp3",
+			"duration": "440",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 91,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 29",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_29.mp3",
+			"duration": "212",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 92,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_3.mp3",
+			"duration": "244",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 93,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 30",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_30.mp3",
+			"duration": "270",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 94,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 31",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_31.mp3",
+			"duration": "476",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 95,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_4.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 96,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_5.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 97,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_6.mp3",
+			"duration": "284",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 98,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_7.mp3",
+			"duration": "391",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 99,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_8.mp3",
+			"duration": "246",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 100,
+			"name_category": "Dj BelangKupu Dadibiru",
+			"title": "DJ Bellang Kupu Dadibiru 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/Dj_BelangKupu_Dadibiru/DJ_Bellang_Kupu_Dadibiru_9.mp3",
+			"duration": "292",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 101,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ DALAM SEPIKU KAULAH CANDAKU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_1.mp3",
+			"duration": "252",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 102,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ SORRY SLOW BASS",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_10.mp3",
+			"duration": "386",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 103,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ SAD SLOW",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_11.mp3",
+			"duration": "245",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 104,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ MELEPAS LAJANG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_12.mp3",
+			"duration": "265",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 105,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ MATI MATIAN AKU MENCINTAIMU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_13.mp3",
+			"duration": "230",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 106,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ LAGI LAGI KU NGAK BISA TIDUR",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_14.mp3",
+			"duration": "337",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 107,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ KAU TINGGALKAN AKU SESUKA HATIMU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_15.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 108,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ KAMU GATAL - GATAL BUKANKAH KAU SUDAH BERPUNYA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_16.mp3",
+			"duration": "345",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 109,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ KALA KU SEORANG DIRI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_17.mp3",
+			"duration": "375",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 110,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ BUKAN SEKALI KAMU BUAT BEGINI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_18.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 111,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ BOYBAND",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_19.mp3",
+			"duration": "188",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 112,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ CINTA SAMPAI MATI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_2.mp3",
+			"duration": "296",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 113,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ BELAHAN JIWA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_20.mp3",
+			"duration": "239",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 114,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ AJARKAN AKU DJ TERLUKA TAPI TAK BERDARAH",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_21.mp3",
+			"duration": "343",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 115,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ POK AME AME BELALANG KUPU KUPU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_22.mp3",
+			"duration": "310",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 116,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ MENIMISU X ANU REMON",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_23.mp3",
+			"duration": "290",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 117,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ PECAH SERIBU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_24.mp3",
+			"duration": "376",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 118,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ INILAH AKU RAJA MEXICO",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_25.mp3",
+			"duration": "306",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 119,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ KNOW ME TOO WELL",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_26.mp3",
+			"duration": "277",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 120,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ INI JAMAN MEMANG SUDAH BEDA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_27.mp3",
+			"duration": "192",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 121,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ DEAR DIARY KU INGIN BERCERITA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_28.mp3",
+			"duration": "293",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 122,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ DARI YANG MUDA X TUKERAN SEMVAQ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_29.mp3",
+			"duration": "401",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 123,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ CALL ME BABY",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_3.mp3",
+			"duration": "211",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 124,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ DALAMO DALAMO REMIX",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_30.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 125,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ BURUNG PUYUH BURUNG KETUT DI MAKAN BIAWAK",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_4.mp3",
+			"duration": "297",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 126,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ BEAUTIFUL GIRL",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_5.mp3",
+			"duration": "229",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 127,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ ANU REMON SAKIT LAGI X YOU AND I",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_6.mp3",
+			"duration": "174",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 128,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ SOMETHING JUST LIKE THIS",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_7.mp3",
+			"duration": "224",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 129,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ SANAM RE",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_8.mp3",
+			"duration": "230",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 130,
+			"name_category": "DJ Cewek Tiktok Viral",
+			"title": "DJ TING TING TING X DIKASIH INFO MAZZEH",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Cewek_Tiktok_Viral/Dj_Cewek_Tiktok_9.mp3",
+			"duration": "363",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 131,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_1.mp3",
+			"duration": "267",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 132,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_10.mp3",
+			"duration": "336",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 133,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_11.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 134,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_12.mp3",
+			"duration": "264",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 135,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_13.mp3",
+			"duration": "391",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 136,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_14.mp3",
+			"duration": "217",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 137,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_15.mp3",
+			"duration": "333",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 138,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_16.mp3",
+			"duration": "415",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 139,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_17.mp3",
+			"duration": "351",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 140,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_18.mp3",
+			"duration": "366",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 141,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_19.mp3",
+			"duration": "271",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 142,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_2.mp3",
+			"duration": "317",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 143,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_20.mp3",
+			"duration": "241",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 144,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 21",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_21.mp3",
+			"duration": "403",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 145,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 22",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_22.mp3",
+			"duration": "335",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 146,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 23",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_23.mp3",
+			"duration": "296",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 147,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 24",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_24.mp3",
+			"duration": "405",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 148,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 25",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_25.mp3",
+			"duration": "391",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 149,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 26",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_26.mp3",
+			"duration": "195",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 150,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 27",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_27.mp3",
+			"duration": "355",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 151,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 28",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_28.mp3",
+			"duration": "300",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 152,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 29",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_29.mp3",
+			"duration": "236",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 153,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_3.mp3",
+			"duration": "357",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 154,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 30",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_30.mp3",
+			"duration": "384",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 155,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 31",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_31.mp3",
+			"duration": "401",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 156,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 32",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_32.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 157,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_4.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 158,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_5.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 159,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_6.mp3",
+			"duration": "225",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 160,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_7.mp3",
+			"duration": "265",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 161,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_8.mp3",
+			"duration": "325",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 162,
+			"name_category": "DJ Pok Amai2",
+			"title": "DJ Pok Amai2 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djbelalangkupupokamai2/DJ_Pok_Amai2/DJ_Pok_Amai2_9.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		}
+	]
+}
