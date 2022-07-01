@@ -1,0 +1,1570 @@
+{
+	"ads":
+	{
+		"live_version_code": -1,
+
+		"splash_ad": "auto",
+		"banner_ad": "auto",
+		"mrec_ad": "auto",
+		"inter_ad": "auto",
+
+		"splash_ad_identifier": "identifier_1",
+		"inter_ad_identifier": "identifier_2",
+		"banner_ad_identifier": "identifier_3",
+		"mrec_ad_identifier": "identifier_4",
+
+		"interval_awal": 2,
+		"interval_vungle": 5,
+		"interval_iron": 5,
+		"interval_fan": 5,
+		"interval_unity": 5,
+		"interval_admob": 5,
+		"interval_max": 5,
+		"interval_startapp": 3,
+
+		"minimum_time_vungle": 60,
+		"minimum_time_iron": 60,
+		"minimum_time_fan": 60,
+		"minimum_time_unity": 60,
+		"minimum_time_admob": 61,
+		"minimum_time_max": 60,
+		"minimum_time_startapp": 0,
+
+		"kemungkinan_vungle": 0,
+		"kemungkinan_iron": 0,
+		"kemungkinan_fan": 0,
+		"kemungkinan_unity": 0,
+		"kemungkinan_admob": 0,
+		"kemungkinan_max": 0,
+		"kemungkinan_startapp": 1,
+
+		"adcolony_app_id": "-",
+		"adcolony_banner": "-",
+		"adcolony_inter": "-",
+
+		"vungle_app_id": "-",
+		"vungle_banner": "-",
+		"vungle_mrec": "-",
+		"vungle_inter": "-",
+
+		"iron_appkey": "-",
+
+		"fan_banner": "-",
+		"fan_mrec": "-",
+		"fan_inter": "-",
+
+		"unity_game_id": "-",
+		"unity_banner": "-",
+		"unity_inter": "-",
+
+		"admob_open": "-",
+		"admob_banner": "-",
+		"admob_inter": "-",
+
+		"max_banner": "-",
+		"max_mrec": "-",
+		"max_inter": "-",
+
+		"startapp_id": "205960563",
+
+		"app_live_store": "auto",
+		"shopee_aff": "https://shope.ee/AUG8gxNBGz"
+	},
+
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg"
+		},
+		{
+			"id": 3,
+			"name_category": "Dj Remix Tongkrongan",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg"
+		},
+		{
+			"id": 4,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg"
+		},
+		{
+			"id": 5,
+			"name_category": "Tongkrong Sopan",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/tray.jpg"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "DJ Dalam sepiku kaulah candaku",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_1.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 2,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "Maafkan aku pergi Aku memang jodohnya",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_10.mp3",
+			"duration": "375",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 3,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "DJ Piker keri remix",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_11.mp3",
+			"duration": "334",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 4,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "Tutur batinku tak akan salah",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_12.mp3",
+			"duration": "315",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 5,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "Kita jangan bertengkar lagi",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_13.mp3",
+			"duration": "269",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 6,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "DJ Melepas Lajang",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_14.mp3",
+			"duration": "260",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 7,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "Dj merubah buih jadi permadani",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_15.mp3",
+			"duration": "387",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 8,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "Dj pergilah engkau bersamanya",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_16.mp3",
+			"duration": "339",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 9,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "DJ Pok amai amai belalang kupu kupu",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_17.mp3",
+			"duration": "242",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 10,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "DJ Teruslah sembunyikan aku",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_18.mp3",
+			"duration": "386",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 11,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "DJ Tunggulah kasih",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_19.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 12,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "Dear diary ku ingin bercerita",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_2.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 13,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "Dj Cinta sampai mati",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_20.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 14,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "Rintik gerimis mengundang",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_21.mp3",
+			"duration": "224",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 15,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "DJ Ingin Memeluk Dirimu Remix",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_22.mp3",
+			"duration": "281",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 16,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "Kutahan Rindu Bukan Ku Sengaja",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_23.mp3",
+			"duration": "336",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 17,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "DJ SELALU TERSIMPAN ZIDAN",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_24.mp3",
+			"duration": "314",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 18,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "Dj dalamo dalamo viral",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_25.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 19,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "Dj Andai kita dulu tak berpisah",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_26.mp3",
+			"duration": "287",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 20,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "DJ SIA SIA BERJUANG",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_27.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 21,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "Aku Bukan Jodohnya",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_28.mp3",
+			"duration": "432",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 22,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "DJ I Love Mama Mantu",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_29.mp3",
+			"duration": "207",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 23,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "Dj Hanya dia",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_3.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 24,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "DJ Tongrongan kami tongkrongan bukan pecundang",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_30.mp3",
+			"duration": "262",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 25,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "DJ Mars Tukang Bangunan",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_31.mp3",
+			"duration": "202",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 26,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "DJ Aku bukan orang kaya",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_32.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 27,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "DJ Asmara kini telah menyakitkanku",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_33.mp3",
+			"duration": "271",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 28,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "Dj akui sulit cari penggantimu",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_4.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 29,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "DJ Jangan menangis untukku",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_5.mp3",
+			"duration": "317",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 30,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "DJ Juara di hatiku",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_6.mp3",
+			"duration": "323",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 31,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "DJ Ko kira sa ni kuat tahan ni luka",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_7.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 32,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "Kukira kita akan bersama",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_8.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 33,
+			"name_category": "DJ Tongkrongan Sopan Offline",
+			"title": "Dj lagi lagi ku tak bisa tidur",
+			"image": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Tongkrongan_Sopan_Offline/Tongkrongan_Kami_Sopan_Offline_9.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 34,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_1.mp3",
+			"duration": "437",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 35,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_10.mp3",
+			"duration": "360",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 36,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_11.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 37,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_12.mp3",
+			"duration": "345",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 38,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_13.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 39,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_14.mp3",
+			"duration": "433",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 40,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_15.mp3",
+			"duration": "357",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 41,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_16.mp3",
+			"duration": "418",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 42,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_17.mp3",
+			"duration": "447",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 43,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_18.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 44,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_19.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 45,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_2.mp3",
+			"duration": "302",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 46,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_20.mp3",
+			"duration": "296",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 47,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 21",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_21.mp3",
+			"duration": "276",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 48,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 22",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_22.mp3",
+			"duration": "260",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 49,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 23",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_23.mp3",
+			"duration": "287",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 50,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 24",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_24.mp3",
+			"duration": "347",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 51,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 25",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_25.mp3",
+			"duration": "434",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 52,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 26",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_26.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 53,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 27",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_27.mp3",
+			"duration": "351",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 54,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 28",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_28.mp3",
+			"duration": "386",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 55,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 29",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_29.mp3",
+			"duration": "359",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 56,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_3.mp3",
+			"duration": "301",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 57,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_4.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 58,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_5.mp3",
+			"duration": "414",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 59,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_6.mp3",
+			"duration": "325",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 60,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_7.mp3",
+			"duration": "278",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 61,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_8.mp3",
+			"duration": "362",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 62,
+			"name_category": "Bukan Tongkrongan Pecundang",
+			"title": "Bukan Tongkrongan Pecundang 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Bukan_Tongkrongan_Pecundang/Bukan_Tongkrongan_Pecundang_9.mp3",
+			"duration": "336",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 63,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "DJ Aku Raja Mexico",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/DJ_Aku_Raja_Mexico.mp3",
+			"duration": "409",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 64,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "DJ Cinta Sampai Mati Dengarkanlah Di Sepanjang Malam Aku Berdoa",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/DJ_Cinta_Sampai_Mati_Dengarkanlah_Di_Sepanjang_Malam_Aku_Berdoa.mp3",
+			"duration": "301",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 65,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/DJ_Dear_Diary_Ku_Ingin_Bercerita_Kepadamu.mp3",
+			"duration": "414",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 66,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "DJ Dengarkanlah Disepanjang Malam Aku Berdoa",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/DJ_Dengarkanlah_Disepanjang_Malam_Aku_Berdoa.mp3",
+			"duration": "390",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 67,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "DJ Fortune Cookies",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/DJ_Fortune_Cookies.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 68,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "                              ",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/DJ_Tongkrongan_Kami_Bukan_Pecundang.mp3",
+			"duration": "260",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 69,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_1.mp3",
+			"duration": "198",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 70,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_10.mp3",
+			"duration": "256",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 71,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_11.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 72,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_12.mp3",
+			"duration": "261",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 73,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_13.mp3",
+			"duration": "302",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 74,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_14.mp3",
+			"duration": "255",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 75,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_15.mp3",
+			"duration": "283",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 76,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_16.mp3",
+			"duration": "355",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 77,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_17.mp3",
+			"duration": "351",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 78,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_18.mp3",
+			"duration": "407",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 79,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_19.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 80,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "dj cidro 2 cindi chintya dewi selow remix terbaru viral tik tok 2021 jpc dj tatang axl 9017849950599434611",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_2.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 81,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_20.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 82,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 21",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_21.mp3",
+			"duration": "381",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 83,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 22",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_22.mp3",
+			"duration": "303",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 84,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 23",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_23.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 85,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 24",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_24.mp3",
+			"duration": "257",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 86,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 25",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_25.mp3",
+			"duration": "282",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 87,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 26",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_26.mp3",
+			"duration": "242",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 88,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 27",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_27.mp3",
+			"duration": "313",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 89,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 28",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_28.mp3",
+			"duration": "300",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 90,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 29",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_29.mp3",
+			"duration": "245",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 91,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_3.mp3",
+			"duration": "224",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 92,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 30",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_30.mp3",
+			"duration": "253",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 93,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 31",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_31.mp3",
+			"duration": "441",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 94,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 32",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_32.mp3",
+			"duration": "281",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 95,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_4.mp3",
+			"duration": "272",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 96,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_5.mp3",
+			"duration": "259",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 97,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_6.mp3",
+			"duration": "173",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 98,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_7.mp3",
+			"duration": "270",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 99,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_8.mp3",
+			"duration": "212",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 100,
+			"name_category": "Dj Remix Tongkrongan",
+			"title": "Sopan Nongkrong 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Dj_Remix_Tongkrongan/Sopan_Nongkrong_9.mp3",
+			"duration": "290",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 101,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "DJ RIP LOVE FAOUZIA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_1.mp3",
+			"duration": "241",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 102,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "DJ DARARI TREASURE",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_10.mp3",
+			"duration": "150",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 103,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "Dj Dari yang muda sampai yang tua",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_11.mp3",
+			"duration": "253",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 104,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "DJ INI JAMAN MEMANG SUDAH BEDA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_12.mp3",
+			"duration": "195",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 105,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "DJ KU JATUH CINTA MAIMUNAH X SPECTRE",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_13.mp3",
+			"duration": "269",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 106,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "Dj lagi lagiku tak bisa tidur",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_14.mp3",
+			"duration": "279",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 107,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "DJ MATI MATIAN AKU MENCINTAIMU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_15.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 108,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "DJ OK WITHOUT YOU X TASOFONAMIK",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_16.mp3",
+			"duration": "140",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 109,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "Dj aca aca nehi nehi remix",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_17.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 110,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "DJ ADUH BUSET SREPET TET TET",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_18.mp3",
+			"duration": "250",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 111,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "DJ Anu Remon Sakit Lagi",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_19.mp3",
+			"duration": "166",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 112,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "DJ DI KASIH INFO MASEH X TING TING TING",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_2.mp3",
+			"duration": "279",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 113,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "DJ Cloud Bread",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_20.mp3",
+			"duration": "223",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 114,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "DJ ETHAN X TAPI TAPIS X JUST LIKE THE DAY",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_21.mp3",
+			"duration": "204",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 115,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "DJ DENDE REO",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_22.mp3",
+			"duration": "289",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 116,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "DJ Gani Gani Hujan Badai Angin Ribut",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_23.mp3",
+			"duration": "247",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 117,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "Dj Geboy mujair remix",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_24.mp3",
+			"duration": "263",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 118,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "DJ MELEPAS LAJANG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_25.mp3",
+			"duration": "317",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 119,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "Dj Stel Kendo Stel Kenceng Viral",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_26.mp3",
+			"duration": "251",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 120,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "DJ Tum Sath Ho X Kamu Punya Pacar Lagi",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_27.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 121,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "DJ AKU MEMANG JODOHNYA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_28.mp3",
+			"duration": "285",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 122,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "Dj body back remix",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_29.mp3",
+			"duration": "242",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 123,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "DJ DOTA RICARDO MILOS",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_3.mp3",
+			"duration": "181",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 124,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "Dj bukan satu kali kamu buat begini",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_30.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 125,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "Dj Sanam Re x Dj Topeng",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_31.mp3",
+			"duration": "244",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 126,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "Dj Tagoday remix",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_32.mp3",
+			"duration": "194",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 127,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "Dj tongkrongan kami bukan tongkrongan",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_33.mp3",
+			"duration": "253",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 128,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "DJ WAH MURAH BANGET",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_34.mp3",
+			"duration": "202",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 129,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "Dj Cuki cuki maimunah",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_35.mp3",
+			"duration": "295",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 130,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "Dj Goreng goreng x Dj Sopan",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_36.mp3",
+			"duration": "301",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 131,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "Dj Kau mungkin suka kepada ku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_37.mp3",
+			"duration": "255",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 132,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "DJ MAAFKAN AKU YANG DULU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_38.mp3",
+			"duration": "303",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 133,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "DJ PAPA MUDA GOYANG GOYANG MAMA MUDA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_39.mp3",
+			"duration": "257",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 134,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "Dj love tonight",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_4.mp3",
+			"duration": "287",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 135,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "DJ MENIMISU X AWONOME REMIX",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_5.mp3",
+			"duration": "198",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 136,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "DJ TOLONG PANGANA BAJAUH x TERLALU SADIS KATA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_6.mp3",
+			"duration": "250",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 137,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "DJ BANG JONO X TEPUK AMAI AMAI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_7.mp3",
+			"duration": "155",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 138,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "DJ Call Me Babye",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_8.mp3",
+			"duration": "209",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 139,
+			"name_category": "DJ Tongkrongan Kami Bukan",
+			"title": "DJ DALAM SEPIKU KAULAH CANDAKU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/DJ_Tongkrongan_Kami_Bukan/DJ_Tongkrongan_Kami_9.mp3",
+			"duration": "320",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 140,
+			"name_category": "Tongkrong Sopan",
+			"title": "Tongkrongan Kami Sopan 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/Tongkrongan_Kami_Sopan_1.mp3",
+			"duration": "418",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 141,
+			"name_category": "Tongkrong Sopan",
+			"title": "Tongkrongan Kami Sopan 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/Tongkrongan_Kami_Sopan_10.mp3",
+			"duration": "278",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 142,
+			"name_category": "Tongkrong Sopan",
+			"title": "Tongkrongan Kami Sopan 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/Tongkrongan_Kami_Sopan_11.mp3",
+			"duration": "325",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 143,
+			"name_category": "Tongkrong Sopan",
+			"title": "Tongkrongan Kami Sopan 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/Tongkrongan_Kami_Sopan_12.mp3",
+			"duration": "414",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 144,
+			"name_category": "Tongkrong Sopan",
+			"title": "Tongkrongan Kami Sopan 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/Tongkrongan_Kami_Sopan_13.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 145,
+			"name_category": "Tongkrong Sopan",
+			"title": "Tongkrongan Kami Sopan 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/Tongkrongan_Kami_Sopan_14.mp3",
+			"duration": "301",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 146,
+			"name_category": "Tongkrong Sopan",
+			"title": "Tongkrongan Kami Sopan 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/Tongkrongan_Kami_Sopan_15.mp3",
+			"duration": "302",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 147,
+			"name_category": "Tongkrong Sopan",
+			"title": "Tongkrongan Kami Sopan 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/Tongkrongan_Kami_Sopan_16.mp3",
+			"duration": "405",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 148,
+			"name_category": "Tongkrong Sopan",
+			"title": "Tongkrongan Kami Sopan 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/Tongkrongan_Kami_Sopan_17.mp3",
+			"duration": "260",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 149,
+			"name_category": "Tongkrong Sopan",
+			"title": "Tongkrongan Kami Sopan 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/Tongkrongan_Kami_Sopan_18.mp3",
+			"duration": "437",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 150,
+			"name_category": "Tongkrong Sopan",
+			"title": "Tongkrongan Kami Sopan 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/Tongkrongan_Kami_Sopan_19.mp3",
+			"duration": "386",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 151,
+			"name_category": "Tongkrong Sopan",
+			"title": "Tongkrongan Kami Sopan 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/Tongkrongan_Kami_Sopan_2.mp3",
+			"duration": "357",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 152,
+			"name_category": "Tongkrong Sopan",
+			"title": "Tongkrongan Kami Sopan 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/Tongkrongan_Kami_Sopan_20.mp3",
+			"duration": "351",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 153,
+			"name_category": "Tongkrong Sopan",
+			"title": "Tongkrongan Kami Sopan 21",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/Tongkrongan_Kami_Sopan_21.mp3",
+			"duration": "434",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 154,
+			"name_category": "Tongkrong Sopan",
+			"title": "Tongkrongan Kami Sopan 22",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/Tongkrongan_Kami_Sopan_22.mp3",
+			"duration": "347",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 155,
+			"name_category": "Tongkrong Sopan",
+			"title": "Tongkrongan Kami Sopan 23",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/Tongkrongan_Kami_Sopan_23.mp3",
+			"duration": "287",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 156,
+			"name_category": "Tongkrong Sopan",
+			"title": "Tongkrongan Kami Sopan 24",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/Tongkrongan_Kami_Sopan_24.mp3",
+			"duration": "447",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 157,
+			"name_category": "Tongkrong Sopan",
+			"title": "Tongkrongan Kami Sopan 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/Tongkrongan_Kami_Sopan_3.mp3",
+			"duration": "433",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 158,
+			"name_category": "Tongkrong Sopan",
+			"title": "Tongkrongan Kami Sopan 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/Tongkrongan_Kami_Sopan_4.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 159,
+			"name_category": "Tongkrong Sopan",
+			"title": "Tongkrongan Kami Sopan 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/Tongkrongan_Kami_Sopan_5.mp3",
+			"duration": "345",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 160,
+			"name_category": "Tongkrong Sopan",
+			"title": "Tongkrongan Kami Sopan 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/Tongkrongan_Kami_Sopan_6.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 161,
+			"name_category": "Tongkrong Sopan",
+			"title": "Tongkrongan Kami Sopan 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/Tongkrongan_Kami_Sopan_7.mp3",
+			"duration": "360",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 162,
+			"name_category": "Tongkrong Sopan",
+			"title": "Tongkrongan Kami Sopan 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/Tongkrongan_Kami_Sopan_8.mp3",
+			"duration": "336",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 163,
+			"name_category": "Tongkrong Sopan",
+			"title": "Tongkrongan Kami Sopan 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djtongkrongankamisopanoffline/Tongkrong_Sopan/Tongkrongan_Kami_Sopan_9.mp3",
+			"duration": "362",
+			"lyrics": "Tidak Ada Lirik"
+		}
+	]
+}
