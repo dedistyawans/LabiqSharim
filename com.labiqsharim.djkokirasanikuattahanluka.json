@@ -1,0 +1,1408 @@
+{
+	"ads":
+	{
+		"live_version_code": -1,
+
+		"splash_ad": "auto",
+		"banner_ad": "auto",
+		"mrec_ad": "auto",
+		"inter_ad": "auto",
+
+		"splash_ad_identifier": "identifier_1",
+		"inter_ad_identifier": "identifier_2",
+		"banner_ad_identifier": "identifier_3",
+		"mrec_ad_identifier": "identifier_4",
+
+		"interval_awal": 2,
+		"interval_vungle": 5,
+		"interval_iron": 5,
+		"interval_fan": 5,
+		"interval_unity": 5,
+		"interval_admob": 5,
+		"interval_max": 5,
+		"interval_startapp": 3,
+
+		"minimum_time_vungle": 60,
+		"minimum_time_iron": 60,
+		"minimum_time_fan": 60,
+		"minimum_time_unity": 60,
+		"minimum_time_admob": 61,
+		"minimum_time_max": 60,
+		"minimum_time_startapp": 0,
+
+		"kemungkinan_vungle": 0,
+		"kemungkinan_iron": 0,
+		"kemungkinan_fan": 0,
+		"kemungkinan_unity": 0,
+		"kemungkinan_admob": 0,
+		"kemungkinan_max": 0,
+		"kemungkinan_startapp": 1,
+
+		"adcolony_app_id": "-",
+		"adcolony_banner": "-",
+		"adcolony_inter": "-",
+
+		"vungle_app_id": "-",
+		"vungle_banner": "-",
+		"vungle_mrec": "-",
+		"vungle_inter": "-",
+
+		"iron_appkey": "-",
+
+		"fan_banner": "-",
+		"fan_mrec": "-",
+		"fan_inter": "-",
+
+		"unity_game_id": "-",
+		"unity_banner": "-",
+		"unity_inter": "-",
+
+		"admob_open": "-",
+		"admob_banner": "-",
+		"admob_inter": "-",
+
+		"max_banner": "-",
+		"max_mrec": "-",
+		"max_inter": "-",
+
+		"startapp_id": "205960563",
+
+		"app_live_store": "auto",
+		"shopee_aff": "https://shope.ee/AUG8gxNBGz"
+	},
+
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "DJ Kokiran Sani Offline",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "DJ Dear Diary",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg"
+		},
+		{
+			"id": 3,
+			"name_category": "DJ kukira dia mencintaiku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_kukira_dia_mencintaiku/tray.jpg"
+		},
+		{
+			"id": 4,
+			"name_category": "DJ Luka Sekarat rasa",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg"
+		},
+		{
+			"id": 5,
+			"name_category": "DJ terimakasih luka ini",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "Kukira kita akan bersama",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_1.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 2,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "DJ Tunggulah kasih",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_10.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 3,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "Dj Cinta sampai mati",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_11.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 4,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "DJ Pok amai amai belalang kupu kupu",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_12.mp3",
+			"duration": "242",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 5,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "DJ Teruslah sembunyikan aku",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_13.mp3",
+			"duration": "386",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 6,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "Rintik gerimis mengundang",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_14.mp3",
+			"duration": "224",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 7,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "DJ Ingin Memeluk Dirimu Remix",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_15.mp3",
+			"duration": "281",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 8,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "Kutahan Rindu Bukan Ku Sengaja",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_16.mp3",
+			"duration": "336",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 9,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "DJ SELALU TERSIMPAN ZIDAN",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_17.mp3",
+			"duration": "314",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 10,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "Terluka Tapi Tak Berdarah",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_18.mp3",
+			"duration": "314",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 11,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "DJ Ghost Jedagjedug Fullbeat",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_19.mp3",
+			"duration": "222",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 12,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "Dj lagi lagi ku tak bisa tidur",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_2.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 13,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "Dj Andai kita dulu tak berpisah",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_20.mp3",
+			"duration": "287",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 14,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "DJ SIA SIA BERJUANG",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_21.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 15,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "Aku Bukan Jodohnya",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_22.mp3",
+			"duration": "432",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 16,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "DJ Ko kira sa ni kuat tahan ni luka",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_23.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 17,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "DJ Mars Tukang Bangunan",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_24.mp3",
+			"duration": "202",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 18,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "DJ Melepas Lajang",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_25.mp3",
+			"duration": "260",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 19,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "DJ Aku bukan orang kaya",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_26.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 20,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "DJ Asmara kini telah menyakitkanku",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_27.mp3",
+			"duration": "271",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 21,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "DJ Dalam sepiku kaulah candaku",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_28.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 22,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "Dear diary ku ingin bercerita",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_29.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 23,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "Maafkan aku pergi Aku memang jodohnya",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_3.mp3",
+			"duration": "375",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 24,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "Dj Hanya dia",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_30.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 25,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "Dj akui sulit cari penggantimu",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_31.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 26,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "DJ Jangan menangis untukku",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_32.mp3",
+			"duration": "317",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 27,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "DJ Juara di hatiku",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_33.mp3",
+			"duration": "323",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 28,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "Dj merubah buih jadi permadani",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_4.mp3",
+			"duration": "387",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 29,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "Kita jangan bertengkar lagi",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_5.mp3",
+			"duration": "269",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 30,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "Dj pergilah engkau bersamanya",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_6.mp3",
+			"duration": "339",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 31,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "DJ Piker keri remix",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_7.mp3",
+			"duration": "334",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 32,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "DJ Tongrongan kami tongkrongan bukan pecundang",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_8.mp3",
+			"duration": "262",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 33,
+			"name_category": "DJ Kokiran Sani Offline",
+			"title": "Tutur batinku tak akan salah",
+			"image": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Kokiran_Sani_Offline/Kokira_Sani_Kuat_Offline_9.mp3",
+			"duration": "315",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 34,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ SA PAMIT MO PULANG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_1.mp3",
+			"duration": "339",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 35,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ PECAH SERIBU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_10.mp3",
+			"duration": "329",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 36,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ TRUMPET NARCO",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_11.mp3",
+			"duration": "235",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 37,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ PAP PEP PAP SURYA VADELE SLOW ANGKLUNG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_12.mp3",
+			"duration": "229",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 38,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ BABY DONT GO X TIPAT TIPAT",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_13.mp3",
+			"duration": "231",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 39,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ Cloud Bread",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_14.mp3",
+			"duration": "223",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 40,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ I Love Mama Mantu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_15.mp3",
+			"duration": "207",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 41,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ TOXIC FRIENDS SLOW",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_16.mp3",
+			"duration": "180",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 42,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ Body Back Remix",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_17.mp3",
+			"duration": "168",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 43,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ Gani Gani Hujan Badai Angin Ribut",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_18.mp3",
+			"duration": "247",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 44,
+			"name_category": "DJ Dear Diary",
+			"title": "Dj beautiful girl",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_19.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 45,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ TAKDE WANG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_2.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 46,
+			"name_category": "DJ Dear Diary",
+			"title": "Dj Bukan Sekali Kamu Buat Begini",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_20.mp3",
+			"duration": "284",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 47,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ DURI DURI YANG KAU TANCAPKAN DI HATI INI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_21.mp3",
+			"duration": "355",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 48,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ MELEPAS MASA LAJANG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_22.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 49,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ Bila Nanti Remix",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_23.mp3",
+			"duration": "286",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 50,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ SELALU TERSIMPAN ZIDAN",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_24.mp3",
+			"duration": "314",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 51,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ SIA SIA KU BERJUANG SLOW",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_25.mp3",
+			"duration": "248",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 52,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ AKANKAH KAU MERASAKAN",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_26.mp3",
+			"duration": "237",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 53,
+			"name_category": "DJ Dear Diary",
+			"title": "AKU BUKAN JODOHNYA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_27.mp3",
+			"duration": "432",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 54,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ BUIH JADI PERMADANI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_28.mp3",
+			"duration": "324",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 55,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ TAHAN NI LUKA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_29.mp3",
+			"duration": "215",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 56,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ BIAR GENDUT TETAP KU CINTA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_3.mp3",
+			"duration": "345",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 57,
+			"name_category": "DJ Dear Diary",
+			"title": "Dj aca aca nehi nehi remix",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_30.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 58,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ BAGAIMANA KALAU AKU TIDAK BAIK BAIK SAJA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_31.mp3",
+			"duration": "311",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 59,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ CINTA SAMPAI MATI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_32.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 60,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ Dalam Sepiku Kaulah Candaku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_33.mp3",
+			"duration": "253",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 61,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ DEAR DIARY KU INGIN BERCERITA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_34.mp3",
+			"duration": "354",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 62,
+			"name_category": "DJ Dear Diary",
+			"title": "Dj lagi lagi ku tak bisa tidur",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_35.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 63,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ MATI MATIAN AKU MENCINTAIMU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_36.mp3",
+			"duration": "230",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 64,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ DALAMO DALAMO",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_4.mp3",
+			"duration": "333",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 65,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ DARI YANG MUDA X TUKERAN SEMVAQ X BEAUTIFUL GIRLS",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_5.mp3",
+			"duration": "399",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 66,
+			"name_category": "DJ Dear Diary",
+			"title": "Dj Ghost Jedag Jedug",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_6.mp3",
+			"duration": "226",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 67,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ INILAH AKU RAJA MEXICO",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_7.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 68,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ Mars Tukang Bangunan",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_8.mp3",
+			"duration": "202",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 69,
+			"name_category": "DJ Dear Diary",
+			"title": "DJ MENIMISU X AKON RIGHT NOW",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Dear_Diary/Dear_Diary_9.mp3",
+			"duration": "329",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 70,
+			"name_category": "DJ kukira dia mencintaiku",
+			"title": "Ku Kira Dia Mencintaiku 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_kukira_dia_mencintaiku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_kukira_dia_mencintaiku/Ku_Kira_Dia_Mencintaiku_1.mp3",
+			"duration": "373",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 71,
+			"name_category": "DJ kukira dia mencintaiku",
+			"title": "Ku Kira Dia Mencintaiku 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_kukira_dia_mencintaiku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_kukira_dia_mencintaiku/Ku_Kira_Dia_Mencintaiku_10.mp3",
+			"duration": "320",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 72,
+			"name_category": "DJ kukira dia mencintaiku",
+			"title": "Ku Kira Dia Mencintaiku 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_kukira_dia_mencintaiku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_kukira_dia_mencintaiku/Ku_Kira_Dia_Mencintaiku_11.mp3",
+			"duration": "222",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 73,
+			"name_category": "DJ kukira dia mencintaiku",
+			"title": "Ku Kira Dia Mencintaiku 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_kukira_dia_mencintaiku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_kukira_dia_mencintaiku/Ku_Kira_Dia_Mencintaiku_12.mp3",
+			"duration": "262",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 74,
+			"name_category": "DJ kukira dia mencintaiku",
+			"title": "Ku Kira Dia Mencintaiku 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_kukira_dia_mencintaiku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_kukira_dia_mencintaiku/Ku_Kira_Dia_Mencintaiku_13.mp3",
+			"duration": "297",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 75,
+			"name_category": "DJ kukira dia mencintaiku",
+			"title": "Ku Kira Dia Mencintaiku 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_kukira_dia_mencintaiku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_kukira_dia_mencintaiku/Ku_Kira_Dia_Mencintaiku_2.mp3",
+			"duration": "301",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 76,
+			"name_category": "DJ kukira dia mencintaiku",
+			"title": "Ku Kira Dia Mencintaiku 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_kukira_dia_mencintaiku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_kukira_dia_mencintaiku/Ku_Kira_Dia_Mencintaiku_3.mp3",
+			"duration": "315",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 77,
+			"name_category": "DJ kukira dia mencintaiku",
+			"title": "Ku Kira Dia Mencintaiku 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_kukira_dia_mencintaiku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_kukira_dia_mencintaiku/Ku_Kira_Dia_Mencintaiku_4.mp3",
+			"duration": "313",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 78,
+			"name_category": "DJ kukira dia mencintaiku",
+			"title": "Ku Kira Dia Mencintaiku 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_kukira_dia_mencintaiku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_kukira_dia_mencintaiku/Ku_Kira_Dia_Mencintaiku_5.mp3",
+			"duration": "303",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 79,
+			"name_category": "DJ kukira dia mencintaiku",
+			"title": "Ku Kira Dia Mencintaiku 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_kukira_dia_mencintaiku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_kukira_dia_mencintaiku/Ku_Kira_Dia_Mencintaiku_6.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 80,
+			"name_category": "DJ kukira dia mencintaiku",
+			"title": "Ku Kira Dia Mencintaiku 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_kukira_dia_mencintaiku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_kukira_dia_mencintaiku/Ku_Kira_Dia_Mencintaiku_7.mp3",
+			"duration": "564",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 81,
+			"name_category": "DJ kukira dia mencintaiku",
+			"title": "Ku Kira Dia Mencintaiku 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_kukira_dia_mencintaiku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_kukira_dia_mencintaiku/Ku_Kira_Dia_Mencintaiku_8.mp3",
+			"duration": "315",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 82,
+			"name_category": "DJ kukira dia mencintaiku",
+			"title": "Ku Kira Dia Mencintaiku 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_kukira_dia_mencintaiku/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_kukira_dia_mencintaiku/Ku_Kira_Dia_Mencintaiku_9.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 83,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_1.mp3",
+			"duration": "218",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 84,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_10.mp3",
+			"duration": "196",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 85,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_11.mp3",
+			"duration": "295",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 86,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_12.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 87,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_13.mp3",
+			"duration": "262",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 88,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_14.mp3",
+			"duration": "248",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 89,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_15.mp3",
+			"duration": "300",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 90,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_16.mp3",
+			"duration": "333",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 91,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_17.mp3",
+			"duration": "326",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 92,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_18.mp3",
+			"duration": "310",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 93,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_19.mp3",
+			"duration": "284",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 94,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_2.mp3",
+			"duration": "182",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 95,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_20.mp3",
+			"duration": "282",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 96,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 21",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_21.mp3",
+			"duration": "176",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 97,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 22",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_22.mp3",
+			"duration": "246",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 98,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 23",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_23.mp3",
+			"duration": "193",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 99,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 24",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_24.mp3",
+			"duration": "220",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 100,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 25",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_25.mp3",
+			"duration": "179",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 101,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 26",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_26.mp3",
+			"duration": "171",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 102,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 27",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_27.mp3",
+			"duration": "165",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 103,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 28",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_28.mp3",
+			"duration": "188",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 104,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 29",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_29.mp3",
+			"duration": "230",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 105,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_3.mp3",
+			"duration": "285",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 106,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 30",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_30.mp3",
+			"duration": "194",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 107,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_4.mp3",
+			"duration": "186",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 108,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_5.mp3",
+			"duration": "196",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 109,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_6.mp3",
+			"duration": "365",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 110,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_7.mp3",
+			"duration": "369",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 111,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_8.mp3",
+			"duration": "339",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 112,
+			"name_category": "DJ Luka Sekarat rasa",
+			"title": "Luka Sekarat Rasa 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_Luka_Sekarat_rasa/Luka_Sekarat_Rasa_9.mp3",
+			"duration": "288",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 113,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_1.mp3",
+			"duration": "240",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 114,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 10",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_10.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 115,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 11",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_11.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 116,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 12",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_12.mp3",
+			"duration": "282",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 117,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 13",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_13.mp3",
+			"duration": "321",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 118,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 14",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_14.mp3",
+			"duration": "398",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 119,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 15",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_15.mp3",
+			"duration": "225",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 120,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 16",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_16.mp3",
+			"duration": "263",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 121,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 17",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_17.mp3",
+			"duration": "272",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 122,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 18",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_18.mp3",
+			"duration": "269",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 123,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 19",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_19.mp3",
+			"duration": "371",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 124,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_2.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 125,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 20",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_20.mp3",
+			"duration": "288",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 126,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 21",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_21.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 127,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 22",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_22.mp3",
+			"duration": "359",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 128,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 23",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_23.mp3",
+			"duration": "248",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 129,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 24",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_24.mp3",
+			"duration": "325",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 130,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 25",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_25.mp3",
+			"duration": "433",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 131,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 26",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_26.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 132,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 27",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_27.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 133,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 28",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_28.mp3",
+			"duration": "334",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 134,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 29",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_29.mp3",
+			"duration": "353",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 135,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 3",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_3.mp3",
+			"duration": "257",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 136,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 30",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_30.mp3",
+			"duration": "508",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 137,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 31",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_31.mp3",
+			"duration": "328",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 138,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 32",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_32.mp3",
+			"duration": "346",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 139,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 33",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_33.mp3",
+			"duration": "365",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 140,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 4",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_4.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 141,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 5",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_5.mp3",
+			"duration": "271",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 142,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 6",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_6.mp3",
+			"duration": "338",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 143,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 7",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_7.mp3",
+			"duration": "348",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 144,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 8",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_8.mp3",
+			"duration": "328",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 145,
+			"name_category": "DJ terimakasih luka ini",
+			"title": "Terimakasih Luka Ini 9",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djkokirasanikuattahanluka/DJ_terimakasih_luka_ini/Terimakasih_Luka_Ini_9.mp3",
+			"duration": "360",
+			"lyrics": "Tidak Ada Lirik"
+		}
+	]
+}
