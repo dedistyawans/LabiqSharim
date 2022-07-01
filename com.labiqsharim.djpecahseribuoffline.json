@@ -1,0 +1,1178 @@
+{
+	"ads":
+	{
+		"live_version_code": -1,
+
+		"splash_ad": "auto",
+		"banner_ad": "auto",
+		"mrec_ad": "auto",
+		"inter_ad": "auto",
+
+		"splash_ad_identifier": "identifier_1",
+		"inter_ad_identifier": "identifier_2",
+		"banner_ad_identifier": "identifier_3",
+		"mrec_ad_identifier": "identifier_4",
+
+		"interval_awal": 2,
+		"interval_vungle": 5,
+		"interval_iron": 5,
+		"interval_fan": 5,
+		"interval_unity": 5,
+		"interval_admob": 5,
+		"interval_max": 5,
+		"interval_startapp": 3,
+
+		"minimum_time_vungle": 60,
+		"minimum_time_iron": 60,
+		"minimum_time_fan": 60,
+		"minimum_time_unity": 60,
+		"minimum_time_admob": 61,
+		"minimum_time_max": 60,
+		"minimum_time_startapp": 0,
+
+		"kemungkinan_vungle": 0,
+		"kemungkinan_iron": 0,
+		"kemungkinan_fan": 0,
+		"kemungkinan_unity": 0,
+		"kemungkinan_admob": 0,
+		"kemungkinan_max": 0,
+		"kemungkinan_startapp": 1,
+
+		"adcolony_app_id": "-",
+		"adcolony_banner": "-",
+		"adcolony_inter": "-",
+
+		"vungle_app_id": "-",
+		"vungle_banner": "-",
+		"vungle_mrec": "-",
+		"vungle_inter": "-",
+
+		"iron_appkey": "-",
+
+		"fan_banner": "-",
+		"fan_mrec": "-",
+		"fan_inter": "-",
+
+		"unity_game_id": "-",
+		"unity_banner": "-",
+		"unity_inter": "-",
+
+		"admob_open": "-",
+		"admob_banner": "-",
+		"admob_inter": "-",
+
+		"max_banner": "-",
+		"max_mrec": "-",
+		"max_inter": "-",
+
+		"startapp_id": "205960563",
+
+		"app_live_store": "auto",
+		"shopee_aff": "https://shope.ee/AUG8gxNBGz"
+	},
+
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "DJ Pecah Seribu Offline",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "Pecah Seribu Online",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg"
+		},
+		{
+			"id": 3,
+			"name_category": "Pecah Seribu Tecno",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/tray.jpg"
+		},
+		{
+			"id": 4,
+			"name_category": "Pecah Seribu Viral",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ BAHAGIA AKU BILA BERSAMAMU",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_1.mp3",
+			"duration": "345",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 2,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ MONEY",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_10.mp3",
+			"duration": "292",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 3,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ SALTING KO PALING MANIS",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_11.mp3",
+			"duration": "271",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 4,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ SIA SIA BERJUANG",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_12.mp3",
+			"duration": "284",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 5,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ SORRY SLOW BASS",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_13.mp3",
+			"duration": "386",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 6,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ TEENAGE MONALISA",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_14.mp3",
+			"duration": "336",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 7,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ TEHIBA TEHI",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_15.mp3",
+			"duration": "348",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 8,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ LAGI LAGI KU NGAK BISA TIDUR",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_16.mp3",
+			"duration": "337",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 9,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ MATI MATIAN AKU MENCINTAIMU",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_17.mp3",
+			"duration": "230",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 10,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ MENIMISU",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_18.mp3",
+			"duration": "331",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 11,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ TAK BOSAN BOSAN AKU MEMANDANGMU",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_19.mp3",
+			"duration": "359",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 12,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ BETA JANJI BETA JAGA dj yoga",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_2.mp3",
+			"duration": "328",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 13,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ AJARKAN AKU DJ TERLUKA TAPI TAK BERDARAH",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_20.mp3",
+			"duration": "343",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 14,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ ANU REMON SAKIT LAGI X YOU AND I",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_21.mp3",
+			"duration": "174",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 15,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ BUKAN SEKALI KAMU BUAT BEGINI",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_22.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 16,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ CINTA SAMPAI MATI",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_23.mp3",
+			"duration": "296",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 17,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ DALAMO DALAMO REMIX",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_24.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 18,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ GHOST JEDAG JEDUG REMIX DJ OPUS",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_25.mp3",
+			"duration": "303",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 19,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ DALAM SEPIKU KAULAH CANDAKU",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_26.mp3",
+			"duration": "252",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 20,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ DENTING",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_27.mp3",
+			"duration": "276",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 21,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ KAMU GATAL - GATAL BUKANKAH KAU SUDAH BERPUNYA",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_28.mp3",
+			"duration": "345",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 22,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ PECAH SERIBU",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_29.mp3",
+			"duration": "376",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 23,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ BILANG PA MAMA MANTU KITA SO SIAP",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_3.mp3",
+			"duration": "223",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 24,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ AKU TITIPKAN DIA LANJUTKAN PERJUANGANKU",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_30.mp3",
+			"duration": "382",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 25,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ ANGIN DATANG KASIH KABAR",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_31.mp3",
+			"duration": "318",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 26,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ DINDA JANGAN MARAH MARAH TAKUT NANTI LEKAS TUA",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_4.mp3",
+			"duration": "370",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 27,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ DURI DURI YANG KAU TANCAPKAN DI HATI INI",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_5.mp3",
+			"duration": "258",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 28,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ IN DA GHETTO CEPAK CEPAK JEDER",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_6.mp3",
+			"duration": "427",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 29,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ INILAH AKU RAJA MEXICO",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_7.mp3",
+			"duration": "306",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 30,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ MELEPAS LAJANG",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_8.mp3",
+			"duration": "265",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 31,
+			"name_category": "DJ Pecah Seribu Offline",
+			"title": "DJ ACA ACA NEHI NEHI",
+			"image": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Pecah_Seribu_Offline/DJ_Pecah_Seribu_9.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 32,
+			"name_category": "Pecah Seribu Online",
+			"title": "DJ Melepas Lajang",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_1.mp3",
+			"duration": "260",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 33,
+			"name_category": "Pecah Seribu Online",
+			"title": "DJ Cukup Kau disampingku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_10.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 34,
+			"name_category": "Pecah Seribu Online",
+			"title": "DJ Penantian",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_11.mp3",
+			"duration": "299",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 35,
+			"name_category": "Pecah Seribu Online",
+			"title": "DJ diGeboy Geboy muzair",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_12.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 36,
+			"name_category": "Pecah Seribu Online",
+			"title": "DJ I Love Mama Mantu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_13.mp3",
+			"duration": "207",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 37,
+			"name_category": "Pecah Seribu Online",
+			"title": "DJ SIA SIA BERJUANG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_14.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 38,
+			"name_category": "Pecah Seribu Online",
+			"title": "Aku Bukan Jodohnya",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_15.mp3",
+			"duration": "432",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 39,
+			"name_category": "Pecah Seribu Online",
+			"title": "DJ ANGIN DATANG KASIH KABAR",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_16.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 40,
+			"name_category": "Pecah Seribu Online",
+			"title": "DJ BABY DONT GO X TIPAT TIPAT",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_17.mp3",
+			"duration": "231",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 41,
+			"name_category": "Pecah Seribu Online",
+			"title": "DJ GANI GANI X HUJAN BADAI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_18.mp3",
+			"duration": "353",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 42,
+			"name_category": "Pecah Seribu Online",
+			"title": "Dj Hanya dia",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_19.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 43,
+			"name_category": "Pecah Seribu Online",
+			"title": "Dj merubah buih jadi permadani",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_2.mp3",
+			"duration": "387",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 44,
+			"name_category": "Pecah Seribu Online",
+			"title": "Dj akui sulit cari penggantimu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_20.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 45,
+			"name_category": "Pecah Seribu Online",
+			"title": "DJ MATI MATIAN AKU MENCINTAIMU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_21.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 46,
+			"name_category": "Pecah Seribu Online",
+			"title": "Terluka Tapi Tak Berdarah",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_22.mp3",
+			"duration": "314",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 47,
+			"name_category": "Pecah Seribu Online",
+			"title": "DJ Akankah Kau Merasakan Rasa Cintaku Ini",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_23.mp3",
+			"duration": "363",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 48,
+			"name_category": "Pecah Seribu Online",
+			"title": "DJ Aku memang jodohnya",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_24.mp3",
+			"duration": "290",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 49,
+			"name_category": "Pecah Seribu Online",
+			"title": "Dj Channa Mereya Remix",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_25.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 50,
+			"name_category": "Pecah Seribu Online",
+			"title": "Dj Cinta sampai mati",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_26.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 51,
+			"name_category": "Pecah Seribu Online",
+			"title": "DJ Dalam sepiku kaulah candaku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_27.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 52,
+			"name_category": "Pecah Seribu Online",
+			"title": "Dj PAPEPAP Soria Vadele Remix",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_28.mp3",
+			"duration": "309",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 53,
+			"name_category": "Pecah Seribu Online",
+			"title": "Dj pergilah engkau bersamanya",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_29.mp3",
+			"duration": "339",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 54,
+			"name_category": "Pecah Seribu Online",
+			"title": "Dj dalamo dalamo viral",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_3.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 55,
+			"name_category": "Pecah Seribu Online",
+			"title": "DJ SELALU TERSIMPAN ZIDAN",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_30.mp3",
+			"duration": "314",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 56,
+			"name_category": "Pecah Seribu Online",
+			"title": "DJ Hal Hebat",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_31.mp3",
+			"duration": "356",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 57,
+			"name_category": "Pecah Seribu Online",
+			"title": "Kutahan Rindu Bukan Ku Sengaja",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_32.mp3",
+			"duration": "336",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 58,
+			"name_category": "Pecah Seribu Online",
+			"title": "Dj lagi lagi ku tak bisa tidur",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_33.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 59,
+			"name_category": "Pecah Seribu Online",
+			"title": "Dj aca aca nehi nehi remix",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_4.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 60,
+			"name_category": "Pecah Seribu Online",
+			"title": "Dj aku kecapean cari uang",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_5.mp3",
+			"duration": "244",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 61,
+			"name_category": "Pecah Seribu Online",
+			"title": "Dj andai kita dulu tak berpisah",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_6.mp3",
+			"duration": "287",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 62,
+			"name_category": "Pecah Seribu Online",
+			"title": "Dj Berjuta Kumbang Merayu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_7.mp3",
+			"duration": "361",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 63,
+			"name_category": "Pecah Seribu Online",
+			"title": "Dj Pedihku saat merasa indah",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_8.mp3",
+			"duration": "292",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 64,
+			"name_category": "Pecah Seribu Online",
+			"title": "Dj Bukan Sekali Kamu Buat Begini",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Online/Pecah_Seribu_Online_9.mp3",
+			"duration": "284",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 65,
+			"name_category": "Pecah Seribu Tecno",
+			"title": "DJ DURI DURI YANG KAU TANCAPKAN DI HATI INI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/Pecah_Seribu_Tecno_1.mp3",
+			"duration": "369",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 66,
+			"name_category": "Pecah Seribu Tecno",
+			"title": "DJ AJARKAN AKU TERLUKA TAPI TAK BERDARAH",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/Pecah_Seribu_Tecno_10.mp3",
+			"duration": "346",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 67,
+			"name_category": "Pecah Seribu Tecno",
+			"title": "DJ ARIEF TAK SEDALAM INI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/Pecah_Seribu_Tecno_11.mp3",
+			"duration": "363",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 68,
+			"name_category": "Pecah Seribu Tecno",
+			"title": "DJ LUKA SEKERAT RASA YOLLANDA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/Pecah_Seribu_Tecno_12.mp3",
+			"duration": "359",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 69,
+			"name_category": "Pecah Seribu Tecno",
+			"title": "DJ PERGILAH ENGKAU BERSAMANYA DJ BILA NANTI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/Pecah_Seribu_Tecno_13.mp3",
+			"duration": "289",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 70,
+			"name_category": "Pecah Seribu Tecno",
+			"title": "DJ POK AME AME BELALANG KUPU KUPU JEDAG JEDUG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/Pecah_Seribu_Tecno_14.mp3",
+			"duration": "355",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 71,
+			"name_category": "Pecah Seribu Tecno",
+			"title": "DJ SELAMAT TINGGAL SELAMAT JALAN KAN KUKENANG SELALU DIRIMU SAYANG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/Pecah_Seribu_Tecno_15.mp3",
+			"duration": "392",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 72,
+			"name_category": "Pecah Seribu Tecno",
+			"title": "DJ 7 SAMUDRA GAMMA 1",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/Pecah_Seribu_Tecno_16.mp3",
+			"duration": "442",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 73,
+			"name_category": "Pecah Seribu Tecno",
+			"title": "DJ ARIEF TAK SEDALAM INI BR",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/Pecah_Seribu_Tecno_17.mp3",
+			"duration": "363",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 74,
+			"name_category": "Pecah Seribu Tecno",
+			"title": "DJ CINTAKU RENDY ANDIKA REMIX VIRAL",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/Pecah_Seribu_Tecno_18.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 75,
+			"name_category": "Pecah Seribu Tecno",
+			"title": "DJ DEAR DIARY KUINGIN CERITA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/Pecah_Seribu_Tecno_19.mp3",
+			"duration": "412",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 76,
+			"name_category": "Pecah Seribu Tecno",
+			"title": "DJ PECAH SERIBU REMIX VIRAL",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/Pecah_Seribu_Tecno_2.mp3",
+			"duration": "416",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 77,
+			"name_category": "Pecah Seribu Tecno",
+			"title": "DJ DENGARKANLAH DISEPANJANG MALAM AKU BERDOA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/Pecah_Seribu_Tecno_20.mp3",
+			"duration": "231",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 78,
+			"name_category": "Pecah Seribu Tecno",
+			"title": "DJ MELEPAS MASA LAJANG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/Pecah_Seribu_Tecno_3.mp3",
+			"duration": "582",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 79,
+			"name_category": "Pecah Seribu Tecno",
+			"title": "DJ Penantian Ini Teramatlah Panjang",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/Pecah_Seribu_Tecno_4.mp3",
+			"duration": "383",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 80,
+			"name_category": "Pecah Seribu Tecno",
+			"title": "DJ POK AMAI AMAI BELALANG KUPU KUPU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/Pecah_Seribu_Tecno_5.mp3",
+			"duration": "336",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 81,
+			"name_category": "Pecah Seribu Tecno",
+			"title": "DJ PURNAMA MERINDU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/Pecah_Seribu_Tecno_6.mp3",
+			"duration": "306",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 82,
+			"name_category": "Pecah Seribu Tecno",
+			"title": "DJ RIALDONI MEURINDU LON RINDU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/Pecah_Seribu_Tecno_7.mp3",
+			"duration": "380",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 83,
+			"name_category": "Pecah Seribu Tecno",
+			"title": "DJ SASAK SANTER LELAH LEK SIDE",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/Pecah_Seribu_Tecno_8.mp3",
+			"duration": "376",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 84,
+			"name_category": "Pecah Seribu Tecno",
+			"title": "DJ ACHA ACHA NEHI NEHI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Tecno/Pecah_Seribu_Tecno_9.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 85,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ NENEKKU PAHLAWANKU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_1.mp3",
+			"duration": "309",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 86,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ INILAH AKU RAJA MEXICO",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_10.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 87,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ Malam Ini Tangkis Dang",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_11.mp3",
+			"duration": "250",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 88,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ MENIMISU X AKON RIGHT NOW",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_12.mp3",
+			"duration": "329",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 89,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ TAHAN NI LUKA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_13.mp3",
+			"duration": "215",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 90,
+			"name_category": "Pecah Seribu Viral",
+			"title": "Dj lagi lagi ku tak bisa tidur",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_14.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 91,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ Gani Gani Hujan Badai Angin Ribut",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_15.mp3",
+			"duration": "247",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 92,
+			"name_category": "Pecah Seribu Viral",
+			"title": "Dj beautiful girl",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_16.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 93,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ DO YOU LIKE A TRUCK",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_17.mp3",
+			"duration": "242",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 94,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ TRUMPET NARCO",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_18.mp3",
+			"duration": "235",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 95,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ BABY DONT GO X TIPAT TIPAT",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_19.mp3",
+			"duration": "231",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 96,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ POK AME AME BELALANG KUPU KUPU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_2.mp3",
+			"duration": "311",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 97,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ I Love Mama Mantu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_20.mp3",
+			"duration": "207",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 98,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ TOXIC FRIENDS SLOW",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_21.mp3",
+			"duration": "180",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 99,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ CINTA SAMPAI MATI 2",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_22.mp3",
+			"duration": "351",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 100,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ Jawa Ngamen 5 Slow",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_23.mp3",
+			"duration": "196",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 101,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ MATI MATIAN AKU MENCINTAIMU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_24.mp3",
+			"duration": "230",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 102,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ MELEPAS MASA LAJANG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_25.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 103,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ Bila Nanti Remix",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_26.mp3",
+			"duration": "286",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 104,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ SELALU TERSIMPAN ZIDAN",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_27.mp3",
+			"duration": "314",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 105,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ SIA SIA KU BERJUANG SLOW",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_28.mp3",
+			"duration": "248",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 106,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ Ya Cuman Kamu",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_29.mp3",
+			"duration": "215",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 107,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ RIP LOVE FAOUZIA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_3.mp3",
+			"duration": "349",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 108,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ AKANKAH KAU MERASAKAN",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_30.mp3",
+			"duration": "237",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 109,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ PECAH SERIBU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_31.mp3",
+			"duration": "329",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 110,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ ANGEL BABY JEDAG JEDUG",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_32.mp3",
+			"duration": "263",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 111,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ BANG JONO X KKN DESA PENARI REMIX",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_33.mp3",
+			"duration": "362",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 112,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ CONTELO JERAWAT RINDU",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_34.mp3",
+			"duration": "339",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 113,
+			"name_category": "Pecah Seribu Viral",
+			"title": "Dj harga diriku - Wali Band",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_35.mp3",
+			"duration": "281",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 114,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ KU BERLAYAR DI LAUTAN TIDAK BERTEPIAN",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_36.mp3",
+			"duration": "350",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 115,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ SUDAH TAK CINTA",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_4.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 116,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ CINTA SAMPAI MATI",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_5.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 117,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ Dalam Sepiku Kaulah Candaku",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_6.mp3",
+			"duration": "253",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 118,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ DALAMO DALAMO",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_7.mp3",
+			"duration": "333",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 119,
+			"name_category": "Pecah Seribu Viral",
+			"title": "DJ DARI YANG MUDA X TUKERAN SEMVAQ X BEAUTIFUL GIRLS",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_8.mp3",
+			"duration": "399",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 120,
+			"name_category": "Pecah Seribu Viral",
+			"title": "Dj Ghost Jedag Jedug",
+			"image": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/tray.jpg",
+			"link_mp3": "https://labigsharim.me/LabigSharim/com.labiqsharim.djpecahseribuoffline/Pecah_Seribu_Viral/Pecah_Seribu_Viral_9.mp3",
+			"duration": "226",
+			"lyrics": "Tidak Ada Lirik"
+		}
+	]
+}
