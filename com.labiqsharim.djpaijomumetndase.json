@@ -9,7 +9,7 @@
 		"splash_ad_identifier": "identifier_1",
 		"inter_ad_identifier": "identifier_1",
 		"banner_ad_identifier": "identifier_2",
-		"mrec_ad_identifier": "identifier_3",
+		"mrec_ad_identifier": "identifier_2",
 
 		"interval_awal": 2,
 		"interval_iron": 5,
@@ -22,16 +22,16 @@
 		"minimum_time_iron": 60,
 		"minimum_time_fan": 60,
 		"minimum_time_unity": 60,
-		"minimum_time_admob": 61,
+		"minimum_time_admob": 121,
 		"minimum_time_max": 60,
-		"minimum_time_startapp": 30,
+		"minimum_time_startapp": 0,
 
 		"kemungkinan_iron": 0,
 		"kemungkinan_fan": 0,
 		"kemungkinan_unity": 0,
-		"kemungkinan_admob": 0,
+		"kemungkinan_admob": 100,
 		"kemungkinan_max": 0,
-		"kemungkinan_startapp": 30,
+		"kemungkinan_startapp": 10,
 
 		"iron_appkey": "-",
 
@@ -43,9 +43,9 @@
 		"unity_banner": "-",
 		"unity_inter": "-",
 
-		"admob_open": "-",
-		"admob_banner": "-",
-		"admob_inter": "-",
+		"admob_open": "ca-app-pub-1598318147841886/2618126499",
+		"admob_banner": "ca-app-pub-1598318147841886/1305044820",
+		"admob_inter": "ca-app-pub-1598318147841886/7678881486",
 
 		"max_banner": "-",
 		"max_mrec": "-",
