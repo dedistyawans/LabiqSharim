@@ -26,7 +26,7 @@
 		"minimum_time_iron": 60,
 		"minimum_time_fan": 60,
 		"minimum_time_unity": 60,
-		"minimum_time_admob": 120,
+		"minimum_time_admob": 121,
 		"minimum_time_max": 60,
 		"minimum_time_startapp": 0,
 
