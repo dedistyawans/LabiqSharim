@@ -23,15 +23,15 @@
 		"minimum_time_fan": 60,
 		"minimum_time_unity": 60,
 		"minimum_time_admob": 121,
-		"minimum_time_max": 60,
+		"minimum_time_max": 61,
 		"minimum_time_startapp": 30,
 
 		"kemungkinan_iron": 0,
 		"kemungkinan_fan": 0,
 		"kemungkinan_unity": 0,
 		"kemungkinan_admob": 100,
-		"kemungkinan_max": 0,
-		"kemungkinan_startapp": 10,
+		"kemungkinan_max": 30,
+		"kemungkinan_startapp": 1,
 
 		"iron_appkey": "-",
 
@@ -47,9 +47,9 @@
 		"admob_banner": "ca-app-pub-1598318147841886/1688188204",
 		"admob_inter": "ca-app-pub-1598318147841886/9375106531",
 
-		"max_banner": "-",
-		"max_mrec": "-",
-		"max_inter": "-",
+		"max_banner": "af38874e76d6326d",
+		"max_mrec": "96d67e1f1bef4f15",
+		"max_inter": "aab9d71756423c07",
 
 		"startapp_id": "205960563",
 
