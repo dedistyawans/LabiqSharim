@@ -30,7 +30,7 @@
 		"minimum_time_max": 61,
 		"minimum_time_startapp": 0,
 
-		"kemungkinan_vungle": 100000,
+		"kemungkinan_vungle": 5,
 		"kemungkinan_iron": 30,
 		"kemungkinan_fan": 0,
 		"kemungkinan_unity": 30,
