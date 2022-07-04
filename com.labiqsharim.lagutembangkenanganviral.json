@@ -27,7 +27,7 @@
 		"minimum_time_fan": 60,
 		"minimum_time_unity": 60,
 		"minimum_time_admob": 121,
-		"minimum_time_max": 60,
+		"minimum_time_max": 61,
 		"minimum_time_startapp": 0,
 
 		"kemungkinan_vungle": 0,
@@ -35,8 +35,8 @@
 		"kemungkinan_fan": 0,
 		"kemungkinan_unity": 0,
 		"kemungkinan_admob": 100,
-		"kemungkinan_max": 0,
-		"kemungkinan_startapp": 10,
+		"kemungkinan_max": 30,
+		"kemungkinan_startapp": 1,
 
 		"adcolony_app_id": "-",
 		"adcolony_banner": "-",
@@ -61,9 +61,9 @@
 		"admob_banner": "ca-app-pub-1598318147841886/2011605927",
 		"admob_inter": "ca-app-pub-1598318147841886/9698524256",
 
-		"max_banner": "-",
-		"max_mrec": "-",
-		"max_inter": "-",
+		"max_banner": "c95fe620d59aefb0",
+		"max_mrec": "4b8481087954cd60",
+		"max_inter": "a559b09f1334b495",
 
 		"startapp_id": "205960563",
 
