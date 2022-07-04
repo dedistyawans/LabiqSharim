@@ -22,9 +22,9 @@
 		"minimum_time_iron": 60,
 		"minimum_time_fan": 60,
 		"minimum_time_unity": 60,
-		"minimum_time_admob": 61,
-		"minimum_time_max": 60,
-		"minimum_time_startapp": 30,
+		"minimum_time_admob": 121,
+		"minimum_time_max": 61,
+		"minimum_time_startapp": 0,
 
 		"kemungkinan_iron": 0,
 		"kemungkinan_fan": 30,
