@@ -22,7 +22,7 @@
 		"minimum_time_iron": 60,
 		"minimum_time_fan": 60,
 		"minimum_time_unity": 60,
-		"minimum_time_admob": 121,
+		"minimum_time_admob": 600,
 		"minimum_time_max": 61,
 		"minimum_time_startapp": 30,
 
@@ -43,9 +43,9 @@
 		"unity_banner": "-",
 		"unity_inter": "-",
 
-		"admob_open": "ca-app-pub-1598318147841886/6940514882",
-		"admob_banner": "ca-app-pub-1598318147841886/1688188204",
-		"admob_inter": "ca-app-pub-1598318147841886/9375106531",
+		"admob_open": "ca-app-pub-3261537079314282/2398241438",
+		"admob_banner": "ca-app-pub-3261537079314282/7518690269",
+		"admob_inter": "ca-app-pub-3261537079314282/7602450742",
 
 		"max_banner": "af38874e76d6326d",
 		"max_mrec": "96d67e1f1bef4f15",
