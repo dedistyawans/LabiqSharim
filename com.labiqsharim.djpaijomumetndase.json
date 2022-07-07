@@ -22,15 +22,15 @@
 		"minimum_time_iron": 60,
 		"minimum_time_fan": 60,
 		"minimum_time_unity": 60,
-		"minimum_time_admob": 121,
+		"minimum_time_admob": 600,
 		"minimum_time_max": 61,
 		"minimum_time_startapp": 0,
 
 		"kemungkinan_iron": 0,
 		"kemungkinan_fan": 0,
 		"kemungkinan_unity": 0,
-		"kemungkinan_admob": 100,
-		"kemungkinan_max": 30,
+		"kemungkinan_admob": 1,
+		"kemungkinan_max": 1,
 		"kemungkinan_startapp": 1,
 
 		"iron_appkey": "-",
