@@ -30,7 +30,7 @@
 		"kemungkinan_fan": 0,
 		"kemungkinan_unity": 0,
 		"kemungkinan_admob": 100,
-		"kemungkinan_max": 30,
+		"kemungkinan_max": 1,
 		"kemungkinan_startapp": 1,
 
 		"iron_appkey": "-",
