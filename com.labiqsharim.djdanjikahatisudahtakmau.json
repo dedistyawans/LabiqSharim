@@ -31,7 +31,7 @@
 		"minimum_time_startapp": 0,
 
 		"kemungkinan_vungle": 0,
-		"kemungkinan_iron": 0,
+		"kemungkinan_iron": 10,
 		"kemungkinan_fan": 0,
 		"kemungkinan_unity": 0,
 		"kemungkinan_admob": 1,
@@ -47,7 +47,7 @@
 		"vungle_mrec": "-",
 		"vungle_inter": "-",
 
-		"iron_appkey": "-",
+		"iron_appkey": "159aa077d",
 
 		"fan_banner": "-",
 		"fan_mrec": "-",
