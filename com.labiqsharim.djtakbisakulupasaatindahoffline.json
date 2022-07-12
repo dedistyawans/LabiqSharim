@@ -30,7 +30,7 @@
 		"minimum_time_max": 61,
 		"minimum_time_startapp": 0,
 
-		"kemungkinan_vungle": 0,
+		"kemungkinan_vungle": 10,
 		"kemungkinan_iron": 0,
 		"kemungkinan_fan": 0,
 		"kemungkinan_unity": 0,
@@ -47,7 +47,7 @@
 		"vungle_mrec": "-",
 		"vungle_inter": "-",
 
-		"iron_appkey": "-",
+		"iron_appkey": "159b82ff5",
 
 		"fan_banner": "-",
 		"fan_mrec": "-",
