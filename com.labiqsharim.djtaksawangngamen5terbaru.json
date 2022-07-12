@@ -26,14 +26,14 @@
 		"minimum_time_max": 61,
 		"minimum_time_startapp": 0,
 
-		"kemungkinan_iron": 0,
-		"kemungkinan_fan": 30,
+		"kemungkinan_iron": 10,
+		"kemungkinan_fan": 1,
 		"kemungkinan_unity": 0,
 		"kemungkinan_admob": 1,
 		"kemungkinan_max": 1,
 		"kemungkinan_startapp": 1,
 
-		"iron_appkey": "ironAppKey",
+		"iron_appkey": "159b8a305",
 
 		"fan_banner": "1063993554244665_1064002727577081",
 		"fan_mrec": "1063993554244665_1069375930373094",
