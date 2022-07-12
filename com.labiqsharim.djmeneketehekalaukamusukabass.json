@@ -26,14 +26,14 @@
 		"minimum_time_max": 61,
 		"minimum_time_startapp": 30,
 
-		"kemungkinan_iron": 0,
+		"kemungkinan_iron": 10,
 		"kemungkinan_fan": 0,
 		"kemungkinan_unity": 0,
-		"kemungkinan_admob": 100,
+		"kemungkinan_admob": 10,
 		"kemungkinan_max": 1,
 		"kemungkinan_startapp": 1,
 
-		"iron_appkey": "-",
+		"iron_appkey": "159b7104d",
 
 		"fan_banner": "-",
 		"fan_mrec": "-",
