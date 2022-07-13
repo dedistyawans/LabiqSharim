@@ -33,7 +33,7 @@
 		"kemungkinan_vungle": 0,
 		"kemungkinan_iron": 10,
 		"kemungkinan_fan": 0,
-		"kemungkinan_unity": 0,
+		"kemungkinan_unity": 10,
 		"kemungkinan_admob": 1,
 		"kemungkinan_max": 1,
 		"kemungkinan_startapp": 1,
@@ -53,9 +53,9 @@
 		"fan_mrec": "-",
 		"fan_inter": "-",
 
-		"unity_game_id": "-",
-		"unity_banner": "-",
-		"unity_inter": "-",
+		"unity_game_id": "4838213",
+		"unity_banner": "Banner_Android",
+		"unity_inter": "Interstitial_Android",
 
 		"admob_open": "ca-app-pub-1598318147841886/9113567877",
 		"admob_banner": "ca-app-pub-1598318147841886/3699273876",
