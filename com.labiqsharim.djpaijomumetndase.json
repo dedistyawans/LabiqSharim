@@ -1,7 +1,7 @@
 {
 	"ads":
 	{
-		"splash_ad": "auto",
+		"splash_ad": "iron",
 		"banner_ad": "auto",
 		"mrec_ad": "auto",
 		"inter_ad": "auto",
@@ -26,12 +26,12 @@
 		"minimum_time_max": 61,
 		"minimum_time_startapp": 0,
 
-		"kemungkinan_iron": 10,
+		"kemungkinan_iron": 1,
 		"kemungkinan_fan": 0,
 		"kemungkinan_unity": 0,
-		"kemungkinan_admob": 1,
-		"kemungkinan_max": 1,
-		"kemungkinan_startapp": 1,
+		"kemungkinan_admob": 2,
+		"kemungkinan_max": 10,
+		"kemungkinan_startapp": 2,
 
 		"iron_appkey": "159b749d5",
 
