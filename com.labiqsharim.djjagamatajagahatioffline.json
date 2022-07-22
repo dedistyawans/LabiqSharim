@@ -3,7 +3,7 @@
 	{
 		"live_version_code": -1,
 
-		"splash_ad": "auto",
+		"splash_ad": "iron",
 		"banner_ad": "auto",
 		"mrec_ad": "auto",
 		"inter_ad": "auto",
@@ -34,8 +34,8 @@
 		"kemungkinan_iron": 0,
 		"kemungkinan_fan": 0,
 		"kemungkinan_unity": 0,
-		"kemungkinan_admob": 1,
-		"kemungkinan_max": 1,
+		"kemungkinan_admob": 5,
+		"kemungkinan_max": 10,
 		"kemungkinan_startapp": 1,
 
 		"adcolony_app_id": "-",
