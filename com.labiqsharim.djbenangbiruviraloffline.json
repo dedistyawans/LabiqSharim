@@ -3,15 +3,15 @@
 	{
 		"live_version_code": -1,
 
-		"splash_ad": "iron",
+		"splash_ad": "auto",
 		"banner_ad": "auto",
 		"mrec_ad": "auto",
 		"inter_ad": "auto",
 
 		"splash_ad_identifier": "identifier_1",
-		"inter_ad_identifier": "identifier_1",
-		"banner_ad_identifier": "identifier_2",
-		"mrec_ad_identifier": "identifier_2",
+		"inter_ad_identifier": "identifier_2",
+		"banner_ad_identifier": "identifier_3",
+		"mrec_ad_identifier": "identifier_4",
 
 		"interval_awal": 2,
 		"interval_vungle": 5,
@@ -26,17 +26,17 @@
 		"minimum_time_iron": 61,
 		"minimum_time_fan": 60,
 		"minimum_time_unity": 61,
-		"minimum_time_admob": 600,
+		"minimum_time_admob": 301,
 		"minimum_time_max": 61,
 		"minimum_time_startapp": 0,
 
-		"kemungkinan_vungle": 10,
+		"kemungkinan_vungle": 1,
 		"kemungkinan_iron": 1,
 		"kemungkinan_fan": 0,
-		"kemungkinan_unity": 10,
-		"kemungkinan_admob": 1,
+		"kemungkinan_unity": 1,
+		"kemungkinan_admob": 100,
 		"kemungkinan_max": 10,
-		"kemungkinan_startapp": 2,
+		"kemungkinan_startapp": 1,
 
 		"adcolony_app_id": "-",
 		"adcolony_banner": "-",
@@ -57,9 +57,9 @@
 		"unity_banner": "Banner_Android",
 		"unity_inter": "Interstitial_Android",
 
-		"admob_open": "ca-app-pub-1598318147841886/5367578762",
-		"admob_banner": "ca-app-pub-1598318147841886/4054497095",
-		"admob_inter": "ca-app-pub-1598318147841886/8726555063",
+		"admob_open": "ca-app-pub-3261537079314282/1603134127",
+		"admob_banner": "ca-app-pub-3261537079314282/2456232551",
+		"admob_inter": "ca-app-pub-3261537079314282/4037725771",
 
 		"max_banner": "355c78dd6235b0a1",
 		"max_mrec": "69e85ab3b6fdb865",
