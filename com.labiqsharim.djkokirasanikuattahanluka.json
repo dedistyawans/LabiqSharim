@@ -3,15 +3,15 @@
 	{
 		"live_version_code": -1,
 
-		"splash_ad": "iron",
+		"splash_ad": "auto",
 		"banner_ad": "auto",
 		"mrec_ad": "auto",
 		"inter_ad": "auto",
 
 		"splash_ad_identifier": "identifier_1",
-		"inter_ad_identifier": "identifier_1",
-		"banner_ad_identifier": "identifier_2",
-		"mrec_ad_identifier": "identifier_2",
+		"inter_ad_identifier": "identifier_2",
+		"banner_ad_identifier": "identifier_3",
+		"mrec_ad_identifier": "identifier_4",
 
 		"interval_awal": 2,
 		"interval_vungle": 5,
@@ -26,7 +26,7 @@
 		"minimum_time_iron": 60,
 		"minimum_time_fan": 60,
 		"minimum_time_unity": 60,
-		"minimum_time_admob": 600,
+		"minimum_time_admob": 300,
 		"minimum_time_max": 61,
 		"minimum_time_startapp": 0,
 
@@ -34,9 +34,9 @@
 		"kemungkinan_iron": 1,
 		"kemungkinan_fan": 0,
 		"kemungkinan_unity": 0,
-		"kemungkinan_admob": 2,
+		"kemungkinan_admob": 100,
 		"kemungkinan_max": 10,
-		"kemungkinan_startapp": 2,
+		"kemungkinan_startapp": 1,
 
 		"adcolony_app_id": "-",
 		"adcolony_banner": "-",
@@ -57,9 +57,9 @@
 		"unity_banner": "-",
 		"unity_inter": "-",
 
-		"admob_open": "ca-app-pub-1598318147841886/3894429582",
-		"admob_banner": "ca-app-pub-1598318147841886/8955184572",
-		"admob_inter": "ca-app-pub-1598318147841886/5015939566",
+		"admob_open": "ca-app-pub-3261537079314282/6863485075",
+		"admob_banner": "ca-app-pub-3261537079314282/8666417686",
+		"admob_inter": "ca-app-pub-3261537079314282/2157953307",
 
 		"max_banner": "5c13642cc8128108",
 		"max_mrec": "8bdeb5dac7287354",
