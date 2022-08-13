@@ -3,15 +3,15 @@
 	{
 		"live_version_code": -1,
 
-		"splash_ad": "iron",
+		"splash_ad": "auto",
 		"banner_ad": "auto",
 		"mrec_ad": "auto",
 		"inter_ad": "auto",
 
 		"splash_ad_identifier": "identifier_1",
-		"inter_ad_identifier": "identifier_1",
-		"banner_ad_identifier": "identifier_2",
-		"mrec_ad_identifier": "identifier_2",
+		"inter_ad_identifier": "identifier_2",
+		"banner_ad_identifier": "identifier_3",
+		"mrec_ad_identifier": "identifier_4",
 
 		"interval_awal": 2,
 		"interval_vungle": 5,
@@ -26,7 +26,7 @@
 		"minimum_time_iron": 60,
 		"minimum_time_fan": 60,
 		"minimum_time_unity": 60,
-		"minimum_time_admob": 600,
+		"minimum_time_admob": 301,
 		"minimum_time_max": 61,
 		"minimum_time_startapp": 0,
 
@@ -34,7 +34,7 @@
 		"kemungkinan_iron": 1,
 		"kemungkinan_fan": 0,
 		"kemungkinan_unity": 0,
-		"kemungkinan_admob": 2,
+		"kemungkinan_admob": 1000,
 		"kemungkinan_max": 10,
 		"kemungkinan_startapp": 2,
 
