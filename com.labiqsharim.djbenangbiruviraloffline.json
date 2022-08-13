@@ -34,7 +34,7 @@
 		"kemungkinan_iron": 1,
 		"kemungkinan_fan": 0,
 		"kemungkinan_unity": 1,
-		"kemungkinan_admob": 100,
+		"kemungkinan_admob": 1000,
 		"kemungkinan_max": 10,
 		"kemungkinan_startapp": 1,
 
