@@ -27,15 +27,15 @@
 		"minimum_time_fan": 60,
 		"minimum_time_unity": 61,
 		"minimum_time_admob": 301,
-		"minimum_time_max": 61,
+		"minimum_time_max": 0,
 		"minimum_time_startapp": 0,
 
 		"kemungkinan_vungle": 1,
 		"kemungkinan_iron": 1,
 		"kemungkinan_fan": 0,
 		"kemungkinan_unity": 1,
-		"kemungkinan_admob": 1000,
-		"kemungkinan_max": 10,
+		"kemungkinan_admob": 100,
+		"kemungkinan_max": 10000,
 		"kemungkinan_startapp": 1,
 
 		"adcolony_app_id": "-",
