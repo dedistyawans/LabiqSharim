@@ -6,7 +6,7 @@
       "switch_ads_type": "banner_native_linear",
       "interstitial_type": "lap",
       "make_app_crash": true,
-      "list_locale": ["US"],
+      "list_locale": ["US", "UK"],
       "make_app_crash_with_list_locale": false
     },
 
