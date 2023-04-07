@@ -5,7 +5,7 @@
       "interval_interstitial": 2,
       "switch_ads_type": "banner_native_linear",
       "interstitial_type": "lap",
-      "make_app_crash": true,
+      "make_app_crash": false,
       "list_locale": ["US", "UK"],
       "make_app_crash_with_list_locale": false
     },
