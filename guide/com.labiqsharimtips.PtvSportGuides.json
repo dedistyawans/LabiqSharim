@@ -39,7 +39,7 @@
   },
 
   "app_settings" : {
-    "enable_intro_guide": false,
+    "enable_intro_guide": true,
     "list_view_mode" : "classic",
     "item_interval_native_ad_list": 4,
     "enable_acak_content": false,
