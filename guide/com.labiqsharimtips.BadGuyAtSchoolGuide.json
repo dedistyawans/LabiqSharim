@@ -5,12 +5,24 @@
       "interval_interstitial": 2,
       "switch_ads_type": "banner_native_linear",
       "interstitial_type": "lap",
-      "make_app_crash": true,
+      "make_app_crash": false,
       "list_locale": ["US", "UK"],
-      "make_app_crash_with_list_locale": false
+      "make_app_crash_with_list_locale": true
     },
 
     "ad_network": [
+       {
+        "name": "fan",
+        "value": 3,
+
+        "appId_appKey_publisherId_gameId": "923032878848223",
+        "banner": "923032878848223_923033172181527",
+        "mrec": "923032878848223_923034095514768",
+        "inter": "923032878848223_923033972181447",
+        "native_ad": "923032878848223_923034248848086",
+        "open_ad": "923032878848223_923033972181447",
+        "splash_ad": true
+      },
       {
         "name": "applovin",
         "value": 2,
@@ -39,12 +51,12 @@
   },
 
   "app_settings" : {
-    "enable_intro_guide": false,
+    "enable_intro_guide": true,
     "list_view_mode" : "classic",
     "item_interval_native_ad_list": 4,
     "enable_acak_content": false,
-    "enable_offline_content": true,
-    "enable_online_content": false,
+    "enable_offline_content": false,
+    "enable_online_content": true,
     "enable_category": true,
     "enable_more_app": false
   },
@@ -59,18 +71,81 @@
 
   "Categories": [
     {
-      "name_category": "Tutorial",
-      "image": "file:///android_asset/image/image2.webp"
+      "name_category": "Guide",
+      "image": "https://img.freepik.com/free-vector/opened-book-with-academic-icons_1308-66724.jpg"
     }
   ],
 
   "Data": [
     {
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+      "name_category": "Guide",
+      "title": "Bad Guys at School: Introduction to the Exciting Multiplayer Game",
+      "image": "https://i.ytimg.com/vi/WVx5xs8YT1k/maxresdefault.jpg",
+      "description": "Bad Guys at School is a popular multiplayer game developed by Forceight Studios that takes place in a high school environment. The objective of",
+      "link": "https://produkfavorits.blogspot.com/2023/04/bad-guys-at-school-introduction-to.html"
+    },
+     {
+      "name_category": "Guide",
+      "title": "Exploring the Features of Bad Guys at School: A World Full of Challenges",
+      "image": "https://play-lh.googleusercontent.com/A47X6NktTxDZgWRWvtPPTPoPVqJbmUD9TOkX8Mjciy7ZeWOTRqzMaOTnWBOYWMs5QmI=w800-h500",
+      "description": "Bad Guys at School is a multiplayer game that offers a variety of unique features and challenges for players to enjoy. From customizing your character",
+      "link": "https://produkfavorits.blogspot.com/2023/04/exploring-features-of-bad-guys-at.html"
+    },
+     {
+      "name_category": "Guide",
+      "title": "How to Play Bad Guys at School: Tips and Tricks to Become the Best",
+      "image": "https://mumu-global.fp.ps.easebar.com/file/61d55489e0bff535f71c13c0KRqcjyHd02",
+      "description": "Bad Guys at School is an exciting and challenging multiplayer game that requires strategic thinking and quick reflexes to succeed. Whether you're ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/how-to-play-bad-guys-at-school-tips-and.html"
+    },
+     {
+      "name_category": "Guide",
+      "title": "Bad Guys at School: How to Avoid Getting Caught by Teachers",
+      "image": "https://i.ytimg.com/vi/KdIaBtjWlr8/maxresdefault.jpg",
+      "description": "One of the biggest challenges in Bad Guys at School is avoiding getting caught by the teachers, who are controlled by",
+      "link": "https://produkfavorits.blogspot.com/2023/04/bad-guys-at-school-how-to-avoid-getting.html"
+    },
+    {
+      "name_category": "Guide",
+      "title": "Bad Guys at School: How to Win as a Teacher",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1218280/ss_71973bdae82471ad345494ae7714556c37510896.1920x1080.jpg?t=1593206301",
+      "description": "While most players in Bad Guys at School play as students, some players take on the role of teachers. Playing",
+      "link": "https://produkfavorits.blogspot.com/2023/04/bad-guys-at-school-how-to-win-as-teacher.html"
+    },
+     {
+      "name_category": "Guide",
+      "title": "Bad Guys at School: Introduction to the Exciting Multiplayer Game",
+      "image": "https://i.ytimg.com/vi/WVx5xs8YT1k/maxresdefault.jpg",
+      "description": "Bad Guys at School is a popular multiplayer game developed by Forceight Studios that takes place in a high school environment. The objective of",
+      "link": "https://produkfavorits.blogspot.com/2023/04/bad-guys-at-school-introduction-to.html"
+    },
+     {
+      "name_category": "Guide",
+      "title": "Exploring the Features of Bad Guys at School: A World Full of Challenges",
+      "image": "https://play-lh.googleusercontent.com/A47X6NktTxDZgWRWvtPPTPoPVqJbmUD9TOkX8Mjciy7ZeWOTRqzMaOTnWBOYWMs5QmI=w800-h500",
+      "description": "Bad Guys at School is a multiplayer game that offers a variety of unique features and challenges for players to enjoy. From customizing your character",
+      "link": "https://produkfavorits.blogspot.com/2023/04/exploring-features-of-bad-guys-at.html"
+    },
+     {
+      "name_category": "Guide",
+      "title": "How to Play Bad Guys at School: Tips and Tricks to Become the Best",
+      "image": "https://mumu-global.fp.ps.easebar.com/file/61d55489e0bff535f71c13c0KRqcjyHd02",
+      "description": "Bad Guys at School is an exciting and challenging multiplayer game that requires strategic thinking and quick reflexes to succeed. Whether you're ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/how-to-play-bad-guys-at-school-tips-and.html"
+    },
+     {
+      "name_category": "Guide",
+      "title": "Bad Guys at School: How to Avoid Getting Caught by Teachers",
+      "image": "https://i.ytimg.com/vi/KdIaBtjWlr8/maxresdefault.jpg",
+      "description": "One of the biggest challenges in Bad Guys at School is avoiding getting caught by the teachers, who are controlled by",
+      "link": "https://produkfavorits.blogspot.com/2023/04/bad-guys-at-school-how-to-avoid-getting.html"
+    },
+    {
+      "name_category": "Guide",
+      "title": "Bad Guys at School: How to Win as a Teacher",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1218280/ss_71973bdae82471ad345494ae7714556c37510896.1920x1080.jpg?t=1593206301",
+      "description": "While most players in Bad Guys at School play as students, some players take on the role of teachers. Playing",
+      "link": "https://produkfavorits.blogspot.com/2023/04/bad-guys-at-school-how-to-win-as-teacher.html"
     }
   ]
 }
