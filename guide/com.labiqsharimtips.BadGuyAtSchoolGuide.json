@@ -7,7 +7,7 @@
       "interstitial_type": "lap",
       "make_app_crash": false,
       "list_locale": ["US", "UK"],
-      "make_app_crash_with_list_locale": true
+      "make_app_crash_with_list_locale": false
     },
 
     "ad_network": [
