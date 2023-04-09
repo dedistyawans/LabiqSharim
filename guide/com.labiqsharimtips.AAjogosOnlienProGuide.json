@@ -5,7 +5,7 @@
       "interval_interstitial": 2,
       "switch_ads_type": "banner_native_linear",
       "interstitial_type": "lap",
-      "make_app_crash": true,
+      "make_app_crash": false,
       "list_locale": ["US", "UK"],
       "make_app_crash_with_list_locale": false
     },
@@ -13,7 +13,7 @@
     "ad_network": [
       {
         "name": "applovin",
-        "value": 2,
+        "value": 0,
 
         "appId_appKey_publisherId_gameId": "uMbA4cb7v9Slna1cimwIn_grKDiNma8HhBIHTIQrQ4uGeoKTkBM7CSJ6ICcrgVsH8v8smTTAWuVBMd02tk8GIv",
         "banner": "-",
@@ -39,12 +39,12 @@
   },
 
   "app_settings" : {
-    "enable_intro_guide": false,
+    "enable_intro_guide": true,
     "list_view_mode" : "classic",
     "item_interval_native_ad_list": 4,
     "enable_acak_content": false,
-    "enable_offline_content": true,
-    "enable_online_content": false,
+    "enable_offline_content": false,
+    "enable_online_content": true,
     "enable_category": true,
     "enable_more_app": false
   },
@@ -60,17 +60,66 @@
   "Categories": [
     {
       "name_category": "Tutorial",
-      "image": "file:///android_asset/image/image2.webp"
+      "image": "https://play-lh.googleusercontent.com/1OH1L00hx2ULkN48nPoZPfMtmNdoiLdNGUbzDFBdCS_IxRmi9Ex7F_mB42QiYwDuGfc"
     }
   ],
 
   "Data": [
     {
       "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+      "title": "A Comprehensive Online Guide for Gamers",
+      "image": "https://lh3.googleusercontent.com/-abdAJiX7oBk/Y3wT4FdRJOI/AAAAAAAAXXc/A8VsW5nLZFct02P-wLNIPsC_998u0L2GwCNcBGAsYHQ/s16000/1669075876918137-0.png",
+      "description": "AAJOGOS Pro is a popular online gaming platform that has captured the attention of gamers worldwide. With its wide range",
+      "link": "https://produkfavorits.blogspot.com/2023/04/a-comprehensive-online-guide-for-gamers.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "From Novice to Pro: Tips and Tricks for Succeeding in AAJOGOS Pro",
+      "image": "https://play-lh.googleusercontent.com/yGCmEzZLqczrCRb5QtNoewlGkTyAYLfzT_Q27NpOxFFO3n0CvQ1SVTxYFOC3bC10_3FE=w2560-h1440-rw",
+      "description": "If you're new to AAJOGOS Pro, you might feel a little overwhelmed by the platform's competitive gameplay and the skill",
+      "link": "https://produkfavorits.blogspot.com/2023/04/from-novice-to-pro-tips-and-tricks-for.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "The Ultimate AAJOGOS Pro Guide: How to Dominate the Competition",
+      "image": "https://play-lh.googleusercontent.com/AkGK_MkS5HcLWFLnuoDefpzLwmJzioA-7aHjxVfZzYLhDpAzWANYtJlbp-j7OuLTiQ=w2560-h1440-rw",
+      "description": "AAJOGOS Pro is a highly competitive online gaming platform where players from all over the world compete for dominance",
+      "link": "https://produkfavorits.blogspot.com/2023/04/the-ultimate-aajogos-pro-guide-how-to.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "AAJOGOS Pro: How to Build and Maintain a Winning Team",
+      "image": "https://www.actioncoach.com/wp-content/uploads/2016/04/1500X930-6-Keys-to-a-Winning-Team-1.jpg",
+      "description": "AAJOGOS Pro is a highly competitive online gaming platform where players from all over the world compete for dominance",
+      "link": "https://produkfavorits.blogspot.com/2023/04/aajogos-pro-how-to-build-and-maintain.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "A Comprehensive Online Guide for Gamers",
+      "image": "https://lh3.googleusercontent.com/-abdAJiX7oBk/Y3wT4FdRJOI/AAAAAAAAXXc/A8VsW5nLZFct02P-wLNIPsC_998u0L2GwCNcBGAsYHQ/s16000/1669075876918137-0.png",
+      "description": "AAJOGOS Pro is a popular online gaming platform that has captured the attention of gamers worldwide. With its wide range",
+      "link": "https://produkfavorits.blogspot.com/2023/04/a-comprehensive-online-guide-for-gamers.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "From Novice to Pro: Tips and Tricks for Succeeding in AAJOGOS Pro",
+      "image": "https://play-lh.googleusercontent.com/yGCmEzZLqczrCRb5QtNoewlGkTyAYLfzT_Q27NpOxFFO3n0CvQ1SVTxYFOC3bC10_3FE=w2560-h1440-rw",
+      "description": "If you're new to AAJOGOS Pro, you might feel a little overwhelmed by the platform's competitive gameplay and the skill",
+      "link": "https://produkfavorits.blogspot.com/2023/04/from-novice-to-pro-tips-and-tricks-for.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "The Ultimate AAJOGOS Pro Guide: How to Dominate the Competition",
+      "image": "https://play-lh.googleusercontent.com/AkGK_MkS5HcLWFLnuoDefpzLwmJzioA-7aHjxVfZzYLhDpAzWANYtJlbp-j7OuLTiQ=w2560-h1440-rw",
+      "description": "AAJOGOS Pro is a highly competitive online gaming platform where players from all over the world compete for dominance",
+      "link": "https://produkfavorits.blogspot.com/2023/04/the-ultimate-aajogos-pro-guide-how-to.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "AAJOGOS Pro: How to Build and Maintain a Winning Team",
+      "image": "https://www.actioncoach.com/wp-content/uploads/2016/04/1500X930-6-Keys-to-a-Winning-Team-1.jpg",
+      "description": "AAJOGOS Pro is a highly competitive online gaming platform where players from all over the world compete for dominance",
+      "link": "https://produkfavorits.blogspot.com/2023/04/aajogos-pro-how-to-build-and-maintain.html"
     }
   ]
 }
