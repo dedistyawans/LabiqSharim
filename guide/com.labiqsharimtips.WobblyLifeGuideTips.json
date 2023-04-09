@@ -5,7 +5,7 @@
       "interval_interstitial": 2,
       "switch_ads_type": "banner_native_linear",
       "interstitial_type": "lap",
-      "make_app_crash": true,
+      "make_app_crash": false,
       "list_locale": ["US", "UK"],
       "make_app_crash_with_list_locale": false
     },
@@ -39,12 +39,12 @@
   },
 
   "app_settings" : {
-    "enable_intro_guide": false,
+    "enable_intro_guide": true,
     "list_view_mode" : "classic",
     "item_interval_native_ad_list": 4,
     "enable_acak_content": false,
-    "enable_offline_content": true,
-    "enable_online_content": false,
+    "enable_offline_content": false,
+    "enable_online_content": true,
     "enable_category": true,
     "enable_more_app": false
   },
@@ -60,17 +60,66 @@
   "Categories": [
     {
       "name_category": "Tutorial",
-      "image": "file:///android_asset/image/image2.webp"
+      "image": "https://previews.123rf.com/images/dirkercken/dirkercken1405/dirkercken140500615/28430301-tutorial-icon-learn-online-video-lesson-or-class-website-education-button.jpg"
     }
   ],
 
   "Data": [
     {
       "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+      "title": "The Ultimate Wobbly Life Guide: Tips and Tricks for Beginners",
+      "image": "https://i.ytimg.com/vi/xDHZYiX11EQ/maxresdefault.jpg",
+      "description": "Are you new to the world of Wobbly Life and looking for some guidance on how to get started? Look no",
+      "link": "https://produkfavorits.blogspot.com/2023/04/the-ultimate-wobbly-life-guide-tips-and.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "How to Survive and Thrive in Wobbly Life: A Comprehensive Guide",
+      "image": "https://i.ytimg.com/vi/JoEzeVtQdAo/maxresdefault.jpg",
+      "description": "Wobbly Life can be a challenging game, but with the right strategies and tips, you",
+      "link": "https://produkfavorits.blogspot.com/2023/04/how-to-survive-and-thrive-in-wobbly.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "Mastering Wobbly Life: Expert Tips and Strategies for Advanced Players",
+      "image": "https://play-lh.googleusercontent.com/3tw952nZlP9C882T9YbxJfCOjRgsjBFfqtVPLUCqF035TOCIfPp66GFtowbirxR0NPk",
+      "description": "If you're an advanced player looking to take your skills to the next level in Wobbly Life, these expert tips and strategies are for you.",
+      "link": "https://produkfavorits.blogspot.com/2023/04/mastering-wobbly-life-expert-tips-and.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "The Ultimate Wobbly Life Building Guide: Tips and Tricks for Creative Builders",
+      "image": "https://i.ytimg.com/vi/llah8dhShPo/hqdefault.jpg",
+      "description": "If you love building and creating in Wobbly Life, this ultimate guide is for you. Here are some tips and tricks",
+      "link": "https://produkfavorits.blogspot.com/2023/04/the-ultimate-wobbly-life-building-guide.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "The Ultimate Wobbly Life Guide: Tips and Tricks for Beginners",
+      "image": "https://i.ytimg.com/vi/xDHZYiX11EQ/maxresdefault.jpg",
+      "description": "Are you new to the world of Wobbly Life and looking for some guidance on how to get started? Look no",
+      "link": "https://produkfavorits.blogspot.com/2023/04/the-ultimate-wobbly-life-guide-tips-and.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "How to Survive and Thrive in Wobbly Life: A Comprehensive Guide",
+      "image": "https://i.ytimg.com/vi/JoEzeVtQdAo/maxresdefault.jpg",
+      "description": "Wobbly Life can be a challenging game, but with the right strategies and tips, you",
+      "link": "https://produkfavorits.blogspot.com/2023/04/how-to-survive-and-thrive-in-wobbly.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "Mastering Wobbly Life: Expert Tips and Strategies for Advanced Players",
+      "image": "https://play-lh.googleusercontent.com/3tw952nZlP9C882T9YbxJfCOjRgsjBFfqtVPLUCqF035TOCIfPp66GFtowbirxR0NPk",
+      "description": "If you're an advanced player looking to take your skills to the next level in Wobbly Life, these expert tips and strategies are for you.",
+      "link": "https://produkfavorits.blogspot.com/2023/04/mastering-wobbly-life-expert-tips-and.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "The Ultimate Wobbly Life Building Guide: Tips and Tricks for Creative Builders",
+      "image": "https://i.ytimg.com/vi/llah8dhShPo/hqdefault.jpg",
+      "description": "If you love building and creating in Wobbly Life, this ultimate guide is for you. Here are some tips and tricks",
+      "link": "https://produkfavorits.blogspot.com/2023/04/the-ultimate-wobbly-life-building-guide.html"
     }
   ]
 }
