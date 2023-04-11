@@ -5,15 +5,16 @@
       "interval_interstitial": 2,
       "switch_ads_type": "banner_native_linear",
       "interstitial_type": "lap",
-      "make_app_crash": true,
+      "make_app_crash": false,
       "list_locale": ["US", "UK"],
-      "make_app_crash_with_list_locale": false
+      "make_app_crash_with_list_locale": false,
+       "ad_network_order": "percent_order"
     },
 
     "ad_network": [
       {
         "name": "applovin",
-        "value": 2,
+        "value": 1,
 
         "appId_appKey_publisherId_gameId": "uMbA4cb7v9Slna1cimwIn_grKDiNma8HhBIHTIQrQ4uGeoKTkBM7CSJ6ICcrgVsH8v8smTTAWuVBMd02tk8GIv",
         "banner": "-",
@@ -39,12 +40,12 @@
   },
 
   "app_settings" : {
-    "enable_intro_guide": false,
+    "enable_intro_guide": true,
     "list_view_mode" : "classic",
     "item_interval_native_ad_list": 4,
     "enable_acak_content": false,
-    "enable_offline_content": true,
-    "enable_online_content": false,
+    "enable_offline_content": false,
+    "enable_online_content": true,
     "enable_category": true,
     "enable_more_app": false
   },
@@ -60,17 +61,66 @@
   "Categories": [
     {
       "name_category": "Tutorial",
-      "image": "file:///android_asset/image/image2.webp"
+      "image": "https://apknuget.net/wp-content/uploads/2022/12/Football-Rocker-Pro-Apkn.webp"
     }
   ],
 
   "Data": [
     {
       "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+      "title": " Football Rocker Pro Guide: Mastering the Basics of Football Juggling",
+      "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/a6/7d/5f/a67d5f01-28fb-864a-c1d3-b7b15e099b61/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg",
+      "description": "Football juggling is a skill that requires a lot of practice and dedication. However, with the ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/football-rocker-pro-guide-mastering.html"
+    },
+    {
+      "name_category": "Tutorial",
+      "title": "The Top 5 Football Tricks to Learn with Football Rocker Pro Guide",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx0fCsYbC0goCSggj_fcOOwSUiAL0SN_1iOA&usqp=CAU",
+      "description": "The Football Rocker Pro Guide is a valuable tool for anyone looking to improve their football ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/the-top-5-football-tricks-to-learn-with.html"
+    },
+    {
+      "name_category": "Tutorial",
+      "title": "How Football Rocker Pro Guide Can Help You Improve Your Shooting Accuracy",
+      "image": "https://imag.malavida.com/mvimgbig/download-fs/pro-11-28478-7.jpg",
+      "description": "Football Rocker Pro Guide is an innovative app designed to help football enthusiasts ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/how-football-rocker-pro-guide-can-help.html"
+    },
+      {
+      "name_category": "Tutorial",
+      "title": "HHow Football Rocker Pro Guide Can Help You Master Your Dribbling Skills",
+      "image": "https://articles-img.sftcdn.net/f_auto,t_article_cover_m/auto-mapping-folder/sites/3/2023/03/kings-league-jornada-3-1-1024x57-1.jpg",
+      "description": "Dribbling is a crucial skill in football, and mastering it can give you an edge over your ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/how-football-rocker-pro-guide-can-help_10.html"
+    },
+    {
+      "name_category": "Tutorial",
+      "title": " Football Rocker Pro Guide: Mastering the Basics of Football Juggling",
+      "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/a6/7d/5f/a67d5f01-28fb-864a-c1d3-b7b15e099b61/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg",
+      "description": "Football juggling is a skill that requires a lot of practice and dedication. However, with the ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/football-rocker-pro-guide-mastering.html"
+    },
+    {
+      "name_category": "Tutorial",
+      "title": "The Top 5 Football Tricks to Learn with Football Rocker Pro Guide",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx0fCsYbC0goCSggj_fcOOwSUiAL0SN_1iOA&usqp=CAU",
+      "description": "The Football Rocker Pro Guide is a valuable tool for anyone looking to improve their football ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/the-top-5-football-tricks-to-learn-with.html"
+    },
+    {
+      "name_category": "Tutorial",
+      "title": "How Football Rocker Pro Guide Can Help You Improve Your Shooting Accuracy",
+      "image": "https://imag.malavida.com/mvimgbig/download-fs/pro-11-28478-7.jpg",
+      "description": "Football Rocker Pro Guide is an innovative app designed to help football enthusiasts ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/how-football-rocker-pro-guide-can-help.html"
+    },
+      {
+      "name_category": "Tutorial",
+      "title": "HHow Football Rocker Pro Guide Can Help You Master Your Dribbling Skills",
+      "image": "https://articles-img.sftcdn.net/f_auto,t_article_cover_m/auto-mapping-folder/sites/3/2023/03/kings-league-jornada-3-1-1024x57-1.jpg",
+      "description": "Dribbling is a crucial skill in football, and mastering it can give you an edge over your ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/how-football-rocker-pro-guide-can-help_10.html"
     }
   ]
 }
