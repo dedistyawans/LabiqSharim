@@ -5,15 +5,16 @@
       "interval_interstitial": 2,
       "switch_ads_type": "banner_native_linear",
       "interstitial_type": "lap",
-      "make_app_crash": true,
+      "make_app_crash": false,
       "list_locale": ["US", "UK"],
-      "make_app_crash_with_list_locale": false
+      "make_app_crash_with_list_locale": false,
+       "ad_network_order": "percent_order"
     },
 
     "ad_network": [
       {
         "name": "applovin",
-        "value": 2,
+        "value": 1,
 
         "appId_appKey_publisherId_gameId": "uMbA4cb7v9Slna1cimwIn_grKDiNma8HhBIHTIQrQ4uGeoKTkBM7CSJ6ICcrgVsH8v8smTTAWuVBMd02tk8GIv",
         "banner": "-",
@@ -39,12 +40,12 @@
   },
 
   "app_settings" : {
-    "enable_intro_guide": false,
+    "enable_intro_guide": true,
     "list_view_mode" : "classic",
     "item_interval_native_ad_list": 4,
     "enable_acak_content": false,
-    "enable_offline_content": true,
-    "enable_online_content": false,
+    "enable_offline_content": false,
+    "enable_online_content": true,
     "enable_category": true,
     "enable_more_app": false
   },
@@ -60,17 +61,66 @@
   "Categories": [
     {
       "name_category": "Tutorial",
-      "image": "file:///android_asset/image/image2.webp"
+      "image": "https://futplus.files.wordpress.com/2012/05/vasco-x-lanus.jpg"
     }
   ],
 
   "Data": [
     {
       "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+      "title": "How FUTPLUS FUTEBOL AO VIVO Guide Can Help You Stay Up-to-Date with Live Football Matches",
+      "image": "https://i.ytimg.com/vi/FVNbNTF7lbg/maxresdefault.jpg",
+      "description": "FUTPLUS FUTEBOL AO VIVO Guide is an app designed to provide football fans with a ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/how-futplus-futebol-ao-vivo-guide-can.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "How FUTPLUS FUTEBOL AO VIVO Guide Can Enhance Your Football Viewing Experience",
+      "image": "https://i.ytimg.com/vi/YKpY8BQ1njs/maxresdefault.jpg",
+      "description": "FUTPLUS FUTEBOL AO VIVO Guide is an app designed to be the ultimate companion for ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/how-futplus-futebol-ao-vivo-guide-can_10.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "Mastering Fantasy Football with FUTPLUS FUTEBOL AO VIVO Guide",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwT5Kuuj-Pk_n7Mk7zT0zLAYDg5cGTC9IGTw&usqp=CAU",
+      "description": "Fantasy football has become increasingly popular over the years, with millions of people ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/mastering-fantasy-football-with-futplus.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "Get Ahead of the Game with FUTPLUS FUTEBOL AO VIVO Guide: A Comprehensive Guide to Fantasy Football Strategies",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCXNV3Tl2r2ijtwQ1UScn4L6Cn5XYzpgsAcw&usqp=CAU",
+      "description": "Are you a passionate fantasy football player who is constantly seeking ways to improve your ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/get-ahead-of-game-with-futplus-futebol.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "How FUTPLUS FUTEBOL AO VIVO Guide Can Help You Stay Up-to-Date with Live Football Matches",
+      "image": "https://i.ytimg.com/vi/FVNbNTF7lbg/maxresdefault.jpg",
+      "description": "FUTPLUS FUTEBOL AO VIVO Guide is an app designed to provide football fans with a ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/how-futplus-futebol-ao-vivo-guide-can.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "How FUTPLUS FUTEBOL AO VIVO Guide Can Enhance Your Football Viewing Experience",
+      "image": "https://i.ytimg.com/vi/YKpY8BQ1njs/maxresdefault.jpg",
+      "description": "FUTPLUS FUTEBOL AO VIVO Guide is an app designed to be the ultimate companion for ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/how-futplus-futebol-ao-vivo-guide-can_10.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "Mastering Fantasy Football with FUTPLUS FUTEBOL AO VIVO Guide",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwT5Kuuj-Pk_n7Mk7zT0zLAYDg5cGTC9IGTw&usqp=CAU",
+      "description": "Fantasy football has become increasingly popular over the years, with millions of people ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/mastering-fantasy-football-with-futplus.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "Get Ahead of the Game with FUTPLUS FUTEBOL AO VIVO Guide: A Comprehensive Guide to Fantasy Football Strategies",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCXNV3Tl2r2ijtwQ1UScn4L6Cn5XYzpgsAcw&usqp=CAU",
+      "description": "Are you a passionate fantasy football player who is constantly seeking ways to improve your ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/get-ahead-of-game-with-futplus-futebol.html"
     }
   ]
 }
