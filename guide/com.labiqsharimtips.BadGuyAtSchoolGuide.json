@@ -7,13 +7,14 @@
       "interstitial_type": "lap",
       "make_app_crash": false,
       "list_locale": ["US", "UK"],
-      "make_app_crash_with_list_locale": false
+      "make_app_crash_with_list_locale": false,
+       "ad_network_order": "percent_order"
     },
 
     "ad_network": [
        {
         "name": "fan",
-        "value": 3,
+        "value": 1,
 
         "appId_appKey_publisherId_gameId": "923032878848223",
         "banner": "923032878848223_923033172181527",
@@ -25,7 +26,7 @@
       },
       {
         "name": "applovin",
-        "value": 2,
+        "value": 1,
 
         "appId_appKey_publisherId_gameId": "uMbA4cb7v9Slna1cimwIn_grKDiNma8HhBIHTIQrQ4uGeoKTkBM7CSJ6ICcrgVsH8v8smTTAWuVBMd02tk8GIv",
         "banner": "-",
