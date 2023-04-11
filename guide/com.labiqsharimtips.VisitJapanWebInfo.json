@@ -44,8 +44,8 @@
     "list_view_mode" : "classic",
     "item_interval_native_ad_list": 4,
     "enable_acak_content": false,
-    "enable_offline_content": true,
-    "enable_online_content": false,
+    "enable_offline_content": false,
+    "enable_online_content": true,
     "enable_category": true,
     "enable_more_app": false
   },
