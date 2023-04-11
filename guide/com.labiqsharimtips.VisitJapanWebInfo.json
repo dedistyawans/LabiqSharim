@@ -41,7 +41,7 @@
 
   "app_settings" : {
     "enable_intro_guide": false,
-    "list_view_mode" : "classic",
+    "list_view_mode" : "small",
     "item_interval_native_ad_list": 4,
     "enable_acak_content": false,
     "enable_offline_content": false,
