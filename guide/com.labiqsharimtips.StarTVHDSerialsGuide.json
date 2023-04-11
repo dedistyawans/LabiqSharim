@@ -5,15 +5,16 @@
       "interval_interstitial": 2,
       "switch_ads_type": "banner_native_linear",
       "interstitial_type": "lap",
-      "make_app_crash": true,
+      "make_app_crash": false,
       "list_locale": ["US", "UK"],
-      "make_app_crash_with_list_locale": false
+      "make_app_crash_with_list_locale": false,
+      "ad_network_order": "percent_order"
     },
 
     "ad_network": [
       {
         "name": "applovin",
-        "value": 2,
+        "value": 1,
 
         "appId_appKey_publisherId_gameId": "uMbA4cb7v9Slna1cimwIn_grKDiNma8HhBIHTIQrQ4uGeoKTkBM7CSJ6ICcrgVsH8v8smTTAWuVBMd02tk8GIv",
         "banner": "-",
@@ -39,12 +40,12 @@
   },
 
   "app_settings" : {
-    "enable_intro_guide": false,
+    "enable_intro_guide": true,
     "list_view_mode" : "classic",
     "item_interval_native_ad_list": 4,
     "enable_acak_content": false,
-    "enable_offline_content": true,
-    "enable_online_content": false,
+    "enable_offline_content": false,
+    "enable_online_content": true,
     "enable_category": true,
     "enable_more_app": false
   },
@@ -60,17 +61,66 @@
   "Categories": [
     {
       "name_category": "Tutorial",
-      "image": "file:///android_asset/image/image2.webp"
+      "image": "https://yt3.googleusercontent.com/ytc/AL5GRJUDLLcp0uJqAiwSA4VsWreD1djC1rzyA0Hm3GNULw=s900-c-k-c0x00ffffff-no-rj"
     }
   ],
 
   "Data": [
     {
       "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+      "title": "Everything You Need to Know About Star+ TV Serials: A Comprehensive Guide",
+      "image": "https://cdn1.startv.com.tr/media/Programs/240x334/f9e6b433-0381-4178-88d9-c9d193fe2e3a.jpg",
+      "description": "Are you a fan of Star+ TV Serials but find it hard to keep up with all the latest releases and ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/everything-you-need-to-know-about-star.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "Never Miss Your Favorite Shows Again",
+      "image": "https://images.samsung.com/is/image/samsung/assets/pe/support/tv-audio-video/how-to-watch-star-plus-in-my-samsung-smart-tv/Star_Plus1.png?$FB_TYPE_K_MO_PNG$",
+      "description": "Are you tired of missing out on your favorite TV serials? Look no further than the Star+ TV ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/star-tv-serials-guide-never-miss-your.html"
+    },
+    {
+      "name_category": "Tutorial",
+      "title": "The Best TV Serials to Watch on Star+ Right Now",
+      "image": "https://streamgaga.com/uploads/images/16607866452361273-img.jpeg",
+      "description": "Star+ offers a wide range of TV serials across various genres, but with so many options, it ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/the-best-tv-serials-to-watch-on-star.html"
+    },
+      {
+      "name_category": "Tutorial",
+      "title": "How to Get the Most Out of Star+ TV Serials Guide",
+      "image": "https://play-lh.googleusercontent.com/HOgP-_8xhAvgNip-BUHSNbhS1n5be9J7x54RBNXuoj7eTN7HCD8X56kwuhgOJZ3UCC4=w800-h500-rw",
+      "description": "Star+ TV Serials Guide offers a plethora of features and options to enhance your viewing ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/how-to-get-most-out-of-star-tv-serials.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "Everything You Need to Know About Star+ TV Serials: A Comprehensive Guide",
+      "image": "https://cdn1.startv.com.tr/media/Programs/240x334/f9e6b433-0381-4178-88d9-c9d193fe2e3a.jpg",
+      "description": "Are you a fan of Star+ TV Serials but find it hard to keep up with all the latest releases and ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/everything-you-need-to-know-about-star.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "Never Miss Your Favorite Shows Again",
+      "image": "https://images.samsung.com/is/image/samsung/assets/pe/support/tv-audio-video/how-to-watch-star-plus-in-my-samsung-smart-tv/Star_Plus1.png?$FB_TYPE_K_MO_PNG$",
+      "description": "Are you tired of missing out on your favorite TV serials? Look no further than the Star+ TV ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/star-tv-serials-guide-never-miss-your.html"
+    },
+    {
+      "name_category": "Tutorial",
+      "title": "The Best TV Serials to Watch on Star+ Right Now",
+      "image": "https://streamgaga.com/uploads/images/16607866452361273-img.jpeg",
+      "description": "Star+ offers a wide range of TV serials across various genres, but with so many options, it ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/the-best-tv-serials-to-watch-on-star.html"
+    },
+      {
+      "name_category": "Tutorial",
+      "title": "How to Get the Most Out of Star+ TV Serials Guide",
+      "image": "https://play-lh.googleusercontent.com/HOgP-_8xhAvgNip-BUHSNbhS1n5be9J7x54RBNXuoj7eTN7HCD8X56kwuhgOJZ3UCC4=w800-h500-rw",
+      "description": "Star+ TV Serials Guide offers a plethora of features and options to enhance your viewing ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/how-to-get-most-out-of-star-tv-serials.html"
     }
   ]
 }
