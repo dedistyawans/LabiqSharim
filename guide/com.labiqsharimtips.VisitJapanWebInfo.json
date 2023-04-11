@@ -61,7 +61,11 @@
   "Categories": [
     {
       "name_category": "Tutorial",
-      "image": "file:///android_asset/image/image2.webp"
+      "image": "https://liburankejepang.com/wp-content/uploads/2022/11/visit-japan-web.jpg"
+    },
+     {
+      "name_category": "Guide",
+      "image": "https://imgcp.aacdn.jp/img-a/1720/auto/global-aaj-front/article/2022/12/63a16bb01340f_63a16ba0bc0aa_1685675489.jpg"
     }
   ],
 
@@ -95,28 +99,28 @@
       "link": "https://produkfavorits.blogspot.com/2023/04/exploring-japans-natural-wonders-guide.html"
     },
      {
-      "name_category": "Tutorial",
+      "name_category": "Guide",
       "title": "The Ultimate Guide to Visiting Japan: Tips and Tricks from Visit Japan Web Guide",
       "image": "https://www.swedishnomad.com/wp-content/images/2017/02/Places-to-visit-in-Japan.jpg",
       "description": "Japan is a fascinating country with a rich culture and history, beautiful scenery, and delicious ",
       "link": "https://produkfavorits.blogspot.com/2023/04/the-ultimate-guide-to-visiting-japan.html"
     },
     {
-      "name_category": "Tutorial",
+      "name_category": "Guide",
       "title": "Title: Exploring Japan's Rich Culture and Traditions with Visit Japan Web Guide",
       "image": "https://static.toiimg.com/photo/69478387.cms",
       "description": "Japan is a country with a rich cultural heritage and traditions that are still alive today. From ",
       "link": "https://produkfavorits.blogspot.com/2023/04/exploring-japans-rich-culture-and.html"
     },
      {
-      "name_category": "Tutorial",
+      "name_category": "Guide",
       "title": "Discovering Japan's Hidden Gems: A Guide by Visit Japan Web Guide",
       "image": "https://liburankejepang.com/wp-content/uploads/2022/11/visit-japan-web.jpg",
       "description": "While Tokyo and Kyoto are popular destinations for tourists visiting Japan, there are many  ",
       "link": "https://produkfavorits.blogspot.com/2023/04/discovering-japans-hidden-gems-guide-by.html"
     },
      {
-      "name_category": "Tutorial",
+      "name_category": "Guide",
       "title": "Exploring Japan's Natural Wonders: A Guide by Visit Japan Web Guide",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-7DbPx8xdVDw7VzcYeyuqMTxgx_tizp-hvA&usqp=CAU",
       "description": "Japan is known for its bustling cities and rich cultural heritage, but the country also has ",
