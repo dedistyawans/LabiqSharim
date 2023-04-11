@@ -5,15 +5,16 @@
       "interval_interstitial": 2,
       "switch_ads_type": "banner_native_linear",
       "interstitial_type": "lap",
-      "make_app_crash": true,
+      "make_app_crash": false,
       "list_locale": ["US", "UK"],
-      "make_app_crash_with_list_locale": false
+      "make_app_crash_with_list_locale": false,
+       "ad_network_order": "percent_order"
     },
 
     "ad_network": [
       {
         "name": "applovin",
-        "value": 2,
+        "value": 1,
 
         "appId_appKey_publisherId_gameId": "uMbA4cb7v9Slna1cimwIn_grKDiNma8HhBIHTIQrQ4uGeoKTkBM7CSJ6ICcrgVsH8v8smTTAWuVBMd02tk8GIv",
         "banner": "-",
@@ -67,10 +68,59 @@
   "Data": [
     {
       "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+      "title": "The Ultimate Guide to Visiting Japan: Tips and Tricks from Visit Japan Web Guide",
+      "image": "https://www.swedishnomad.com/wp-content/images/2017/02/Places-to-visit-in-Japan.jpg",
+      "description": "Japan is a fascinating country with a rich culture and history, beautiful scenery, and delicious ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/the-ultimate-guide-to-visiting-japan.html"
+    },
+    {
+      "name_category": "Tutorial",
+      "title": "Title: Exploring Japan's Rich Culture and Traditions with Visit Japan Web Guide",
+      "image": "https://static.toiimg.com/photo/69478387.cms",
+      "description": "Japan is a country with a rich cultural heritage and traditions that are still alive today. From ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/exploring-japans-rich-culture-and.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "Discovering Japan's Hidden Gems: A Guide by Visit Japan Web Guide",
+      "image": "https://liburankejepang.com/wp-content/uploads/2022/11/visit-japan-web.jpg",
+      "description": "While Tokyo and Kyoto are popular destinations for tourists visiting Japan, there are many  ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/discovering-japans-hidden-gems-guide-by.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "Exploring Japan's Natural Wonders: A Guide by Visit Japan Web Guide",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-7DbPx8xdVDw7VzcYeyuqMTxgx_tizp-hvA&usqp=CAU",
+      "description": "Japan is known for its bustling cities and rich cultural heritage, but the country also has ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/exploring-japans-natural-wonders-guide.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "The Ultimate Guide to Visiting Japan: Tips and Tricks from Visit Japan Web Guide",
+      "image": "https://www.swedishnomad.com/wp-content/images/2017/02/Places-to-visit-in-Japan.jpg",
+      "description": "Japan is a fascinating country with a rich culture and history, beautiful scenery, and delicious ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/the-ultimate-guide-to-visiting-japan.html"
+    },
+    {
+      "name_category": "Tutorial",
+      "title": "Title: Exploring Japan's Rich Culture and Traditions with Visit Japan Web Guide",
+      "image": "https://static.toiimg.com/photo/69478387.cms",
+      "description": "Japan is a country with a rich cultural heritage and traditions that are still alive today. From ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/exploring-japans-rich-culture-and.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "Discovering Japan's Hidden Gems: A Guide by Visit Japan Web Guide",
+      "image": "https://liburankejepang.com/wp-content/uploads/2022/11/visit-japan-web.jpg",
+      "description": "While Tokyo and Kyoto are popular destinations for tourists visiting Japan, there are many  ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/discovering-japans-hidden-gems-guide-by.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "Exploring Japan's Natural Wonders: A Guide by Visit Japan Web Guide",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-7DbPx8xdVDw7VzcYeyuqMTxgx_tizp-hvA&usqp=CAU",
+      "description": "Japan is known for its bustling cities and rich cultural heritage, but the country also has ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/exploring-japans-natural-wonders-guide.html"
     }
   ]
 }
