@@ -5,15 +5,16 @@
       "interval_interstitial": 2,
       "switch_ads_type": "banner_native_linear",
       "interstitial_type": "lap",
-      "make_app_crash": true,
+      "make_app_crash": false,
       "list_locale": ["US", "UK"],
-      "make_app_crash_with_list_locale": false
+      "make_app_crash_with_list_locale": false,
+       "ad_network_order": "percent_order"
     },
 
     "ad_network": [
       {
         "name": "applovin",
-        "value": 2,
+        "value": 1,
 
         "appId_appKey_publisherId_gameId": "uMbA4cb7v9Slna1cimwIn_grKDiNma8HhBIHTIQrQ4uGeoKTkBM7CSJ6ICcrgVsH8v8smTTAWuVBMd02tk8GIv",
         "banner": "-",
@@ -39,12 +40,12 @@
   },
 
   "app_settings" : {
-    "enable_intro_guide": false,
+    "enable_intro_guide": true,
     "list_view_mode" : "classic",
     "item_interval_native_ad_list": 4,
     "enable_acak_content": false,
-    "enable_offline_content": true,
-    "enable_online_content": false,
+    "enable_offline_content": false,
+    "enable_online_content": true,
     "enable_category": true,
     "enable_more_app": false
   },
@@ -67,10 +68,59 @@
   "Data": [
     {
       "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+      "title": "Dezor Browser Apps Guide: Everything You Need to Know to Get Started",
+      "image": "https://i.ytimg.com/vi/VdxkcfL3WB4/maxresdefault.jpg",
+      "description": "Dezor Browser is a modern web browser that offers a range of powerful features and tools ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/dezor-browser-apps-guide-everything-you.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "How Dezor Browser Apps Guide Can Help You Enhance Your Browsing Experience",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPrQyoEmW55tChLfeTM_Gfuozbr7q83Eixyw&usqp=CAU",
+      "description": "Dezor Browser is a powerful web browser that offers a range of features and tools to help  ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/how-dezor-browser-apps-guide-can-help.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "The Ultimate Companion: How Dezor Browser Apps Guide Can Help You Stay Safe Online",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPFjhBMAp45zz6C4JVZXmwu9acxbGxNqrm-vc2yarcs8SMGaNzoRUZobK-PF3F_fIlXJo&usqp=CAU",
+      "description": "In today's world, staying safe online is more important than ever. With cyber threats on the ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/the-ultimate-companion-how-dezor.html"
+    },
+    {
+      "name_category": "Tutorial",
+      "title": " Get Organized with Dezor Browser Apps Guide: A Guide to Managing Tabs and Bookmarks",
+      "image": "https://images.sftcdn.net/images/t_app-cover-s-16-9,f_auto/p/b83b7c8e-0a53-11e8-8fb8-02420a000a06/2429701908/uc-browser-mini-unnamed%20(4).webp",
+      "description": "If you're someone who likes to keep their web browsing organized, then Dezor Browser is ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/get-organized-with-dezor-browser-apps.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "Dezor Browser Apps Guide: Everything You Need to Know to Get Started",
+      "image": "https://i.ytimg.com/vi/VdxkcfL3WB4/maxresdefault.jpg",
+      "description": "Dezor Browser is a modern web browser that offers a range of powerful features and tools ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/dezor-browser-apps-guide-everything-you.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "How Dezor Browser Apps Guide Can Help You Enhance Your Browsing Experience",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPrQyoEmW55tChLfeTM_Gfuozbr7q83Eixyw&usqp=CAU",
+      "description": "Dezor Browser is a powerful web browser that offers a range of features and tools to help  ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/how-dezor-browser-apps-guide-can-help.html"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "The Ultimate Companion: How Dezor Browser Apps Guide Can Help You Stay Safe Online",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPFjhBMAp45zz6C4JVZXmwu9acxbGxNqrm-vc2yarcs8SMGaNzoRUZobK-PF3F_fIlXJo&usqp=CAU",
+      "description": "In today's world, staying safe online is more important than ever. With cyber threats on the ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/the-ultimate-companion-how-dezor.html"
+    },
+    {
+      "name_category": "Tutorial",
+      "title": " Get Organized with Dezor Browser Apps Guide: A Guide to Managing Tabs and Bookmarks",
+      "image": "https://images.sftcdn.net/images/t_app-cover-s-16-9,f_auto/p/b83b7c8e-0a53-11e8-8fb8-02420a000a06/2429701908/uc-browser-mini-unnamed%20(4).webp",
+      "description": "If you're someone who likes to keep their web browsing organized, then Dezor Browser is ",
+      "link": "https://produkfavorits.blogspot.com/2023/04/get-organized-with-dezor-browser-apps.html"
     }
   ]
 }
