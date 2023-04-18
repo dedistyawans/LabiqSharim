@@ -34,8 +34,8 @@
 		"kemungkinan_iron": 1,
 		"kemungkinan_fan": 0,
 		"kemungkinan_unity": 0,
-		"kemungkinan_admob": 100,
-		"kemungkinan_max": 10000,
+		"kemungkinan_admob": 10000,
+		"kemungkinan_max": 100,
 		"kemungkinan_startapp": 1,
 
 		"adcolony_app_id": "-",
@@ -57,9 +57,9 @@
 		"unity_banner": "-",
 		"unity_inter": "-",
 
-		"admob_open": "ca-app-pub-3261537079314282/6863485075",
-		"admob_banner": "ca-app-pub-3261537079314282/8666417686",
-		"admob_inter": "ca-app-pub-3261537079314282/2157953307",
+		"admob_open": "ca-app-pub-1598318147841886/3894429582",
+		"admob_banner": "ca-app-pub-1598318147841886/8955184572",
+		"admob_inter": "ca-app-pub-1598318147841886/5015939566",
 
 		"max_banner": "5c13642cc8128108",
 		"max_mrec": "8bdeb5dac7287354",
