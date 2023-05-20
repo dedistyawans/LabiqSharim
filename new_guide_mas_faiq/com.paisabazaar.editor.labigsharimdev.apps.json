@@ -8,7 +8,7 @@
       "make_app_crash_when_app_not_live_at_play_store": true,
       "enable_activity_maintenance_with_ads": false,
       "ad_network_order": "percent_order",
-      "app_live_store" : "auto"
+      "app_live_store" : "true"
     },
 
     "ad_network": [
