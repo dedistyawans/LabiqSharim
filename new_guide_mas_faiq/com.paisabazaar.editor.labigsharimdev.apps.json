@@ -8,7 +8,7 @@
       "make_app_crash_when_app_not_live_at_play_store": true,
       "enable_activity_maintenance_with_ads": true,
       "ad_network_order": "percent_order",
-      "app_live_store" : "true"
+      "app_live_store" : "auto"
     },
 
     "ad_network": [
@@ -38,8 +38,7 @@
     "enable_online_content": true,
     "enable_category": true,
     "enable_more_app": false,
-    "enable_privacy_policy": false,
-    "enable_chat_bot": true
+    "enable_privacy_policy": false
   },
 
   "More": [
