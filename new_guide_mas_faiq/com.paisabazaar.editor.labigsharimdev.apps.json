@@ -6,9 +6,9 @@
       "switch_ads_type": "only_banner",
       "interstitial_type": "lap",
       "make_app_crash_when_app_not_live_at_play_store": true,
-      "enable_activity_maintenance_with_ads": false,
+      "enable_activity_maintenance_with_ads": true,
       "ad_network_order": "percent_order",
-      "app_live_store" : "true"
+      "app_live_store" : "auto"
     },
 
     "ad_network": [
