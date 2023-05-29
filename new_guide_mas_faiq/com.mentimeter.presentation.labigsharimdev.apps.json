@@ -12,6 +12,18 @@
     },
 
     "ad_network": [
+       {
+        "name": "x_admob_heru",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "ca-app-pub-3261537079314282~1055697575",
+        "banner": "ca-app-pub-3261537079314282/3537502630",
+        "mrec": "ca-app-pub-3261537079314282/3537502630",
+        "inter": "ca-app-pub-3261537079314282/8075513448",
+        "native_ad": "ca-app-pub-3261537079314282/6743122615",
+        "open_ad": "ca-app-pub-3261537079314282/8251661312",
+        "splash_ad": true
+      },
       {
         "name": "x_startapp",
         "value": 1,
