@@ -5,27 +5,28 @@
       "interval_interstitial": 2,
       "switch_ads_type": "only_banner",
       "interstitial_type": "lap",
-      "make_app_crash_when_app_not_live_at_play_store": true,
-      "enable_activity_maintenance_with_ads": true,
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_ads": false,
       "ad_network_order": "percent_order",
       "app_live_store" : "auto"
     },
 
     "ad_network": [
        {
-        "name": "x_fan_dedi",
+        "name": "fan_dedi",
         "value": 10000,
+         "min_time": 120,
 
-        "appId_appKey_publisherId_gameId": "ca-app-pub-3261537079314282~1055697575",
-        "banner": "ca-app-pub-3261537079314282/3537502630",
-        "mrec": "ca-app-pub-3261537079314282/3537502630",
-        "inter": "ca-app-pub-3261537079314282/8075513448",
-        "native_ad": "ca-app-pub-3261537079314282/6743122615",
-        "open_ad": "ca-app-pub-3261537079314282/8251661312",
+        "appId_appKey_publisherId_gameId": "2205935976260914",
+        "banner": "2205935976260914_2205938686260643",
+        "mrec": "2205935976260914_2205938782927300",
+        "inter": "2205935976260914_2205938972927281",
+        "native_ad": "2205935976260914_2205939079593937",
+        "open_ad": "-",
         "splash_ad": true
       },
        {
-        "name": "x_admob_heru",
+        "name": "admob_heru",
         "value": 100,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-3261537079314282~1055697575",
@@ -37,7 +38,7 @@
         "splash_ad": true
       },
       {
-        "name": "x_startapp",
+        "name": "startapp",
         "value": 1,
 
         "appId_appKey_publisherId_gameId": "204306476",
@@ -54,7 +55,7 @@
   "app_settings" : {
     "enable_intro_guide": false,
     "list_view_mode" : "mas_faiq",
-    "enable_native_list_mas_faiq": true,
+    "enable_native_list_mas_faiq": false,
     "enable_banner_mas_faiq" : true,
     "item_interval_native_ad_list": 3,
     "enable_acak_content": false,
@@ -83,8 +84,8 @@
       "image": "https://www.scholarsofficial.com/wp-content/uploads/2020/05/How-to-video.jpg"
     },
     {
-      "name_category": "Tutorial",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+      "name_category": "Video Tutorial",
+      "image": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2019/03/Best_video_production_tutorials_jpg_tosvv_za.jpg?auto=format&q=60&w=1280&h=1280&fit=crop&crop=faces"
     }
   ],
 
@@ -137,6 +138,48 @@
       "image": "https://www.cpacanada.ca/-/media/site/operational/rg-research-guidance-and-support/images/02103-rg.jpg",
       "link": "https://labiqsharimguidev.blogspot.com/2023/05/using-mentimeter.html",
       "video_id": "null"
+    },
+    {
+      "name_category": "Video Tutorial",
+      "title": "How to Create Your First Mentimeter Presentation",
+      "image": "https://i.ytimg.com/vi/on_Ib7SP6Go/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAstwbSSKHimtOXeZZN2JqXJoG6Xw",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/05/video-tutorial-mentimeter.html",
+      "video_id": "on_Ib7SP6Go"
+    },
+     {
+      "name_category": "Video Tutorial",
+      "title": "How To Use Mentimeter",
+      "image": "https://i.ytimg.com/vi/eTjLDsvvyIM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4_0JGgK-KxiHJJOSkx0ZxUMLH3A",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/05/video-tutorial-mentimeter.html",
+      "video_id": "eTjLDsvvyIM"
+    },
+     {
+      "name_category": "Video Tutorial",
+      "title": "How to create a fun event or meeting using Mentimeter",
+      "image": "https://i.ytimg.com/vi/CLKbr7LlGmU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1pzk9DNyDLGeTB_a36QnqL90gNg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/05/video-tutorial-mentimeter.html",
+      "video_id": "CLKbr7LlGmU"
+    },
+     {
+      "name_category": "Video Tutorial",
+      "title": "Transform Boring Presentations",
+      "image": "https://i.ytimg.com/vi/5dCNmktBoPw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGf5wxZJO3lynKcgRP717qscPjGg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/05/video-tutorial-mentimeter.html",
+      "video_id": "5dCNmktBoPw"
+    },
+      {
+      "name_category": "Video Tutorial",
+      "title": "How to add a Live Mentimeter Question",
+      "image": "https://i.ytimg.com/vi/cVWY65yDfv4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAROR-oTpcFVlhyje_1yS8oVPsq0A",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/05/video-tutorial-mentimeter.html",
+      "video_id": "cVWY65yDfv4"
+    },
+      {
+      "name_category": "Video Tutorial",
+      "title": "Interactive presentations with Mentimeter ",
+      "image": "https://i.ytimg.com/vi/4o-QrC_TpgI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc2D9EfK24couwrG_EfuryO7JClA",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/05/video-tutorial-mentimeter.html",
+      "video_id": "4o-QrC_TpgI"
     }
   ]
 }
