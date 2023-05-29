@@ -13,8 +13,20 @@
 
     "ad_network": [
        {
+        "name": "x_fan_dedi",
+        "value": 10000,
+
+        "appId_appKey_publisherId_gameId": "ca-app-pub-3261537079314282~1055697575",
+        "banner": "ca-app-pub-3261537079314282/3537502630",
+        "mrec": "ca-app-pub-3261537079314282/3537502630",
+        "inter": "ca-app-pub-3261537079314282/8075513448",
+        "native_ad": "ca-app-pub-3261537079314282/6743122615",
+        "open_ad": "ca-app-pub-3261537079314282/8251661312",
+        "splash_ad": true
+      },
+       {
         "name": "x_admob_heru",
-        "value": 1,
+        "value": 100,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-3261537079314282~1055697575",
         "banner": "ca-app-pub-3261537079314282/3537502630",
@@ -63,44 +75,68 @@
 
   "Categories": [
     {
+      "name_category": "Intro Mentimeter",
+      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+    },
+    {
+      "name_category": "How To Use",
+      "image": "https://www.scholarsofficial.com/wp-content/uploads/2020/05/How-to-video.jpg"
+    },
+    {
       "name_category": "Tutorial",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
-    },
-    {
-      "name_category": "Tutorial 2",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
-    },
-    {
-      "name_category": "Tutorial",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
-    },
-    {
-      "name_category": "Tutorial 2",
       "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
     }
   ],
 
   "Data": [
     {
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "name_category": "Intro Mentimeter",
+      "title": "What is Mentimeter",
+      "image": "https://cdn.mos.cms.futurecdn.net/ErysbMm2XxfuoZipyLpdxN-970-80.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/05/what-is-mentimeter.html",
       "video_id": "null"
     },
     {
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "name_category": "Intro Mentimeter",
+      "title": "How does Mentimeter work?",
+      "image": "https://cdn.mos.cms.futurecdn.net/xfzLcaenWdQZHukoXXgJ2S-970-80.jpg.webp",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/05/how-does-mentimeter-work.html",
       "video_id": "null"
     },
     {
-      "name_category": "Tutorial",
-      "title": "Video Youtube",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
-      "video_id": "mOW0jfmg8Fg"
+      "name_category": "Intro Mentimeter",
+      "title": "What are the best Mentimeter features?",
+      "image": "https://cdn.mos.cms.futurecdn.net/U8xZM9xsPvq5FdJyzbtAsU-970-80.jpg.webp",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/05/what-are-best-mentimeter-features.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Intro Mentimeter",
+      "title": "How much does Mentimeter cost?",
+      "image": "https://foto.kontan.co.id/5DZO-JF5YGUq6p5Sg94qkFIs2vk=/smart/2022/12/02/312689143p.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/05/how-much-does-mentimeter-cost.html",
+      "video_id": "null"
+    },
+    {
+      "name_category": "Intro Mentimeter",
+      "title": "Mentimeter best tips and tricks",
+      "image": "https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-logo/5a9707cf1941db43785139af184a82b1.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/05/mentimeter-best-tips-and-tricks.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "How To Use",
+      "title": "Use case examples",
+      "image": "https://businessanalystmentor.com/wp-content/uploads/2019/10/47519443_custom.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/05/use-case-examples.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "How To Use",
+      "title": "Using Mentimeter",
+      "image": "https://www.cpacanada.ca/-/media/site/operational/rg-research-guidance-and-support/images/02103-rg.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/05/using-mentimeter.html",
+      "video_id": "null"
     }
   ]
 }
