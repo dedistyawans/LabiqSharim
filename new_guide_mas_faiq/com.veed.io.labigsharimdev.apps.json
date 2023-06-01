@@ -5,15 +5,28 @@
       "interval_interstitial": 2,
       "switch_ads_type": "only_banner",
       "interstitial_type": "lap",
-      "make_app_crash_when_app_not_live_at_play_store": true,
-      "enable_activity_maintenance_with_ads": true,
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_ads": false,
       "ad_network_order": "percent_order",
       "app_live_store" : "auto"
     },
 
     "ad_network": [
        {
-        "name": "x_admob_heru",
+        "name": "fan_dedi",
+        "value": 9999,
+         "min_time": 120,
+
+        "appId_appKey_publisherId_gameId": "962027344996423",
+        "banner": "962027344996423_962028364996321",
+        "mrec": "962027344996423_962028571662967",
+        "inter": "962027344996423_962028671662957",
+        "native_ad": "962027344996423_962028868329604",
+        "open_ad": "-",
+        "splash_ad": true
+      },
+       {
+        "name": "admob_heru",
         "value": 99,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-3261537079314282~9330461774",
@@ -25,7 +38,7 @@
         "splash_ad": true
       },
       {
-        "name": "x_startapp",
+        "name": "startapp",
         "value": 1,
 
         "appId_appKey_publisherId_gameId": "204306476",
@@ -42,7 +55,7 @@
   "app_settings" : {
     "enable_intro_guide": false,
     "list_view_mode" : "mas_faiq",
-    "enable_native_list_mas_faiq": true,
+    "enable_native_list_mas_faiq": false,
     "enable_banner_mas_faiq" : true,
     "item_interval_native_ad_list": 3,
     "enable_acak_content": false,
@@ -63,44 +76,103 @@
 
   "Categories": [
     {
-      "name_category": "Tutorial",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+      "name_category": "Training",
+      "image": "https://www.talenta.co/wp-content/uploads/2016/08/Training-yang-dibutuhkan-karyawan-baru-01.jpg"
     },
     {
-      "name_category": "Tutorial 2",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+      "name_category": "Great Training Veed",
+      "image": "https://dolby.io/wp-content/uploads/2021/09/How-VEED-Enabled-One-Click-Audio-Enhancement-in-20-Minutes-with-DolbyIO.jpg"
     },
-    {
-      "name_category": "Tutorial",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
-    },
-    {
-      "name_category": "Tutorial 2",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+     {
+      "name_category": "The Key Benefits",
+      "image": "https://www.expressdoorsdirect.co.uk/blog/wp-content/uploads/2020/03/sticky-lock.jpg"
     }
   ],
 
   "Data": [
     {
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "name_category": "Training",
+      "title": "How to Easily Create Training Videos (With Examples)",
+      "image": "https://assets-global.website-files.com/616e938268c8f0a92cb2b540/643fc28b90bb9c32acae394c_How%20to%20Easily%20Create%20Training%20Videos-p-2000.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/how-to-easily-create-training-videos.html",
       "video_id": "null"
     },
     {
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "name_category": "Training",
+      "title": "What are the Different Types of Training Videos?",
+      "image": "https://samahita.co.id/wp-content/uploads/2018/07/4-level-model-evaluasi-training-kirkpatrick.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/what-are-different-types-of-training.html",
       "video_id": "null"
     },
     {
-      "name_category": "Tutorial",
-      "title": "Video Youtube",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
-      "video_id": "mOW0jfmg8Fg"
+      "name_category": "Training",
+      "title": "Presenter Video Training",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCBY0UJ0w787C9dToVO5Kz6twhIUEs3BYYw&usqp=CAU",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/presenter-video-training.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Training",
+      "title": "Employee-Created Videos",
+      "image": "https://www.aihr.com/wp-content/uploads/learning-vs-training-cover.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/employee-created-videos.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Great Training Veed",
+      "title": "How to Easily Make a Great Training Video with VEED",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcOE-BAI61dheNZE9e7vJfu0RDWLy3wjEBF1AtXkVaOs7xmRqvkimM1iLRI4pD_wAW1no&usqp=CAU",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/how-to-easily-make-great-training-video.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Great Training Veed",
+      "title": "Pick the Topic of Your Training Video.",
+      "image": "https://assets-global.website-files.com/616e938268c8f0a92cb2b540/6189489c92eb4a9ca177c402_WhyStop.jpeg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/pick-topic-of-your-training-video.html",
+      "video_id": "null"
+    },
+      {
+      "name_category": "Great Training Veed",
+      "title": "Pick the Type of Training Video You Want to Make.",
+      "image": "https://assets-global.website-files.com/616e938268c8f0a92cb2b540/6189489c92eb4a9ca177c402_WhyStop.jpeg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/pick-type-of-training-video-you-want-to.html",
+      "video_id": "null"
+    },
+      {
+      "name_category": "Great Training Veed",
+      "title": "Outline and Storyboard Your Video.",
+      "image": "https://assets-global.website-files.com/616e938268c8f0a92cb2b540/6189489c92eb4a9ca177c402_WhyStop.jpeg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/outline-and-storyboard-your-video.html",
+      "video_id": "null"
+    },
+      {
+      "name_category": "Great Training Veed",
+      "title": "Record Your Training Video.",
+      "image": "https://assets-global.website-files.com/616e938268c8f0a92cb2b540/643fb8e753c06e4cc32d5ca4_Recording-Features.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/record-your-training-video.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "The Key Benefits",
+      "title": "Why Create Training Videos (The Key Benefits)",
+      "image": "https://www.rbgcal.com/wp-content/uploads/2018/01/key.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/why-create-training-videos-key-benefits.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "The Key Benefits",
+      "title": "5 Examples of Effective Training Videos",
+      "image": "https://www.rbgcal.com/wp-content/uploads/2018/01/key.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/5-examples-of-effective-training-videos.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "The Key Benefits",
+      "title": "Let’s Recap",
+      "image": "https://assets-global.website-files.com/616e938268c8f0a92cb2b540/643fbf8d33c57c60f10dcaf8_CTA_%20Training%20Videos.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/lets-recap.html",
+      "video_id": "null"
     }
   ]
 }
