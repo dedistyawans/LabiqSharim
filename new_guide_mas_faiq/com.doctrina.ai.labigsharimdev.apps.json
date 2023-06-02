@@ -15,6 +15,7 @@
         {
         "name": "fan_dedi",
         "value": 9999,
+        "min_time" : 120,
 
         "appId_appKey_publisherId_gameId": "1655955818210183",
         "banner": "1655955818210183_1655956341543464",
