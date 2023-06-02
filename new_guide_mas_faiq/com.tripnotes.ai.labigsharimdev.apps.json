@@ -5,16 +5,17 @@
       "interval_interstitial": 2,
       "switch_ads_type": "only_banner",
       "interstitial_type": "lap",
-      "make_app_crash_when_app_not_live_at_play_store": true,
-      "enable_activity_maintenance_with_ads": true,
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_ads": false,
       "ad_network_order": "percent_order",
       "app_live_store" : "auto"
     },
 
     "ad_network": [
       {
-        "name": "x_fan_dedi",
-        "value": 1,
+        "name": "fan_dedi",
+        "value": 9999,
+        "min_time" : 120,
 
         "appId_appKey_publisherId_gameId": "1388458135270013",
         "banner": "1388458135270013_1388458571936636",
@@ -25,8 +26,8 @@
         "splash_ad": true
       },
        {
-        "name": "x_admob_heru",
-        "value": 1,
+        "name": "admob_heru",
+        "value": 99,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-3261537079314282~5258644382",
         "banner": "ca-app-pub-3261537079314282/8928913199",
@@ -37,7 +38,7 @@
         "splash_ad": true
       },
       {
-        "name": "x_startapp",
+        "name": "startapp",
         "value": 1,
 
         "appId_appKey_publisherId_gameId": "204306476",
@@ -54,7 +55,7 @@
   "app_settings" : {
     "enable_intro_guide": false,
     "list_view_mode" : "mas_faiq",
-    "enable_native_list_mas_faiq": true,
+    "enable_native_list_mas_faiq": false,
     "enable_banner_mas_faiq" : true,
     "item_interval_native_ad_list": 3,
     "enable_acak_content": false,
@@ -75,44 +76,131 @@
 
   "Categories": [
     {
-      "name_category": "Tutorial",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+      "name_category": "Introduction",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTjgG65dT2JDIj2zxNvpPh93R2wjPdYS5xZQ&usqp=CAU"
     },
     {
-      "name_category": "Tutorial 2",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+      "name_category": "Recomendation",
+      "image": "https://images.theconversation.com/files/315999/original/file-20200218-10991-1bskbzb.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop"
     },
     {
-      "name_category": "Tutorial",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
-    },
-    {
-      "name_category": "Tutorial 2",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+      "name_category": "How It Work?",
+      "image": "https://t4.ftcdn.net/jpg/01/87/31/25/360_F_187312561_kMY7AYVLSwCz6Jua7KusMMPQtb4TayFA.jpg"
     }
   ],
 
   "Data": [
     {
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "name_category": "Introduction",
+      "title": "What is Tripnotes AI for Travel Planning?",
+      "image": "https://nashikcorporation.in/wp-content/uploads/2023/02/tripnotes-ai.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/what-is-tripnotes-ai-for-travel-planning.html",
       "video_id": "null"
     },
     {
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "name_category": "Introduction",
+      "title": "Understanding User Preferences",
+      "image": "https://nashikcorporation.in/wp-content/uploads/2023/02/tripnotes-ai.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/understanding-user-preferences.html",
       "video_id": "null"
     },
     {
-      "name_category": "Tutorial",
-      "title": "Video Youtube",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
-      "video_id": "mOW0jfmg8Fg"
+      "name_category": "Introduction",
+      "title": "he Trip Planning Process",
+      "image": "https://nashikcorporation.in/wp-content/uploads/2023/02/tripnotes-ai.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/he-trip-planning-process.html",
+      "video_id": "null"
+    },
+    {
+      "name_category": "Recomendation",
+      "title": "Real-time Recommendations and Adjustments",
+      "image": "https://miro.medium.com/v2/resize:fit:1400/1*IoWW_inG4LBcE8Gwg9DxSQ.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/real-time-recommendations-and.html",
+      "video_id": "null"
+    },
+    {
+      "name_category": "Recomendation",
+      "title": "Learning from User Feedback",
+      "image": "https://miro.medium.com/v2/resize:fit:1400/1*IoWW_inG4LBcE8Gwg9DxSQ.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/learning-from-user-feedback.html",
+      "video_id": "null"
+    },
+    {
+      "name_category": "Recomendation",
+      "title": "Unique Advantages of Using Tripnotes AI",
+      "image": "https://miro.medium.com/v2/resize:fit:1400/1*IoWW_inG4LBcE8Gwg9DxSQ.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/unique-advantages-of-using-tripnotes-ai.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Recomendation",
+      "title": "Conclusion",
+      "image": "https://miro.medium.com/v2/resize:fit:1400/1*IoWW_inG4LBcE8Gwg9DxSQ.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/conclusion.html",
+      "video_id": "null"
+    },
+      {
+      "name_category": "How It Work?",
+      "title": "How does Tripnotes AI work?",
+      "image": "https://i.ytimg.com/vi/1ne1n1oaeJE/maxresdefault.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/how-does-tripnotes-ai-work.html",
+      "video_id": "null"
+    },
+      {
+      "name_category": "How It Work?",
+      "title": "What are the key features of Tripnotes AI",
+      "image": "https://i.ytimg.com/vi/1ne1n1oaeJE/maxresdefault.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/what-are-key-features-of-tripnotes-ai.html",
+      "video_id": "null"
+    },
+      {
+      "name_category": "How It Work?",
+      "title": "How to use Tripnotes AI?",
+      "image": "https://i.ytimg.com/vi/1ne1n1oaeJE/maxresdefault.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/how-to-use-tripnotes-ai.html",
+      "video_id": "null"
+    },
+      {
+      "name_category": "How It Work?",
+      "title": "Can Tripnotes AI recommend off-the-beaten-path destinations or activities?",
+      "image": "https://i.ytimg.com/vi/1ne1n1oaeJE/maxresdefault.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/can-tripnotes-ai-recommend-off-beaten.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "How It Work?",
+      "title": "What data does Tripnotes AI use?",
+      "image": "https://i.ytimg.com/vi/1ne1n1oaeJE/maxresdefault.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/what-data-does-tripnotes-ai-use.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "How It Work?",
+      "title": "Who developed Tripnotes AI?",
+      "image": "https://i.ytimg.com/vi/1ne1n1oaeJE/maxresdefault.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/who-developed-tripnotes-ai.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "How It Work?",
+      "title": "How can Tripnotes AI help travelers?",
+      "image": "https://i.ytimg.com/vi/1ne1n1oaeJE/maxresdefault.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/how-can-tripnotes-ai-help-travelers.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "How It Work?",
+      "title": "How accurate are Tripnotes AI’s recommendations?",
+      "image": "https://i.ytimg.com/vi/1ne1n1oaeJE/maxresdefault.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/how-accurate-are-tripnotes-ais.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "How It Work?",
+      "title": "Conclusion",
+      "image": "https://i.ytimg.com/vi/1ne1n1oaeJE/maxresdefault.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/conclusion_2.html",
+      "video_id": "null"
     }
   ]
 }
