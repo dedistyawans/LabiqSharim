@@ -12,6 +12,18 @@
     },
 
     "ad_network": [
+      {
+        "name": "x_fan_dedi",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "1388458135270013",
+        "banner": "1388458135270013_1388458571936636",
+        "mrec": "1388458135270013_1388458688603291",
+        "inter": "1388458135270013_1388458998603260",
+        "native_ad": "1388458135270013_1388459085269918",
+        "open_ad": "-",
+        "splash_ad": true
+      },
        {
         "name": "x_admob_heru",
         "value": 1,
