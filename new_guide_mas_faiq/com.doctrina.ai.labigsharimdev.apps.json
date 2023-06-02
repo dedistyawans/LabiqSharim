@@ -5,16 +5,28 @@
       "interval_interstitial": 2,
       "switch_ads_type": "only_banner",
       "interstitial_type": "lap",
-      "make_app_crash_when_app_not_live_at_play_store": true,
-      "enable_activity_maintenance_with_ads": true,
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_ads": false,
       "ad_network_order": "percent_order",
       "app_live_store" : "auto"
     },
 
     "ad_network": [
         {
-        "name": "x_admob_heru",
-        "value": 1,
+        "name": "fan_dedi",
+        "value": 9999,
+
+        "appId_appKey_publisherId_gameId": "1655955818210183",
+        "banner": "1655955818210183_1655956341543464",
+        "mrec": "1655955818210183_1655956428210122",
+        "inter": "1655955818210183_1655956501543448",
+        "native_ad": "1655955818210183_1655956634876768",
+        "open_ad": "-",
+        "splash_ad": true
+      },
+        {
+        "name": "admob_heru",
+        "value": 99,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-3261537079314282~2573481739",
         "banner": "ca-app-pub-3261537079314282/6189347010",
@@ -25,7 +37,7 @@
         "splash_ad": true
       },
       {
-        "name": "x_startapp",
+        "name": "startapp",
         "value": 1,
 
         "appId_appKey_publisherId_gameId": "204306476",
@@ -42,7 +54,7 @@
   "app_settings" : {
     "enable_intro_guide": false,
     "list_view_mode" : "mas_faiq",
-    "enable_native_list_mas_faiq": true,
+    "enable_native_list_mas_faiq": false,
     "enable_banner_mas_faiq" : true,
     "item_interval_native_ad_list": 3,
     "enable_acak_content": false,
@@ -63,44 +75,124 @@
 
   "Categories": [
     {
-      "name_category": "Tutorial",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+      "name_category": "Intro",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6jrY7xiKF_n-dGHc-0mZNc1rk9DsNPhLpbQ&usqp=CAU"
     },
     {
-      "name_category": "Tutorial 2",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+      "name_category": "Key Features",
+      "image": "https://cdn5.vectorstock.com/i/1000x1000/08/74/key-features-flat-concept-icon-vector-29110874.jpg"
     },
     {
-      "name_category": "Tutorial",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
-    },
-    {
-      "name_category": "Tutorial 2",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+      "name_category": "How To Use",
+      "image": "https://cdn-icons-png.flaticon.com/512/5625/5625642.png"
     }
   ],
 
   "Data": [
     {
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "name_category": "Intro",
+      "title": "What is Doctrina AI?",
+      "image": "https://ph-files.imgix.net/4a346fda-90ef-482b-8865-2017f19a80f7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/what-is-doctrina-ai.html",
       "video_id": "null"
     },
     {
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "name_category": "Intro",
+      "title": "ABOUT DOCTRINA.AI",
+      "image": "https://diphupoly.in/wp-content/uploads/2023/05/doctrina.ai-Exam-Generator-1.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/about-doctrinaai.html",
       "video_id": "null"
     },
     {
-      "name_category": "Tutorial",
-      "title": "Video Youtube",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
-      "video_id": "mOW0jfmg8Fg"
+      "name_category": "Intro",
+      "title": "Doctrina AI: A Powerful Tool for Enhanced Learning",
+      "image": "https://i.ytimg.com/vi/OigZKqkTDvQ/mqdefault.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/doctrina-ai-powerful-tool-for-enhanced.html",
+      "video_id": "null"
+    },
+    {
+      "name_category": "Key Features",
+      "title": "Unleashing the Potential of the Doctrina AI Exam Generator",
+      "image": "https://image.slidesharecdn.com/marketingfeatures-180124004603/85/marketing-features-1-320.jpg?cb=1666202043",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/unleashing-potential-of-doctrina-ai.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Key Features",
+      "title": "Doctrina AI’s Key Features",
+      "image": "https://image.slidesharecdn.com/marketingfeatures-180124004603/85/marketing-features-1-320.jpg?cb=1666202043",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/doctrina-ais-key-features.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Key Features",
+      "title": "Why Consider Doctrina AI?",
+      "image": "https://image.slidesharecdn.com/marketingfeatures-180124004603/85/marketing-features-1-320.jpg?cb=1666202043",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/why-consider-doctrina-ai.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Key Features",
+      "title": "The Future of Doctrina AI",
+      "image": "https://image.slidesharecdn.com/marketingfeatures-180124004603/85/marketing-features-1-320.jpg?cb=1666202043",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/the-future-of-doctrina-ai.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Key Features",
+      "title": "Conclusion: The Power of Doctrina.ai for Students, Educators, and Parents",
+      "image": "https://image.slidesharecdn.com/marketingfeatures-180124004603/85/marketing-features-1-320.jpg?cb=1666202043",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/conclusion-power-of-doctrinaai-for.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "How To Use",
+      "title": "Revolutionizing Online Learning with Doctrina AI: Your Ultimate Study Companion",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTos1w1Cn79UCIsrt-8GHUmScWBP0l4W2wSzQ&usqp=CAU",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/revolutionizing-online-learning-with.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "How To Use",
+      "title": "Doctrina AI: Personalized Learning with AI",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTos1w1Cn79UCIsrt-8GHUmScWBP0l4W2wSzQ&usqp=CAU",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/doctrina-ai-personalized-learning-with.html",
+      "video_id": "null"
+    },
+      {
+      "name_category": "How To Use",
+      "title": "The EssayGenius App: Streamlined Essay Writing",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTos1w1Cn79UCIsrt-8GHUmScWBP0l4W2wSzQ&usqp=CAU",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/the-essaygenius-app-streamlined-essay.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "How To Use",
+      "title": "The StudyBuddy App: Customized Exam Generation",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTos1w1Cn79UCIsrt-8GHUmScWBP0l4W2wSzQ&usqp=CAU",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/the-studybuddy-app-customized-exam.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "How To Use",
+      "title": "The Future of Learning with Doctrina AI",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTos1w1Cn79UCIsrt-8GHUmScWBP0l4W2wSzQ&usqp=CAU",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/the-future-of-learning-with-doctrina-ai.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "How To Use",
+      "title": "Accessing Quality Learning Resources Anywhere",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTos1w1Cn79UCIsrt-8GHUmScWBP0l4W2wSzQ&usqp=CAU",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/accessing-quality-learning-resources.html",
+      "video_id": "null"
+    },
+      {
+      "name_category": "How To Use",
+      "title": "Inclusive Learning with Doctrina AI",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTos1w1Cn79UCIsrt-8GHUmScWBP0l4W2wSzQ&usqp=CAU",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/inclusive-learning-with-doctrina-ai.html",
+      "video_id": "null"
     }
   ]
 }
