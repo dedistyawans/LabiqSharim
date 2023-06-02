@@ -5,16 +5,29 @@
       "interval_interstitial": 2,
       "switch_ads_type": "only_banner",
       "interstitial_type": "lap",
-      "make_app_crash_when_app_not_live_at_play_store": true,
-      "enable_activity_maintenance_with_ads": true,
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_ads": false,
       "ad_network_order": "percent_order",
       "app_live_store" : "auto"
     },
 
     "ad_network": [
+       {
+        "name": "fan_dedi",
+        "value": 9999,
+         "min_time" : 120,
+
+        "appId_appKey_publisherId_gameId": "149659664694767",
+        "banner": "149659664694767_149660428028024",
+        "mrec": "149659664694767_149660484694685",
+        "inter": "149659664694767_149660541361346",
+        "native_ad": "149659664694767_149660591361341",
+        "open_ad": "-",
+        "splash_ad": true
+      },
         {
-        "name": "x_admob_heru",
-        "value": 1,
+        "name": "admob_heru",
+        "value": 99,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-3261537079314282~8965885292",
         "banner": "ca-app-pub-3261537079314282/7574526974",
@@ -25,7 +38,7 @@
         "splash_ad": true
       },
       {
-        "name": "x_startapp",
+        "name": "startapp",
         "value": 1,
 
         "appId_appKey_publisherId_gameId": "204306476",
@@ -42,7 +55,7 @@
   "app_settings" : {
     "enable_intro_guide": false,
     "list_view_mode" : "mas_faiq",
-    "enable_native_list_mas_faiq": true,
+    "enable_native_list_mas_faiq": false,
     "enable_banner_mas_faiq" : true,
     "item_interval_native_ad_list": 3,
     "enable_acak_content": false,
@@ -63,44 +76,82 @@
 
   "Categories": [
     {
-      "name_category": "Tutorial",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+      "name_category": "Introduction",
+      "image": "https://i.ytimg.com/vi/YPfCN7Fcu04/maxresdefault.jpg"
     },
     {
-      "name_category": "Tutorial 2",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+      "name_category": "How To Use",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHUWfOdbW7nKxsj5voTtM7a5Bp4mQTkf5Ge3CR8Cw1I0YS9EWN9rwUwKzRnfioCAHQ24&usqp=CAU"
     },
     {
-      "name_category": "Tutorial",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
-    },
-    {
-      "name_category": "Tutorial 2",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+      "name_category": "Benefit",
+      "image": "https://id.hrnote.asia/wp/wp-content/uploads/2020/06/shutterstock_604857194.jpg"
     }
   ],
 
   "Data": [
     {
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "name_category": "Introduction",
+      "title": " Investidor10: An Introduction to the Online Investment Platform for Smarter Financial Decision-Making",
+      "image": "https://clubedovalor.com.br/net-content/uploads/2023/04/investidor10.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/investidor10-introduction-to-online.html",
       "video_id": "null"
     },
     {
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "name_category": "Introduction",
+      "title": "Investidor10: Unlocking the Power of Automated Investing for Optimal Returns",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm_Mtqc08X08_1sK8LVM-7ntBkv2CVa0bAK3U_CTw8eEdlxqCnRDYOP0HqvFEizuiYCSI&usqp=CAU",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/investidor10-unlocking-power-of.html",
       "video_id": "null"
     },
     {
-      "name_category": "Tutorial",
-      "title": "Video Youtube",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
-      "video_id": "mOW0jfmg8Fg"
+      "name_category": "Introduction",
+      "title": "Investidor10: Empowering Investors with Knowledge and Insights",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm_Mtqc08X08_1sK8LVM-7ntBkv2CVa0bAK3U_CTw8eEdlxqCnRDYOP0HqvFEizuiYCSI&usqp=CAU",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/investidor10-empowering-investors-with.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "How To Use",
+      "title": "A Beginner's Guide: How to Use Investidor10 for Successful Investing",
+      "image": "https://www.lancar.id/blog/wp-content/uploads/2022/05/business-angel-ge5c83c776_1280.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/a-beginners-guide-how-to-use.html",
+      "video_id": "null"
+    },
+      {
+      "name_category": "How To Use",
+      "title": "Maximizing Returns: How to Leverage Investidor10's Advanced Analytics for Investment Success",
+      "image": "https://www.lancar.id/blog/wp-content/uploads/2022/05/business-angel-ge5c83c776_1280.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/maximizing-returns-how-to-leverage.html",
+      "video_id": "null"
+    },
+      {
+      "name_category": "How To Use",
+      "title": "Diversification Made Easy: Using Investidor10 to Build a Well-Balanced Investment Portfolio",
+      "image": "https://www.lancar.id/blog/wp-content/uploads/2022/05/business-angel-ge5c83c776_1280.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/diversification-made-easy-using.html",
+      "video_id": "null"
+    },
+      {
+      "name_category": "Benefit",
+      "title": "Unleashing the Power of Investidor: Exploring the Key Benefits of Using Investidor for Investment Success",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjX4cNRrNt8bDN2H2XTiaJsi2oS7DqNdS4960DfYk2-zfvtPCMB5KpzjpRGeMia-YU978&usqp=CAU",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/unleashing-power-of-investidor.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Benefit",
+      "title": "Maximizing Your Investment Potential with Investidor: Unlocking the Advantages",
+      "image": "https://sahabat.pegadaian.co.id/wp-content/uploads/2016/05/ingin-berinvestasi-online-dengan-aman-inilah-5-caranya-1.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/maximizing-your-investment-potential.html",
+      "video_id": "null"
+    },
+      {
+      "name_category": "Benefit",
+      "title": "Accelerate Your Investment Success with Investidor: Harnessing the Power of Technology",
+      "image": "https://sahabat.pegadaian.co.id/wp-content/uploads/2016/05/ingin-berinvestasi-online-dengan-aman-inilah-5-caranya-1.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/accelerate-your-investment-success-with.html",
+      "video_id": "null"
     }
   ]
 }
