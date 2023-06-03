@@ -5,16 +5,29 @@
       "interval_interstitial": 2,
       "switch_ads_type": "only_banner",
       "interstitial_type": "lap",
-      "make_app_crash_when_app_not_live_at_play_store": true,
-      "enable_activity_maintenance_with_ads": true,
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_ads": false,
       "ad_network_order": "percent_order",
       "app_live_store" : "auto"
     },
 
     "ad_network": [
+        {
+        "name": "fan_dedi",
+        "value": 9999,
+         "min_time" : 120,
+
+        "appId_appKey_publisherId_gameId": "1642362039566329",
+        "banner": "1642362039566329_1642362819566251",
+        "mrec": "1642362039566329_1642362939566239",
+        "inter": "1642362039566329_1642363022899564",
+        "native_ad": "1642362039566329_1642363189566214",
+        "open_ad": "-",
+        "splash_ad": true
+      },
        {
-        "name": "x_admob_heru",
-        "value": 1,
+        "name": "admob_heru",
+        "value": 99,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-3261537079314282~2529620834",
         "banner": "ca-app-pub-3261537079314282/9016010272",
@@ -25,7 +38,7 @@
         "splash_ad": true
       },
       {
-        "name": "x_startapp",
+        "name": "startapp",
         "value": 1,
 
         "appId_appKey_publisherId_gameId": "204306476",
@@ -42,7 +55,7 @@
   "app_settings" : {
     "enable_intro_guide": false,
     "list_view_mode" : "mas_faiq",
-    "enable_native_list_mas_faiq": true,
+    "enable_native_list_mas_faiq": false,
     "enable_banner_mas_faiq" : true,
     "item_interval_native_ad_list": 3,
     "enable_acak_content": false,
@@ -63,44 +76,89 @@
 
   "Categories": [
     {
-      "name_category": "Tutorial",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
-    },
-    {
-      "name_category": "Tutorial 2",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+      "name_category": "Intro",
+      "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/intro-background-video-design-template-e48946e2149e59048edfa9a85bdb36b2_screen.jpg?ts=1665551367"
     },
     {
       "name_category": "Tutorial",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+      "image": "https://d33wubrfki0l68.cloudfront.net/fc2a2e727f9d3de64eb0d47553c7eaf4be71093c/d090b/static/header-man-0f4fc2ea8e097133b8d5a6817bdfd50c.svg"
     },
     {
-      "name_category": "Tutorial 2",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+      "name_category": "Tips",
+      "image": "https://media.sproutsocial.com/uploads/2016/12/Instagram-Tips.svg"
     }
   ],
 
   "Data": [
     {
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "name_category": "Intro",
+      "title": "What is the REimagine Home AI, and how does it work?",
+      "image": "https://dataconomy.com/wp-content/uploads/2023/03/What-is-Reimagine-Home-AI-and-how-to-use-it-71.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/what-is-reimagine-home-ai-and-how-does.html",
       "video_id": "null"
     },
     {
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "name_category": "Intro",
+      "title": "How to use REimagine Home AI on a computer",
+      "image": "https://images.squarespace-cdn.com/content/v1/5144aa31e4b0e8b32a79b1c4/1600818825506-CPW5JRIJZIUO3G0JZB9Z/top.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/how-to-use-reimagine-home-ai-on-computer.html",
       "video_id": "null"
     },
     {
+      "name_category": "Intro",
+      "title": "Change the architecture of your room",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF7plPnUGlA-x9BIQN10bfPdk_OqEwBzm9Sg&usqp=CAU",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/change-architecture-of-your-room.html",
+      "video_id": "null"
+    },
+     {
       "name_category": "Tutorial",
-      "title": "Video Youtube",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
-      "video_id": "mOW0jfmg8Fg"
+      "title": "How to use Reimagine Home AI on an iPhone or Android",
+      "image": "https://cdn.nerdschalk.com/wp-content/uploads/2023/04/reimagine-home-phone-12.png?width=500",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/how-to-use-reimagine-home-ai-on-iphone.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "Change the architecture of your room Mobile",
+      "image": "https://cdn.nerdschalk.com/wp-content/uploads/2023/04/reimagine-home-phone-05-e1681199692672.png?width=500",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/change-architecture-of-your-room-mobile.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "FAQ Reimagine Home",
+      "image": "https://img.freepik.com/premium-vector/faq-concept_23-2148157065.jpg?w=2000",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/faq-reimagine-home.html",
+      "video_id": "null"
+    },
+      {
+      "name_category": "Tips",
+      "title": "What is Reimagined Home Page?",
+      "image": "https://blogs.sap.com/wp-content/uploads/2021/03/HOMEPAGE-1.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/what-is-reimagined-home-page.html",
+      "video_id": "null"
+    },
+      {
+      "name_category": "Tips",
+      "title": "What features do we get?",
+      "image": "https://blogs.sap.com/wp-content/uploads/2021/03/Header-1.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/what-features-do-we-get.html",
+      "video_id": "null"
+    },
+      {
+      "name_category": "Tips",
+      "title": "Quick Actions-Driver for efficiency:",
+      "image": "https://blogs.sap.com/wp-content/uploads/2021/03/quick-Actions.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/quick-actions-driver-for-efficiency.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Tips",
+      "title": "Engagement Cards: User Specific Content on Home Page",
+      "image": "https://blogs.sap.com/wp-content/uploads/2021/03/Cards1-1.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/engagement-cards-user-specific-content.html",
+      "video_id": "null"
     }
   ]
 }
