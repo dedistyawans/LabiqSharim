@@ -5,16 +5,17 @@
       "interval_interstitial": 2,
       "switch_ads_type": "only_banner",
       "interstitial_type": "lap",
-      "make_app_crash_when_app_not_live_at_play_store": true,
-      "enable_activity_maintenance_with_ads": true,
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_ads": false,
       "ad_network_order": "percent_order",
       "app_live_store" : "auto"
     },
 
     "ad_network": [
        {
-        "name": "x_fan_dedi",
-        "value": 1,
+        "name": "fan_dedi",
+        "value": 9999,
+        "min_time" : 120,
 
         "appId_appKey_publisherId_gameId": "650118903841816",
         "banner": "650118903841816_650120730508300",
@@ -25,8 +26,8 @@
         "splash_ad": true
       },
         {
-        "name": "x_admob_heru",
-        "value": 1,
+        "name": "admob_heru",
+        "value": 99,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-3261537079314282~2285066498",
         "banner": "ca-app-pub-3261537079314282/6920114370",
@@ -37,7 +38,7 @@
         "splash_ad": true
       },
       {
-        "name": "x_startapp",
+        "name": "startapp",
         "value": 1,
 
         "appId_appKey_publisherId_gameId": "204306476",
@@ -54,7 +55,7 @@
   "app_settings" : {
     "enable_intro_guide": false,
     "list_view_mode" : "mas_faiq",
-    "enable_native_list_mas_faiq": true,
+    "enable_native_list_mas_faiq": false,
     "enable_banner_mas_faiq" : true,
     "item_interval_native_ad_list": 3,
     "enable_acak_content": false,
@@ -75,44 +76,103 @@
 
   "Categories": [
     {
-      "name_category": "Tutorial",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
-    },
-    {
-      "name_category": "Tutorial 2",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+      "name_category": "About",
+      "image": "https://previews.123rf.com/images/valentint/valentint1407/valentint140700847/29718759-icono-tutorial-bot%C3%B3n-de-internet-sobre-fondo-blanco.jpg"
     },
     {
       "name_category": "Tutorial",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+      "image": "https://dytvr9ot2sszz.cloudfront.net/wp-content/uploads/2019/05/1200x628_logstash-tutorial-min.jpg"
     },
     {
-      "name_category": "Tutorial 2",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+      "name_category": "Video",
+      "image": "https://img.freepik.com/premium-vector/video-tutorials-icon-concept-study-learning-background-distance-education-knowledge-growth-video-conference-webinar-icon-internet-video-services-illustration_100456-1620.jpg"
     }
   ],
 
   "Data": [
     {
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "name_category": "About",
+      "title": "What is sketchfab?",
+      "image": "https://media.sketchfab.com/models/5af3339daa85427d987808a8a2ba37fb/thumbnails/e59af8611d844af5835a3a1847ed59ed/4791b823b04a45a7b335cf28f20b569f.jpeg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/what-is-sketchfab.html",
       "video_id": "null"
     },
     {
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "name_category": "About",
+      "title": "Prepare your 3D Files",
+      "image": "https://help.sketchfab.com/hc/en-us/article_attachments/203163479/files.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/prepare-your-3d-files.html",
       "video_id": "null"
     },
     {
+      "name_category": "About",
+      "title": "Upload",
+      "image": "https://help.sketchfab.com/hc/article_attachments/360053099151/draftpublish.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/upload.html",
+      "video_id": "null"
+    },
+     {
       "name_category": "Tutorial",
-      "title": "Video Youtube",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
-      "video_id": "mOW0jfmg8Fg"
+      "title": "Check the appearance",
+      "image": "https://help.sketchfab.com/hc/article_attachments/360014294711/save_view.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/check-appearance.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "Changing your model's rotation axis",
+      "image": "https://help.sketchfab.com/hc/article_attachments/360053099151/draftpublish.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/changing-your-models-rotation-axis.html",
+      "video_id": "null"
+    }, 
+    {
+      "name_category": "Tutorial",
+      "title": "Adding lights",
+      "image": "https://help.sketchfab.com/hc/article_attachments/360016479251/lit-unlit.gif",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/adding-lights.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "Adding post-processing filters",
+      "image": "https://help.sketchfab.com/hc/article_attachments/360014295371/annotation.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/adding-post-processing-filters.html",
+      "video_id": "null"
+    },
+      {
+      "name_category": "Tutorial",
+      "title": "Publish",
+      "image": "https://help.sketchfab.com/hc/article_attachments/360014295371/annotation.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/publish.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Video",
+      "title": "Beginner's Guide to the Sketchfab 3D Editor",
+      "image": "https://help.sketchfab.com/hc/article_attachments/360014295371/annotation.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/video-tutorial.html",
+      "video_id": "0AV5UYk5w0c"
+    },
+     {
+      "name_category": "Video",
+      "title": "Uploading Your First Model to the Sketchfab Store",
+      "image": "https://help.sketchfab.com/hc/article_attachments/360014295371/annotation.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/video-tutorial.html",
+      "video_id": "0Hbkg4c1REw"
+    },
+     {
+      "name_category": "Video",
+      "title": "ketchfab Tutorial - Making the Most of 3D Models",
+      "image": "https://help.sketchfab.com/hc/article_attachments/360014295371/annotation.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/video-tutorial.html",
+      "video_id": "6j8-r8Kmg_I"
+    },
+     {
+      "name_category": "Video",
+      "title": "How to use the Sketchfab Blender Plugin",
+      "image": "https://help.sketchfab.com/hc/article_attachments/360014295371/annotation.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/video-tutorial.html",
+      "video_id": "aXJT7g0ZYsY"
     }
   ]
 }
