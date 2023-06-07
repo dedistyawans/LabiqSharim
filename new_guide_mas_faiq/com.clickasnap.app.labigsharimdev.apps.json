@@ -12,8 +12,21 @@
     },
 
     "ad_network": [
+        {
+        "name": "fan_dedi",
+        "value": 9999,
+        "min_time" : 120,
+
+        "appId_appKey_publisherId_gameId": "217719424406986",
+        "banner": "217719424406986_217720271073568",
+        "mrec": "217719424406986_217720361073559",
+        "inter": "217719424406986_217720491073546",
+        "native_ad": "217719424406986_217720594406869",
+        "open_ad": "-",
+        "splash_ad": true
+      },
        {
-        "name": "x_admob_heru",
+        "name": "admob_heru",
         "value": 99,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-3261537079314282~2644051343",
@@ -25,7 +38,7 @@
         "splash_ad": true
       },
       {
-        "name": "x_startapp",
+        "name": "startapp",
         "value": 1,
 
         "appId_appKey_publisherId_gameId": "204306476",
@@ -63,44 +76,114 @@
 
   "Categories": [
     {
-      "name_category": "Tutorial",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
-    },
-    {
-      "name_category": "Tutorial 2",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+      "name_category": "Intro",
+      "image": "https://cdnwpedutorenews.gramedia.net/wp-content/uploads/2021/08/27102620/Self-introduction1.jpg"
     },
     {
       "name_category": "Tutorial",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZppoqeXTScan0ucvH_nW6qJ7D8GHpYPfOXA&usqp=CAU"
     },
     {
-      "name_category": "Tutorial 2",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+      "name_category": "Tips",
+      "image": "https://jogjaculinaryschool.com/wp-content/uploads/2020/03/tips-png-25.png"
+    },
+     {
+      "name_category": "Expert Guide",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVGSjhHyEbUEwflZzg7EqNCkQvSoG35-e5zg&usqp=CAU"
     }
   ],
 
   "Data": [
     {
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "name_category": "Intro",
+      "title": "What is clickasnap?",
+      "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/02/27/3750421174.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/what-is-clickasnap.html",
       "video_id": "null"
     },
     {
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "name_category": "Intro",
+      "title": "ClickASnap Review: Can You Actually Make Money on Clickasnap?",
+      "image": "https://cdn-ajggd.nitrocdn.com/kMoOFpDlsOVtlYJLrnSRNCQXaUFHZPTY/assets/images/optimized/rev-814242f/wp-content/uploads/2022/08/sell_photos_make_money_clickasnap.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/clickasnap-review-can-you-actually-make.html",
       "video_id": "null"
     },
     {
+      "name_category": "Intro",
+      "title": "Features",
+      "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/02/27/3750421174.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/features.html",
+      "video_id": "null"
+    },
+     {
       "name_category": "Tutorial",
-      "title": "Video Youtube",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
-      "video_id": "mOW0jfmg8Fg"
+      "title": "Automated Promotions (With Credits)",
+      "image": "https://www.analyticsinsight.net/wp-content/uploads/2022/04/Automation-Can-Help-Your-Company.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/automated-promotions-with-credits.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "Email Notifications for Subscribers",
+      "image": "https://vocasia.id/blog/wp-content/uploads/2022/02/Subscribe-Form.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/features.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "Watermark Protection",
+      "image": "https://images.tokopedia.net/img/JFrBQq/2022/2/15/71b1f7f2-e640-4338-b12a-9791149cb76b.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/watermark-protection.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Tips",
+      "title": "How do I Get More Views on ClickASnap?",
+      "image": "https://yt3.googleusercontent.com/ytc/AGIKgqP2KEslhI483WeEObxS6llUmqNBZUzD2sOL7plu=s900-c-k-c0x00ffffff-no-rj",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/how-do-i-get-more-views-on-clickasnap.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Tips",
+      "title": "Quality Over Quantity",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_tezKOQTaUHtaMXZLfCp7wJ7XyhLOvcmjiA&usqp=CAU",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/quality-over-quantity.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Tips",
+      "title": "Write Photo Descriptions",
+      "image": "https://www.hostnic.id/blog/wp-content/uploads/2020/06/OIP.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/write-photo-descriptions.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Expert Guide",
+      "title": "Personalize Your Profile",
+      "image": "https://wwwsitecorecom.azureedge.net/-/media/sitecoresite/images/home/knowledge-center/digital-marketing-resources/what-is-personalization/gettyimages-1065846402.jpg?mw=600&md=20220111T230535Z&hash=6ADB253F1C801F59B1FB0C63866DAABA&t=544x310",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/personalize-your-profile.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Expert Guide",
+      "title": "Interact With Others",
+      "image": "https://warniindahcemerlang.com/wp-content/uploads/2020/03/interact-pro-icon.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/interact-with-others.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Expert Guide",
+      "title": "ClickASnap FAQs",
+      "image": "https://toffeedev.com/wp-content/uploads/2020/02/Apa-itu-FAQ-Bagaimana-Anda-Memanfaatkannya.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/clickasnap-faqs.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Final Words",
+      "title": "ClickASnap FAQs",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaRGsVAYOaqA9sPHKh6poYUDYsVBQto77BCg&usqp=CAU",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/final-words.html",
+      "video_id": "null"
     }
   ]
 }
