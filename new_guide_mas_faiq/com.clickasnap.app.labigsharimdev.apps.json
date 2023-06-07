@@ -5,13 +5,25 @@
       "interval_interstitial": 2,
       "switch_ads_type": "only_banner",
       "interstitial_type": "lap",
-      "make_app_crash_when_app_not_live_at_play_store": true,
-      "enable_activity_maintenance_with_ads": true,
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_ads": false,
       "ad_network_order": "percent_order",
       "app_live_store" : "auto"
     },
 
     "ad_network": [
+       {
+        "name": "x_admob_heru",
+        "value": 99,
+
+        "appId_appKey_publisherId_gameId": "ca-app-pub-3261537079314282~2644051343",
+        "banner": "ca-app-pub-3261537079314282/2951135116",
+        "mrec": "ca-app-pub-3261537079314282/2951135116",
+        "inter": "ca-app-pub-3261537079314282/8227550512",
+        "native_ad": "ca-app-pub-3261537079314282/9624392661",
+        "open_ad": "ca-app-pub-3261537079314282/9324971776",
+        "splash_ad": true
+      },
       {
         "name": "x_startapp",
         "value": 1,
@@ -30,7 +42,7 @@
   "app_settings" : {
     "enable_intro_guide": false,
     "list_view_mode" : "mas_faiq",
-    "enable_native_list_mas_faiq": true,
+    "enable_native_list_mas_faiq": false,
     "enable_banner_mas_faiq" : true,
     "item_interval_native_ad_list": 3,
     "enable_acak_content": false,
