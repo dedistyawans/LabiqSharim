@@ -5,16 +5,29 @@
       "interval_interstitial": 2,
       "switch_ads_type": "only_banner",
       "interstitial_type": "lap",
-      "make_app_crash_when_app_not_live_at_play_store": true,
-      "enable_activity_maintenance_with_ads": true,
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_ads": false,
       "ad_network_order": "percent_order",
       "app_live_store" : "auto"
     },
 
     "ad_network": [
        {
-        "name": "x_admob_heru",
-        "value": 1,
+        "name": "fan_dedi",
+        "value": 9999,
+        "min_time": 120,
+
+        "appId_appKey_publisherId_gameId": "1099635251440358",
+        "banner": "1099635251440358_1099635861440297",
+        "mrec": "1099635251440358_1099635951440288",
+        "inter": "1099635251440358_1099636111440272",
+        "native_ad": "1099635251440358_1099636224773594",
+        "open_ad": "-",
+        "splash_ad": true
+      },
+       {
+        "name": "admob_heru",
+        "value": 99,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-3261537079314282~3389763596",
         "banner": "ca-app-pub-3261537079314282/3042596466",
@@ -25,7 +38,7 @@
         "splash_ad": true
       },
       {
-        "name": "x_startapp",
+        "name": "startapp",
         "value": 1,
 
         "appId_appKey_publisherId_gameId": "204306476",
@@ -42,7 +55,7 @@
   "app_settings" : {
     "enable_intro_guide": false,
     "list_view_mode" : "mas_faiq",
-    "enable_native_list_mas_faiq": true,
+    "enable_native_list_mas_faiq": false,
     "enable_banner_mas_faiq" : true,
     "item_interval_native_ad_list": 3,
     "enable_acak_content": false,
@@ -63,44 +76,107 @@
 
   "Categories": [
     {
-      "name_category": "Tutorial",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+      "name_category": "Intro",
+      "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/youtube-videos-professionals-intro-video-design-template-98493fe2a4bbcfd4920c1b52cc15a318_screen.jpg?ts=1616040080"
     },
     {
-      "name_category": "Tutorial 2",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+      "name_category": "Tutor",
+      "image": "https://t4.ftcdn.net/jpg/04/16/88/41/360_F_416884178_l0RFKZemsnhyxTRJiWy2K0QwgHVRFUlq.jpg"
     },
     {
-      "name_category": "Tutorial",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+      "name_category": "Tips",
+      "image": "https://s35691.pcdn.co/wp-content/uploads/2020/05/Transitioning-to-Distance-Learning-Three-Tips-for-Teachers.jpg"
     },
     {
-      "name_category": "Tutorial 2",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+      "name_category": "Hint",
+      "image": "https://img.freepik.com/premium-vector/light-bulb-lamp-icon-with-question-mark-inside-hint-symbol-problem-solution-icon-comic-style_501069-300.jpg?w=2000"
     }
   ],
 
   "Data": [
     {
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "name_category": "Intro",
+      "title": "What is Flow CV?",
+      "image": "https://chatgptfree.pro/wp-content/uploads/2023/02/Screenshot-2023-02-12-111307-min-768x483.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/what-is-flow-cv.html",
       "video_id": "null"
     },
     {
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "name_category": "Intro",
+      "title": "Who is the Founder of Flow CV?",
+      "image": "https://www.shutterstock.com/image-vector/founder-concept-keyword-people-icons-260nw-1819040600.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/who-is-founder-of-flow-cv.html",
       "video_id": "null"
     },
     {
-      "name_category": "Tutorial",
-      "title": "Video Youtube",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
-      "video_id": "mOW0jfmg8Fg"
+      "name_category": "Intro",
+      "title": "How to Login Flow CV?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1aax8tLfGJ0m2ngx8-OXhZrTqa0s3_8Rqvg&usqp=CAU",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/how-to-login-flow-cv.html",
+      "video_id": "null"
+    },
+      {
+      "name_category": "Tutor",
+      "title": "What Flow CV can do?",
+      "image": "https://chatgptfree.pro/wp-content/uploads/2023/02/Screenshot-2023-02-12-111433-min.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/what-flow-cv-can-do.html",
+      "video_id": "null"
+    },
+      {
+      "name_category": "Tutor",
+      "title": "Features of Flow CV in 2023",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSplQcVI0Nf7Nmma40CYlgFxGFD1YIwF23jbQ&usqp=CAU",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/features-of-flow-cv-in-2023.html",
+      "video_id": "null"
+    },
+      {
+      "name_category": "Tutor",
+      "title": "Mechanism & Basic Principles",
+      "image": "https://chatgptfree.pro/wp-content/uploads/2023/02/Screenshot-2023-02-12-111457-min-768x375.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/mechanism-basic-principles.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Tips",
+      "title": "Flow CV API",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfGTO6iAz0OXip8a7Sz08bs7X6-VbSQAnH6w&usqp=CAU",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/flow-cv-api.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Tips",
+      "title": "ChatGPT VS Flow CV",
+      "image": "https://png.pngtree.com/png-clipart/20210311/original/pngtree-versus-design-red-cartoon-png-image_6035967.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/chatgpt-vs-flow-cv.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Tips",
+      "title": "Why You Should Use Flow CV?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF6DZxYMSMibIrVY7z8xpxCwZVWgPkRWr-Yg&usqp=CAU",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/why-you-should-use-flow-cv.html",
+      "video_id": "null"
+    },
+    {
+      "name_category": "Hint",
+      "title": "What are the Disadvantages of Flow CV?",
+      "image": "https://chatgptfree.pro/wp-content/uploads/2023/02/Screenshot-2023-02-12-111415-min.png",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/what-are-disadvantages-of-flow-cv.html",
+      "video_id": "null"
+    },
+    {
+      "name_category": "Hint",
+      "title": "Flow CV Frequently Asked Questions",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVeLTJpzkyNmG4CqDyYPnWU0GCv7fiiWEKeQ&usqp=CAU",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/flow-cv-frequently-asked-questions.html",
+      "video_id": "null"
+    },
+    {
+      "name_category": "Hint",
+      "title": "Conclusion",
+      "image": "https://contenthub-static.grammarly.com/blog/wp-content/uploads/2021/01/how-to-write-conclusion-for-essay.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/conclusion_10.html",
+      "video_id": "null"
     }
   ]
 }
