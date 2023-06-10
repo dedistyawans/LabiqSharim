@@ -86,29 +86,96 @@
     {
       "name_category": "Advance Tips",
       "image": "https://thumbs.dreamstime.com/b/word-advance-made-wooden-cubes-yellow-background-word-advance-made-black-letters-small-wooden-cubes-yellow-191482590.jpg"
+    },
+     {
+      "name_category": "Advice",
+      "image": "https://natalialzam.files.wordpress.com/2021/06/tips-advice-blocks-tips-advice-d-blocks-black-text-spelling-crossword-style-white-104061412.jpeg"
     }
   ],
 
   "Data": [
     {
       "name_category": "Introduction",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "title": "What is SeatGuru?",
+      "image": "https://confessionsofatrolleydolly.files.wordpress.com/2017/06/best-and-worst-airline-seats-seating-on-a-plane.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/what-is-seatguru.html",
       "video_id": "null"
     },
     {
       "name_category": "Introduction",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "title": "How does SeatGuru work?",
+      "image": "https://confessionsofatrolleydolly.files.wordpress.com/2017/06/best-and-worst-airline-seats-seating-on-a-plane.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/how-does-seatguru-work.html",
       "video_id": "null"
     },
     {
       "name_category": "Introduction",
-      "title": "Video Youtube",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "title": "Seating details",
+      "image": "https://confessionsofatrolleydolly.files.wordpress.com/2017/06/best-and-worst-airline-seats-seating-on-a-plane.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/seating-details.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "Color-coded seats",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEObCfY2VfWf-WTgV2mirM0qkpSKrPFM7KjjLNF5UlJWfjbuHFneU3eqS5kWkszGHMloo&usqp=CAU",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/color-coded-seats.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "Seat descriptions",
+      "image": "https://i.insider.com/6350248e216b3e0018a3f166?width=1000&format=jpeg&auto=webp",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/seat-descriptions.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Tutorial",
+      "title": "Seat comparison charts",
+      "image": "https://aerospaceweb.org/question/planes/seating/b757-united-seating.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/seat-comparison-charts.html",
+      "video_id": "null"
+    },
+      {
+      "name_category": "Advance Tips",
+      "title": "Other information",
+      "image": "https://cdn2.vectorstock.com/i/1000x1000/74/46/chart-airplane-seat-plan-of-aircraft-passenger-vector-20827446.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/other-information.html",
+      "video_id": "null"
+    },
+      {
+      "name_category": "Advance Tips",
+      "title": "Popular airlines",
+      "image": "https://cdn.britannica.com/69/155469-131-14083F59/airplane-flight.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/popular-airlines.html",
+      "video_id": "null"
+    },
+      {
+      "name_category": "Advance Tips",
+      "title": "How to use SeatGuru to browse seats by inputting your flight number:",
+      "image": "https://images.financebuzz.com/filters:quality(75)/images/2021/08/04/seatguru1.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/how-to-use-seatguru-to-browse-seats-by.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Advice",
+      "title": "Pros and cons of SeatGuru",
+      "image": "https://t4.ftcdn.net/jpg/03/15/88/85/360_F_315888585_qefGFsY5UL06gjCPbyCckvT00gTTpbQW.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/pros-and-cons-of-seatguru.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Advice",
+      "title": "How to sign up for SeatGuru",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrzDOVUoy-dfoU0CUmzPU58iUsihyzjFe3RA&usqp=CAU",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/how-to-sign-up-for-seatguru.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Advice",
+      "title": "FAQs about SeatGuru",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/002/099/512/small/color-icon-frequently-asked-question-flat-illustration-vector.jpg",
+      "link": "https://labiqsharimguidev.blogspot.com/2023/06/faqs-about-seatguru.html",
       "video_id": "null"
     }
   ]
