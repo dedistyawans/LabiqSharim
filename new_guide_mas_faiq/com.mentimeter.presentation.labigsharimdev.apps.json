@@ -26,7 +26,7 @@
         "splash_ad": false
       },
        {
-        "name": "x_admob_heru",
+        "name": "admob_heru",
         "value": 100,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-3261537079314282~1055697575",
@@ -38,7 +38,7 @@
         "splash_ad": true
       },
       {
-        "name": "x_startapp",
+        "name": "startapp",
         "value": 1,
 
         "appId_appKey_publisherId_gameId": "204306476",
