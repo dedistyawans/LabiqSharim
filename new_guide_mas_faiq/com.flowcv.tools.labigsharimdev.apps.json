@@ -13,7 +13,7 @@
 
     "ad_network": [
        {
-        "name": "fan_dedi",
+        "name": "x_fan_dedi",
         "value": 9999,
         "min_time": 120,
 
