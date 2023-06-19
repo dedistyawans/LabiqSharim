@@ -22,11 +22,11 @@
         "mrec": "1099635251440358_1099635951440288",
         "inter": "1099635251440358_1099636111440272",
         "native_ad": "1099635251440358_1099636224773594",
-        "open_ad": "-",
-        "splash_ad": true
+        "open_ad": "off",
+        "splash_ad": false
       },
        {
-        "name": "admob_heru",
+        "name": "x_admob_heru",
         "value": 99,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-3261537079314282~3389763596",
@@ -38,7 +38,7 @@
         "splash_ad": true
       },
       {
-        "name": "startapp",
+        "name": "x_startapp",
         "value": 1,
 
         "appId_appKey_publisherId_gameId": "204306476",
