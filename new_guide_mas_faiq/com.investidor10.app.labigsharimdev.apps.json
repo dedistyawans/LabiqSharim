@@ -37,6 +37,19 @@
         "open_ad": "ca-app-pub-3261537079314282/8212821224",
         "splash_ad": true
       },
+       {
+        "name": "iron_dedi",
+        "value": 40,
+         "min_time":120,
+
+        "appId_appKey_publisherId_gameId": "1a7e771ad",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": true
+      },
       {
         "name": "startapp",
         "value": 1,
