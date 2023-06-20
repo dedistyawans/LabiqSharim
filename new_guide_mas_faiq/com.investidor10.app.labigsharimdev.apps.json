@@ -14,7 +14,7 @@
     "ad_network": [
        {
         "name": "x_fan_dedi",
-        "value": 9999,
+        "value": 0,
          "min_time" : 120,
 
         "appId_appKey_publisherId_gameId": "149659664694767",
@@ -27,7 +27,8 @@
       },
         {
         "name": "admob_heru",
-        "value": 99,
+        "value": 100,
+        "min_time":120,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-3261537079314282~8965885292",
         "banner": "ca-app-pub-3261537079314282/7574526974",
@@ -38,8 +39,23 @@
         "splash_ad": true
       },
        {
+        "name": "max_dedi",
+        "value": 100,
+         "min_time":120,
+         "open_ad_mode" : "interstitial",
+         "splash_ad_mode": "interstitial",
+
+        "appId_appKey_publisherId_gameId": "uMbA4cb7v9Slna1cimwIn_grKDiNma8HhBIHTIQrQ4uGeoKTkBM7CSJ6ICcrgVsH8v8smTTAWuVBMd02tk8GIv",
+        "banner": "bff54711944abc72",
+        "mrec": "-",
+        "inter": "58e235dc12c2113d",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": true
+      },
+       {
         "name": "iron_dedi",
-        "value": 40,
+        "value": 1,
          "min_time":120,
 
         "appId_appKey_publisherId_gameId": "1a7e771ad",
